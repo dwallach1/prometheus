@@ -216,7 +216,7 @@ class DecisionMaker():
                         profit=(amount_to_sell * current_price) - value_accumulated,
                         linked_buy_decisions=[decision["uuid"] for decision in to_sell]
                     )
-                    self.close_open_decisions(to_sell, current_price)
+                    self.close_open_decisions(to_sell, sell_decision.uuid(), current_price)
                     decisions.append(sell_decision)
         
         if len(decisions) == 0:
@@ -262,9 +262,21 @@ class DecisionMaker():
         print(f"Saved decisions to database {res}.")
 
     
-    def close_open_decisions(self, buy_decisions: [any], current_price: float):
-        self.logger.info("TODO IMPLEMENT CLOSE OPEN DECISIONS FUNCTION")
-        pass
+    def close_open_decisions(self, buy_decisions: [any], closed_by: str, current_price: float):
+        for decision in buy_decisions:
+            decision_id = decision["uuid"]
+            self.logger.info(f"Closing buy order {decision_id}")
+            updated_decision = {
+                "is_open": False,
+                "close_price": current_price,
+                "close_time": datetime.now(),
+                "closed_by": closed_by,
+                "profit": (float(decision["amount"]) * current_price) - float(decision["value"])
+            }
+            self.mongo_client[self.db_name][self.collection_name].update_one(
+                {"uuid": decision_id},
+                {"$set": updated_decision}
+            )
 
 
 def parse_config(cb_accounts) -> [Asset]:
