@@ -4,14 +4,12 @@ import logging
 from logging.handlers import RotatingFileHandler
 import json
 from enum import Enum
-import math
 from coinbase.rest import RESTClient
 from json import dumps
 from dotenv import dotenv_values
 from pymongo.mongo_client import MongoClient
 from pymongo.server_api import ServerApi
-from datetime import datetime, timezone, timedelta
-from zoneinfo import ZoneInfo
+from datetime import datetime
 import uuid
 from decisions import Decision, DecisionType, Enviorment, BestMatchBelowThresholdDecision, BuyDecision, SellDecision
 from assets import Asset
@@ -22,7 +20,6 @@ DEFAULT_CONFIG_PATH = "config.json"
 USDC_SYMBOL = "USDC"
 ONE_HOUR = 60 * 60
 DECISION_BUFFER = ONE_HOUR
-east_coast_tz = ZoneInfo("America/New_York")
 
 
 class DecisionMaker():
@@ -54,18 +51,18 @@ class DecisionMaker():
         self.logger.info("Getting buying power")
         account = self.cb_client.get_account(self.usdc_account_id)
         usdc_balance = float(account["account"]["available_balance"]["value"])
-        self.logger.info(f"💰 USDC balance: {usdc_balance} as of {datetime.now(tz=east_coast_tz)}")
+        self.logger.info(f"💰 USDC balance: {usdc_balance} as of {datetime.now()}")
         return usdc_balance
     
     def get_asset_balance(self) -> float:
         self.logger.info("Getting asset balances")
         account = self.cb_client.get_account(self.asset_config.account_id)
         asset_balance = float(account["account"]["available_balance"]["value"])
-        self.logger.info(f"💰 {self.asset_config.symbol} balance: {asset_balance} as of {datetime.now(tz=east_coast_tz)}")
+        self.logger.info(f"💰 {self.asset_config.symbol} balance: {asset_balance} as of {datetime.now()}")
         return asset_balance
 
     def compute_decisions(self):
-        now = datetime.now(tz=east_coast_tz)
+        now = datetime.now()
         decisions = []
         self.logger.info(f"💡 computing decisions for {self.asset_config.symbol} at {now}")
         buying_power = self.get_buying_power()
