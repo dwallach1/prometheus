@@ -55,6 +55,9 @@ class Decision():
         attrs['decision_type'] = self.decision_type.value
         return attrs
 
+    def uuid(self):
+        return self.uuid
+
 class BuyDecision(Decision): 
 
     def __init__(
