@@ -245,21 +245,23 @@ class DecisionMaker():
             'symbol': self.asset_config.symbol,
             'enviorment': self.enviorment.value
         })
-        return [result for result in res]
+        open_decisions = [result for result in res]
+        open_decisions_uuids = [decision["uuid"] for decision in open_decisions]
+        self.logger.info(f"found {len(open_decisions)} open decisions: {open_decisions_uuids}")
+        return open_decisions
 
     def place_order(self, action):
         """save to mongo for now. In the future, we will place orders on coinbase as well"""
         if self.enviorment == Enviorment.DRYRUN:
-            print(f"🛑 DRYRUN mode detected. Not placing any real orders")
+            self.logger.info(f"🛑 DRYRUN mode detected. Not placing any real orders")
             return
         #  conversion = self.cb_client.create_convert(from_currency=from_currency, to_currency=to_currency, amount=amount)
         pass
         
     def save_decisions_to_db(self, decisions: [Decision]):
         data = [d.get_attributes() for d in decisions]
-        print (data)
         res = self.mongo_client[self.db_name][self.collection_name].insert_many(data)
-        print(f"Saved decisions to database {res}.")
+        self.logger.info(f"Saved decisions to database {res}")
 
     
     def close_open_decisions(self, buy_decisions: [any], closed_by: str, current_price: float):
