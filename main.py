@@ -13,13 +13,8 @@ from pymongo.server_api import ServerApi
 from datetime import datetime, timezone, timedelta
 from zoneinfo import ZoneInfo
 import uuid
-from decisions import Decision, DecisionType, Enviorment
+from decisions import Decision, DecisionType, Enviorment, BestMatchBelowThresholdDecision, BuyDecision, SellDecision
 from assets import Asset
-
-# https://docs.cloud.coinbase.com/advanced-trade-api/docs/welcome
-# https://docs.cloud.coinbase.com/exchange/docs/welcome
-# https://docs.cloud.coinbase.com/advanced-trade-api/docs/sdk-overview
-
 
 # https://docs.cloud.coinbase.com/advanced-trade-api/reference/retailbrokerageapi_getproduct
 
@@ -65,12 +60,13 @@ class DecisionMaker():
     def get_asset_balance(self) -> float:
         self.logger.info("Getting asset balances")
         account = self.cb_client.get_account(self.asset_config.account_id)
-        asset_balance = account["account"]["available_balance"]["value"]
+        asset_balance = float(account["account"]["available_balance"]["value"])
         self.logger.info(f"💰 {self.asset_config.symbol} balance: {asset_balance} as of {datetime.now(tz=east_coast_tz)}")
         return asset_balance
 
     def compute_decisions(self):
         now = datetime.now(tz=east_coast_tz)
+        decisions = []
         self.logger.info(f"💡 computing decisions for {self.asset_config.symbol} at {now}")
         buying_power = self.get_buying_power()
         has_enough_buying_power = buying_power > self.asset_config.amount_to_buy * 1.5
@@ -85,51 +81,174 @@ class DecisionMaker():
         price_percentage_change_24h = float(product["price_percentage_change_24h"])
         volume_percentage_change_24h = float(product["volume_percentage_change_24h"])
         volume_24h = float(product["volume_24h"])
+        total_asset_holdings_value = asset_balance * current_price
         self.logger.info("asset prices: {}".format({
             'current_price': current_price,
             'price_percentage_change_24h': price_percentage_change_24h,
             'volume_percentage_change_24h': volume_percentage_change_24h,
-            'volume_24h': volume_24h
+            'volume_24h': volume_24h,
+            'total_asset_holdings_value': total_asset_holdings_value
         }))
 
 
-        if price_percentage_change_24h > self.asset_config.price_percentage_change_threshold:
-            self.logger.info(f"📈 Price percentage change in 24h is above threshold")
+        if price_percentage_change_24h < self.asset_config.buy_price_percentage_change_threshold:
+            self.logger.info(f"🟢 Price percentage change in 24h is above threshold [{price_percentage_change_24h}]")
             if has_enough_buying_power:
-                self.logger.info(f"💰 Buying power is sufficient")
+                self.logger.info(f"🟢 Buying power is sufficient")
                 open_buy_orders = self.make_buy_decisions()
-                if len(open_buy_orders) > 0:
-                    self.logger.info(f"🚀 Placing buy orders")
-                    for order in open_buy_orders:
-                        self.place_order(order)
+                if len(open_buy_orders) < self.asset_config.max_open_buys:
+                    self.logger.info(f"🚀 Placing buy order")
+                    amount_to_buy = self.asset_config.amount_to_buy / current_price
+                    # todo place buy order
+                    # get the orderId and other relevant info from buy order
+                    order_result = self.place_buy_order()
+                    buy_decision = BuyDecision(
+                        enviorment=self.enviorment,
+                        price=current_price,
+                        symbol=self.asset_config.symbol,
+                        asset_balance=asset_balance,
+                        total_asset_value=total_asset_holdings_value,
+                        usdc_balance=buying_power,
+                        volume_24h=volume_24h,
+                        volume_percentage_change_24h=volume_percentage_change_24h,
+                        price_percentage_change_24h=price_percentage_change_24h,
+                        coinbase_order=order_result,
+                        # todo: replace this with actual values from 
+                        amount=amount_to_buy,
+                        value=amount_to_buy * current_price
+                    )
+                    decisions.append(buy_decision)
                 else:
-                    self.logger.info(f"🛑 No buy orders to place")
+                    self.logger.info(f"too mamy open buy orders ({len(open_buy_orders)} >= {self.asset_config.max_open_buys})")
+                    decision = Decision(
+                        decision_type=DecisionType.TOO_MANY_OPEN_BUYS,
+                        enviorment=self.enviorment,
+                        price=current_price,
+                        symbol=self.asset_config.symbol,
+                        asset_balance=asset_balance,
+                        total_asset_value=total_asset_holdings_value,
+                        usdc_balance=buying_power,
+                        volume_24h=volume_24h,
+                        volume_percentage_change_24h=volume_percentage_change_24h,
+                        price_percentage_change_24h=price_percentage_change_24h
+                    )
+                    decisions.append(decision)
             else:
                 self.logger.warn(f"🛑 Not enough buying power to place buy orders")
+                decision = Decision(
+                    decision_type=DecisionType.NOT_ENOUGH_BUYING_POWER,
+                    enviorment=self.enviorment,
+                    price=current_price,
+                    symbol=self.asset_config.symbol,
+                    asset_balance=asset_balance,
+                    total_asset_value=total_asset_holdings_value,
+                    usdc_balance=buying_power,
+                    volume_24h=volume_24h,
+                    volume_percentage_change_24h=volume_percentage_change_24h,
+                    price_percentage_change_24h=price_percentage_change_24h
+                )
         
         else:
-            self.logger.info(f"🛑 Price percentage change in 24h is below threshold ({price_percentage_change_24h} > {self.asset_config.price_percentage_change_threshold})")
+            self.logger.info(f"🛑 Price percentage change in 24h does not meet buying threshold ({price_percentage_change_24h} > {self.asset_config.buy_price_percentage_change_threshold})")
 
 
-        # decide if we should buy based on rate_of_change
-        # if theres too many open decisions, dont buy but make TOO_MANY_OPEN_BUYS decision to record hypothetically would have bought
+        #  CHECK OPEN BUYS
+        if len(open_decisions) > 0:
+            best_match = None
+            best_match_price_delta = -float('inf')
+            best_match_hypothetical_profit = 0
+            to_sell = []
+            for decision in open_decisions:
+                decision_price = float(decision["price"])
+                decision_amount = float(decision["amount"])
+                decision_value = float(decision["value"])
+                price_delta = ((current_price - decision_price) / decision_price) * 100
+                if price_delta > self.asset_config.sell_price_percentage_change_threshold:
+                    to_sell.append(decision)
+                    decision_id = decision["uuid"]
+                    self.logger.info(f"🚀 Placing sell order for {decision_id}")
+                if price_delta > best_match_price_delta:
+                    best_match = decision
+                    best_match_price_delta = price_delta
+                    best_match_hypothetical_profit = (decision_amount * current_price) - decision_value
+            
+            if len(to_sell) == 0:
+                self.logger.info(f"🛑 No open buy orders to sell")
+                # save BEST_MATCH_BELOW_THRESHOLD decision
+                best_match_id = best_match["uuid"]
+                decision = BestMatchBelowThresholdDecision(
+                    enviorment=self.enviorment,
+                    price=current_price,
+                    symbol=self.asset_config.symbol,
+                    asset_balance=asset_balance,
+                    total_asset_value=total_asset_holdings_value,
+                    usdc_balance=buying_power,
+                    volume_24h=volume_24h,
+                    volume_percentage_change_24h=volume_percentage_change_24h,
+                    price_percentage_change_24h=price_percentage_change_24h,
 
-        # else create SKIP decision to record the rate of change we skipped on
+                    percentage_delta=best_match_price_delta,
+                    hypothetical_profit=best_match_hypothetical_profit,
+                    associated_buy_decision=best_match_id
+                )
+                decisions.append(decision)
+            else:
+                amount_to_sell = float(0)
+                value_accumulated = float(0)
+                for decision in to_sell:
+                    amount_to_sell += float(decision["amount"])
+                    value_accumulated += float(decision["value"])
+          
+                    # place sell order
+                    # get the orderId and other relevant info from sell order
+                    order_result = self.place_sell_order()
+                    sell_decision = SellDecision(
+                        enviorment=self.enviorment,
+                        price=current_price,
+                        symbol=self.asset_config.symbol,
+                        asset_balance=asset_balance,
+                        total_asset_value=total_asset_holdings_value,
+                        usdc_balance=buying_power,
+                        volume_24h=volume_24h,
+                        volume_percentage_change_24h=volume_percentage_change_24h,
+                        price_percentage_change_24h=price_percentage_change_24h,
+                        current_price=current_price,
+                        cointbase_order=order_result,
+                        amount=amount_to_sell,
+                        value=amount_to_sell * current_price,
+                        profit=(amount_to_sell * current_price) - value_accumulated,
+                        linked_buy_decisions=[decision["uuid"] for decision in to_sell]
+                    )
+                    self.close_open_decisions(to_sell, current_price)
+                    decisions.append(sell_decision)
+        
+        if len(decisions) == 0:
+            self.logger.info(f"No decisions mad... generating a skip decision")
+            # make SKIPPED decision
+            decision = Decision(
+                decision_type=DecisionType.SKIP,
+                enviorment=self.enviorment,
+                price=current_price,
+                symbol=self.asset_config.symbol,
+                asset_balance=asset_balance,
+                total_asset_value=total_asset_holdings_value,
+                usdc_balance=buying_power,
+                volume_24h=volume_24h,
+                volume_percentage_change_24h=volume_percentage_change_24h,
+                price_percentage_change_24h=price_percentage_change_24h,
+            )
+            decisions.append(decision)
+        
+        self.save_decisions_to_db(decisions)
 
-        # if theres open buys, see if we shuold make sell decisions.
-        # for each open buy, see if we can sell for > 10% profit. If so, make a SELL decision
-        # if no SELLs but yes there are open buys, record a BEST_MATCH_BELOW_THRESHOLD and record the hypotheticall profit percentage
-
-    def get_open_decisions(self) -> [Decision]:
-        # print ("todo: get open decisions")
-        return []
-
-    def make_sell_decisions(self) -> [Decision]:
-        pass
-
-    def make_buy_decisions(self) -> Decision:
-        open_buy_orders = []
-        return open_buy_orders
+    def get_open_decisions(self) -> [any]:
+        res = self.mongo_client[self.db_name][self.collection_name].find({
+            'decision_type': DecisionType.BUY.value,
+            'is_open': True,
+            'symbol': self.asset_config.symbol,
+            'enviorment': self.enviorment.value
+        })
+        return [result for result in res]
 
     def place_order(self, action):
         """save to mongo for now. In the future, we will place orders on coinbase as well"""
@@ -140,12 +259,15 @@ class DecisionMaker():
         pass
         
     def save_decisions_to_db(self, decisions: [Decision]):
-        client = MongoClient('your_mongodb_uri')
-        db = client.your_database_name
-        decisions_collection = db.decisions
-        decision_data = self.get_attributes()  # Get all attributes of the instance
-        decisions_collection.insert_one(decision_data)
-        print(f"Saved {self.decision_type} decision to database.")
+        data = [d.get_attributes() for d in decisions]
+        print (data)
+        res = self.mongo_client[self.db_name][self.collection_name].insert_many(data)
+        print(f"Saved decisions to database {res}.")
+
+    
+    def close_open_decisions(self, buy_decisions: [any], current_price: float):
+        self.logger.info("TODO IMPLEMENT CLOSE OPEN DECISIONS FUNCTION")
+        pass
 
 
 def parse_config(cb_accounts) -> [Asset]:
@@ -164,7 +286,8 @@ def parse_config(cb_accounts) -> [Asset]:
             asset["symbol"],
             account["uuid"],
             float(asset["amount_to_buy_usd"]),
-            float(asset["price_percentage_change_threshold"]),
+            float(asset["buy_price_percentage_change_threshold"]),
+            float(asset["sell_price_percentage_change_threshold"]),
             float(asset["max_open_buys"])
         )
         

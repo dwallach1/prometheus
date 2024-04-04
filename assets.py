@@ -7,13 +7,15 @@ class Asset():
             symbol: str, 
             account_id: str,
             amount_to_buy: float, 
-            price_percentage_change_threshold: float, 
+            buy_price_percentage_change_threshold: float, 
+            sell_price_percentage_change_threshold: float,
             max_open_buys: int):
         self.name = name
         self.symbol = symbol
         self.account_id = account_id
         self.amount_to_buy = amount_to_buy
-        self.price_percentage_change_threshold = price_percentage_change_threshold
+        self.buy_price_percentage_change_threshold = buy_price_percentage_change_threshold
+        self.sell_price_percentage_change_threshold = sell_price_percentage_change_threshold
         self.max_open_buys = max_open_buys
 
     def __str__(self):
@@ -25,8 +27,11 @@ class Asset():
     def amount_to_buy(self):
         return self.amount_to_buy
     
-    def price_percentage_change_threshold(self):
-        return self.price_percentage_change_threshold
+    def buy_price_percentage_change_threshold(self):
+        return self.buy_price_percentage_change_threshold
+    
+    def sell_price_percentage_change_threshold(self):
+        return self.sell_price_percentage_change_threshold
     
     def max_open_buys(self):
         return self.max_open_buys

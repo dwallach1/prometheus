@@ -12,14 +12,16 @@ Example asset config (config.json)
             "name": "Bitcoin",
             "symbol": "BTC",
             "amount_to_buy_usd": 500,
-            "price_percentage_change_threshold": 5.0,
+            "buy_price_percentage_change_threshold": 5.0,
+            "sell_price_percentage_change_threshold": 10.0,
             "max_open_buys": 5
         },
         {
             "name": "Ethereum",
             "symbol": "ETH",
             "amount_to_buy_usd": 500,
-            "price_percentage_change_threshold": 5.0,
+            "buy_price_percentage_change_threshold": 5.0,
+            "sell_price_percentage_change_threshold": 10.0,
             "max_open_buys": 5
         }
     ]
