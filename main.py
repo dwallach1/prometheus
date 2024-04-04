@@ -20,7 +20,7 @@ DEFAULT_CONFIG_PATH = "config.json"
 USDC_SYMBOL = "USDC"
 ONE_HOUR = 60 * 60
 DECISION_BUFFER = ONE_HOUR
-
+BUY_BUFFER = ONE_HOUR * 12
 
 class DecisionMaker():
 
@@ -51,18 +51,18 @@ class DecisionMaker():
         self.logger.info("Getting buying power")
         account = self.cb_client.get_account(self.usdc_account_id)
         usdc_balance = float(account["account"]["available_balance"]["value"])
-        self.logger.info(f"USDC balance: {usdc_balance} as of {datetime.now()}")
+        self.logger.info(f"USDC balance: {usdc_balance} as of {datetime.utcnow()}")
         return usdc_balance
     
     def get_asset_balance(self) -> float:
         self.logger.info("Getting asset balances")
         account = self.cb_client.get_account(self.asset_config.account_id)
         asset_balance = float(account["account"]["available_balance"]["value"])
-        self.logger.info(f"{self.asset_config.symbol} balance: {asset_balance} as of {datetime.now()}")
+        self.logger.info(f"{self.asset_config.symbol} balance: {asset_balance} as of {datetime.utcnow()}")
         return asset_balance
 
     def compute_decisions(self):
-        now = datetime.now()
+        now = datetime.utcnow()
         decisions = []
         self.logger.info(f"computing decisions for {self.asset_config.symbol} at {now}")
         buying_power = self.get_buying_power()
@@ -79,18 +79,23 @@ class DecisionMaker():
         volume_percentage_change_24h = float(product["volume_percentage_change_24h"])
         volume_24h = float(product["volume_24h"])
         total_asset_holdings_value = asset_balance * current_price
-        self.logger.info("asset prices: {}".format({
-            'current_price': current_price,
-            'price_percentage_change_24h': price_percentage_change_24h,
-            'volume_percentage_change_24h': volume_percentage_change_24h,
-            'volume_24h': volume_24h,
-            'total_asset_holdings_value': total_asset_holdings_value
-        }))
+        self.logger.info("asset prices: {}".format(
+            json.dumps({
+                'current_price': current_price,
+                'price_percentage_change_24h': price_percentage_change_24h,
+                'volume_percentage_change_24h': volume_percentage_change_24h,
+                'volume_24h': volume_24h,
+                'total_asset_holdings_value': total_asset_holdings_value
+            }, indent=4)
+        ))
 
 
         if price_percentage_change_24h < self.asset_config.buy_price_percentage_change_threshold:
             self.logger.info(f"🟢 Price percentage change in 24h is above threshold [{price_percentage_change_24h}]")
-            if has_enough_buying_power:
+            buy_buffer_check = self.check_buy_buffer(open_decisions)
+            if not buy_buffer_check:
+                self.logger.warn(f"🛑 Buy buffer not met")
+            elif has_enough_buying_power:
                 self.logger.info(f"🟢 Buying power is sufficient")
                 open_buy_orders = self.make_buy_decisions()
                 if len(open_buy_orders) < self.asset_config.max_open_buys:
@@ -244,11 +249,22 @@ class DecisionMaker():
             'is_open': True,
             'symbol': self.asset_config.symbol,
             'enviorment': self.enviorment.value
-        })
+        }).sort("timestamp", -1)
         open_decisions = [result for result in res]
         open_decisions_uuids = [decision["uuid"] for decision in open_decisions]
         self.logger.info(f"found {len(open_decisions)} open decisions: {open_decisions_uuids}")
         return open_decisions
+
+    def check_buy_buffer(self, open_decisions: [any]) -> bool:
+        if len(open_decisions) == 0:
+            return True
+        # becasue we are sorting by timestamp in descending order, the first element is the most recent
+        last_decision = open_decisions[0]
+        last_decision_timestamp = last_decision["timestamp"]
+        self.logger.info("last decision timestamp: " + str(last_decision_timestamp))
+        now = datetime.utcnow()
+        time_delta = now - last_decision_timestamp
+        return time_delta.total_seconds() > BUY_BUFFER
 
     def place_order(self, action):
         """save to mongo for now. In the future, we will place orders on coinbase as well"""
@@ -263,7 +279,6 @@ class DecisionMaker():
         res = self.mongo_client[self.db_name][self.collection_name].insert_many(data)
         self.logger.info(f"Saved decisions to database {res}")
 
-    
     def close_open_decisions(self, buy_decisions: [any], closed_by: str, current_price: float):
         for decision in buy_decisions:
             decision_id = decision["uuid"]
@@ -271,7 +286,7 @@ class DecisionMaker():
             updated_decision = {
                 "is_open": False,
                 "close_price": current_price,
-                "close_time": datetime.now(),
+                "close_time": datetime.utcnow(),
                 "closed_by": closed_by,
                 "profit": (float(decision["amount"]) * current_price) - float(decision["value"])
             }

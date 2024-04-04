@@ -25,3 +25,16 @@ Example asset config (config.json)
     ]
 }
 ```
+
+Tester:
+```python
+result = mongo_client[DB_NAME][DB_COLLECTION].find().sort("timestamp", -1).limit(1)
+res = [r for r in result]
+print (f"last decision: {res}")
+last_decision_timestamp: datetime = res[0]["timestamp"]
+now = datetime.utcnow()
+print (f"decision_time: {last_decision_timestamp}, now: {now}")
+time_delta = now - last_decision_timestamp
+print (f"delta: {time_delta.total_seconds()}, buffer: {BUY_BUFFER}")
+return
+```

@@ -41,7 +41,7 @@ class Decision():
         self.volume_24h = volume_24h
         self.volume_percentage_change_24h = volume_percentage_change_24h
         self.price_percentage_change_24h = price_percentage_change_24h
-        self.timestamp = datetime.now()
+        self.timestamp = datetime.utcnow()
         unique_id = uuid.uuid4()
         self.uuid = str(unique_id)
         
