@@ -51,20 +51,20 @@ class DecisionMaker():
         self.logger.info("Getting buying power")
         account = self.cb_client.get_account(self.usdc_account_id)
         usdc_balance = float(account["account"]["available_balance"]["value"])
-        self.logger.info(f"💰 USDC balance: {usdc_balance} as of {datetime.now()}")
+        self.logger.info(f"USDC balance: {usdc_balance} as of {datetime.now()}")
         return usdc_balance
     
     def get_asset_balance(self) -> float:
         self.logger.info("Getting asset balances")
         account = self.cb_client.get_account(self.asset_config.account_id)
         asset_balance = float(account["account"]["available_balance"]["value"])
-        self.logger.info(f"💰 {self.asset_config.symbol} balance: {asset_balance} as of {datetime.now()}")
+        self.logger.info(f"{self.asset_config.symbol} balance: {asset_balance} as of {datetime.now()}")
         return asset_balance
 
     def compute_decisions(self):
         now = datetime.now()
         decisions = []
-        self.logger.info(f"💡 computing decisions for {self.asset_config.symbol} at {now}")
+        self.logger.info(f"computing decisions for {self.asset_config.symbol} at {now}")
         buying_power = self.get_buying_power()
         has_enough_buying_power = buying_power > self.asset_config.amount_to_buy * 1.5
         if not has_enough_buying_power:
@@ -220,7 +220,7 @@ class DecisionMaker():
                     decisions.append(sell_decision)
         
         if len(decisions) == 0:
-            self.logger.info(f"No decisions mad... generating a skip decision")
+            self.logger.info(f"no decisions made... generating a skip decision")
             # make SKIPPED decision
             decision = Decision(
                 decision_type=DecisionType.SKIP,
@@ -387,7 +387,7 @@ def main():
         raise Exception(f"❌ could not find account for {USDC_SYMBOL}")
     usdc_account_id = usdc_account["uuid"]
     assets = parse_config(cb_accounts)
-        
+
     while True:
         for asset_config in assets:
             transaction_id = uuid.uuid4()
@@ -404,7 +404,7 @@ def main():
                 usdc_account_id
             )
             decisionMaker.compute_decisions()
-            logger.info(f"🥂 finished making decisions :)")
+            logger.info(f"finished making decisions :)")
         time.sleep(DECISION_BUFFER)
 
 if __name__ == "__main__":
