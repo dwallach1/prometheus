@@ -5,7 +5,7 @@
             "symbol": "BTC",
             "amount_to_buy_usd": 500,
             "buy_price_percentage_change_threshold": -5.0,
-            "sell_price_percentage_change_threshold": 10.0,
+            "sell_price_percentage_change_threshold": 12.0,
             "max_open_buys": 5
         },
         {
@@ -13,7 +13,7 @@
             "symbol": "ETH",
             "amount_to_buy_usd": 500,
             "buy_price_percentage_change_threshold": -5.0,
-            "sell_price_percentage_change_threshold": 10.0,
+            "sell_price_percentage_change_threshold": 12.0,
             "max_open_buys": 5
         },
         {
@@ -21,7 +21,7 @@
             "symbol": "SOL",
             "amount_to_buy_usd": 500,
             "buy_price_percentage_change_threshold": -5.0,
-            "sell_price_percentage_change_threshold": 10.0,
+            "sell_price_percentage_change_threshold": 12.0,
             "max_open_buys": 5
         }
     ]
