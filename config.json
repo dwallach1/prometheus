@@ -24,5 +24,11 @@
             "sell_price_percentage_change_threshold": 10.0,
             "max_open_buys": 5
         }
-    ]
+    ],
+    "portfolio": {
+        "name": "PROMETHEUS",
+        "uuid": "bbd9cd2b-742e-4e8e-a80f-156745317d48",
+        "type": "CONSUMER",
+        "deleted": false
+    }
 }
