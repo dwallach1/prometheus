@@ -133,33 +133,36 @@ class DecisionMaker():
         # CHECK SELL CONDITIONS
         if len(open_buy_decisions) > 0:
             best_match = None
-            best_match_price_delta = -float('inf')
+            best_match_price_percent_delta = -float('inf')
             best_match_hypothetical_profit = 0
             to_sell = []
             for decision in open_buy_decisions:
                 decision_price = float(decision["context"]["price"])
                 decision_amount = float(decision["amount"])
                 decision_value = float(decision["value"])
-                price_delta = ((current_price - decision_price) / decision_price) * 100
-                if price_delta > self.asset_config.sell_price_percentage_change_threshold:
+                price_percent_delta = ((current_price - decision_price) / decision_price) * 100
+                if price_percent_delta > self.asset_config.sell_price_percentage_change_threshold:
                     to_sell.append(decision)
                     decision_id = decision["uuid"]
                     self.logger.info(f"🚀 Placing sell order for {decision_id}")
-                if price_delta > best_match_price_delta:
+                if price_percent_delta > best_match_price_percent_delta:
                     best_match = decision
-                    best_match_price_delta = price_delta
+                    best_match_price_percent_delta = price_percent_delta
                     best_match_hypothetical_profit = (decision_amount * current_price) - decision_value
 
             if len(to_sell) == 0:
-                self.logger.info("no open buy orders meet sell threshold, saving best match below threshold decision")
                 best_match_id = best_match["uuid"]
-                decision = BestMatchBelowThresholdDecision(
-                    context=context,
-                    percentage_delta=best_match_price_delta,
-                    hypothetical_profit=best_match_hypothetical_profit,
-                    associated_buy_decision=best_match_id
-                )
-                decisions.append(decision)
+                self.logger.info(f"no sells found, found best match: {best_match_id} with delta {best_match_price_percent_delta}")
+                if best_match_price_percent_delta > 5.0:
+                    # we want to get info on the right sell threshold. so use this decision to house that
+                    decision = BestMatchBelowThresholdDecision(
+                        context=context,
+                        percentage_delta=best_match_price_percent_delta,
+                        hypothetical_profit=best_match_hypothetical_profit,
+                        associated_buy_decision=best_match_id
+                    )
+                    # save directly to db instead of appending to decisions
+                    self.save_decisions_to_db([decision])
             else:
                 self.logger.info(f"found {len(to_sell)} open buy orders to sell")
                 sell_decision = self.place_sell_order(context, to_sell)
@@ -168,7 +171,7 @@ class DecisionMaker():
                     decisions.append(sell_decision)
 
         if len(decisions) == 0:
-            self.logger.info("no decisions made... generating a skip decision")
+            self.logger.info("no decisions made (no buys or sells)... generating a skip decision")
             decision = Decision(decision_type=DecisionType.SKIP, context=context)
             decisions.append(decision)
 
@@ -240,8 +243,7 @@ class DecisionMaker():
                 self.logger.warning(f"real order error: {real_order['errs']}")
             else:
                 actualualized = True
-                value = float(preview_order["quote_size"])
-                amount = float(preview_order["base_size"])
+                # the real order doesnt contain the quote size or base size, so we use the preview order
 
         decision = BuyDecision(
             context=context,
@@ -258,16 +260,15 @@ class DecisionMaker():
     def place_sell_order(self, context: DecisionContext, buy_decsions_to_sell: [any]) -> Decision:
         self.logger.info(f"🚀 Placing SELL order for {self.asset_config.symbol}")
         amount_to_sell = float(0)
-        value_accumulated = float(0)
+        value_at_purchase = float(0)
         for decision in buy_decsions_to_sell:
             amount_to_sell += float(decision["amount"])
-            value_accumulated += float(decision["value"])
+            value_at_purchase += float(decision["value"])
 
         amount_as_string = "f{amount_to_sell:.4f}"
         self.logger.info(f"selling {amount_as_string} {self.asset_config.symbol}")
         successful = True
         errors = []
-        order_total = 0.0
         value = 0.0
         amount = 0.0
         preview_order = self.cb_client.preview_market_order_sell(
@@ -281,7 +282,6 @@ class DecisionMaker():
             successful = False
 
         preview_order_total = float(preview_order["order_total"])
-        order_total = preview_order_total
         if preview_order_total > MAX_SELL_AMOUNT:
             self.logger.warning("preview order total too high: {preview_order_total}")
             errors.append("preview order total too high")
@@ -298,23 +298,23 @@ class DecisionMaker():
                 product_id=self.product_id,
                 base_size=amount_as_string,
             )
-            real_order_total = float(real_order["order_total"])
-            order_total = real_order_total
             self.logger.info(f"sell order => {json.dumps(real_order, indent=4)}")
             if "errs" in real_order and len(real_order["errs"]) > 0:
                 self.logger.warning(f"real order error: {real_order['errs']}")
             else:
                 actualualized = True
-                value = float(preview_order["quote_size"])
-                amount = float(preview_order["base_size"])
+                # the real order doesnt contain the quote size or base size, so we use the preview order
 
-        profit = order_total - value_accumulated
+        profit = value - value_at_purchase
         self.logger.info(f"sell order profit: {profit}")
         decision = SellDecision(
             context=context,
-            amount=amount_to_sell,
-            value=order_total,
-            profit=profit,
+            amount=amount,
+            value=value,
+            buy_amount=amount_to_sell,
+            buy_value=value_at_purchase,
+            profit_usd=profit,
+            protit_asset_amount=profit / float(context.price),
             linked_buy_decisions=[decision["uuid"] for decision in buy_decsions_to_sell],
             preview_result=preview_order,
             trade_result=real_order,

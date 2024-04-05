@@ -121,17 +121,21 @@ class SellDecision(Decision):
             # custom attributes
             amount: float,
             value: float,
-            profit: float,
+            buy_amount: float,
+            buy_value: float,
+            profit_usd: float,
             linked_buy_decisions: [str],
             preview_result: any,
             trade_result: any,
             actualualized: bool,
             is_successful: bool,
             errors: [str]):
-
+        super().__init__(DecisionType.SELL, context)
         self.amount = amount
         self.value = value
-        self.profit = profit
+        self.buy_amount = buy_amount
+        self.buy_value = buy_value
+        self.profit_usd = profit_usd
         self.linked_buy_decisions = linked_buy_decisions
         self.preview_result = preview_result
         self.trade_result = trade_result
