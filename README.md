@@ -26,15 +26,23 @@ Example asset config (config.json)
 }
 ```
 
-Tester:
-```python
-result = mongo_client[DB_NAME][DB_COLLECTION].find().sort("timestamp", -1).limit(1)
-res = [r for r in result]
-print (f"last decision: {res}")
-last_decision_timestamp: datetime = res[0]["timestamp"]
-now = datetime.utcnow()
-print (f"decision_time: {last_decision_timestamp}, now: {now}")
-time_delta = now - last_decision_timestamp
-print (f"delta: {time_delta.total_seconds()}, buffer: {BUY_BUFFER}")
-return
+
+Example Market buy response (success)
+```json
+{
+    "success": true,
+    "failure_reason": "UNKNOWN_FAILURE_REASON",
+    "order_id": "30300590-9040-4f58-a0c0-a53cf97a3adf",
+    "success_response": {
+        "order_id": "30300590-9040-4f58-a0c0-a53cf97a3adf",
+        "product_id": "SOL-USD",
+        "side": "BUY",
+        "client_order_id": "b3ff6bc3-8cb7-4347-bd2a-bd6c15985604"
+    },
+    "order_configuration": {
+        "market_market_ioc": {
+            "quote_size": "500.0000"
+        }
+    }
+}
 ```
