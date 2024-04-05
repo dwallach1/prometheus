@@ -31,7 +31,11 @@ class DecisionContext:
                  volume_24h: float,
                  volume_percentage_change_24h: float,
                  price_percentage_change_24h: float,
-                 total_asset_holdings_value: float):
+                 total_asset_holdings_value: float,
+                 price_change_check: bool,
+                 buy_buffer_check: bool,
+                 open_buy_check: bool,
+                 open_buy_count: int):
         self.enviorment = enviorment
         self.price = price
         self.symbol = symbol
@@ -42,20 +46,24 @@ class DecisionContext:
         self.volume_percentage_change_24h = volume_percentage_change_24h
         self.price_percentage_change_24h = price_percentage_change_24h
         self.total_asset_holdings_value = total_asset_holdings_value
-     
+        self.price_change_check = price_change_check
+        self.buy_buffer_check = buy_buffer_check
+        self.open_buy_check = open_buy_check
+        self.open_buy_count = open_buy_count
+
     def get_attributes(self):
         # This method returns all instance attributes as a dictionary
         attrs = self.__dict__
         attrs['enviorment'] = self.enviorment.value
         return attrs
 
+    def get_price(self):
+        return self.price
+
 
 class Decision():
     """ """
-    def __init__(
-            self,
-            decision_type: DecisionType,
-            context: DecisionContext):
+    def __init__(self, decision_type: DecisionType, context: DecisionContext):
         self.decision_type = decision_type
         self.context = context
         self.timestamp = datetime.utcnow()
@@ -84,6 +92,7 @@ class BuyDecision(Decision):
             value: float,
             preview_result: any,
             trade_result: any,
+            actualualized: bool,
             is_successful: bool,
             errors: [str]):
         super().__init__(
@@ -93,6 +102,7 @@ class BuyDecision(Decision):
         self.value = value
         self.preview_result = preview_result
         self.trade_result = trade_result
+        self.actualualized = actualualized
         self.is_successful = is_successful
         self.errors = errors
         self.is_open = True
@@ -115,16 +125,17 @@ class SellDecision(Decision):
             linked_buy_decisions: [str],
             preview_result: any,
             trade_result: any,
+            actualualized: bool,
             is_successful: bool,
             errors: [str]):
 
-        super().__init__(DecisionType.SELL, context)
         self.amount = amount
         self.value = value
         self.profit = profit
         self.linked_buy_decisions = linked_buy_decisions
         self.preview_result = preview_result
         self.trade_result = trade_result
+        self.actualualized = actualualized
         self.is_successful = is_successful
         self.errors = errors
 
