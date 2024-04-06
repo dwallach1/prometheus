@@ -113,3 +113,7 @@ Example Market sell response (success) (0.0005 BTC for USD)
     }
 }
 ```
+
+### TODO
+* list all coinbase assets and find most volatile ones, test it out
+* run on historical data, test different buy/sell thresholds 
