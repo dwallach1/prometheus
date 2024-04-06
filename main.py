@@ -429,6 +429,12 @@ def main():
         API_SECRET = config["COINBASE_API_SECRET"]
     assert API_SECRET, "API_SECRET is required"
 
+    ENV = os.getenv("ENV")
+    if ENV is None and config is not None:
+        ENV = config["ENV"]
+    assert ENV, "ENV is required"
+    ENV = Enviorment(ENV.lower())  # Use .upper() to match the case of enum members
+
     cb_client = RESTClient(api_key=API_KEY, api_secret=API_SECRET)
     mongo_client = MongoClient(MONGO_URI)
 
@@ -446,7 +452,7 @@ def main():
             logger = setup_logger(trxId)
             decisionMaker = DecisionMaker(
                 logger,
-                Enviorment.PRODUCTION,
+                ENV,
                 cb_client,
                 mongo_client,
                 DB_NAME,
