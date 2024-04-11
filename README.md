@@ -17,6 +17,7 @@ profit.
 
 For this specific asset in 2019, we can see that the average drop window percentage is -8.52%, the average lot time is 21.29 days, and the average profit percentage is 14.67%.
 
+You can find the images for each year in the `analysis/imgs` folder.
 
 `BTC`
 ```
@@ -89,6 +90,13 @@ The average drop window percentage is: -5.72%
 Number of successful sell events: 5
 The average lot time is: 64.40 days
 The average profit percentage is: 15.37%
+
+[ BTC 2024 ] [as of 04.11.2024]
+Number of 24-hour windows with at least 5% price drop: 5
+The average drop window percentage is: -6.91%
+Number of successful sell events: 3
+The average lot time is: 14.00 days
+The average profit percentage is: 12.91%
 ```
 
 `ETH`
@@ -148,6 +156,13 @@ The average drop window percentage is: -6.29%
 Number of successful sell events: 5
 The average lot time is: 71.00 days
 The average profit percentage is: 14.60%
+
+[ ETH 2024 ] [as of 04.11.2024]
+Number of 24-hour windows with at least 5% price drop: 6
+The average drop window percentage is: -6.59%
+Number of successful sell events: 4
+The average lot time is: 10.00 days
+The average profit percentage is: 14.58%
 ```
 
 `SOL`
@@ -186,6 +201,13 @@ The average drop window percentage is: -7.30%
 Number of successful sell events: 27
 The average lot time is: 26.74 days
 The average profit percentage is: 16.97%
+
+[ SOL 2024 ] [as of 04.11.2024]
+Number of 24-hour windows with at least 5% price drop: 11
+The average drop window percentage is: -7.17%
+Number of successful sell events: 8
+The average lot time is: 17.62 days
+The average profit percentage is: 13.26%
 ```
 
 ## Configuration

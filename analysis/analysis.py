@@ -7,7 +7,7 @@ start_year = 2015
 assets = ["BTC", "ETH", "SOL"]
 
 for asset in assets:
-    years = ["ALL", "2015", "2016", "2017", "2018", "2019", "2020", "2021", "2022", "2023"]
+    years = ["ALL", "2015", "2016", "2017", "2018", "2019", "2020", "2021", "2022", "2023", "2024"]
     for year in years:
         df = pd.read_csv(f'historical_price_data/{asset}-USD.csv', index_col='Date', parse_dates=True)
         if year != "ALL":
