@@ -155,7 +155,7 @@ class DecisionMaker():
             if len(to_sell) == 0:
                 best_match_id = best_match["uuid"]
                 self.logger.info(f"no sells found, found best match: {best_match_id} with delta {best_match_price_percent_delta}")
-                if best_match_price_percent_delta > 5.0:
+                if best_match_price_percent_delta > self.asset_config.sell_price_percentage_change_threshold - 2.0:
                     # we want to get info on the right sell threshold. so use this decision to house that
                     decision = BestMatchBelowThresholdDecision(
                         context=context,
