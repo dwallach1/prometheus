@@ -1,0 +1,63 @@
+[ ADA ALL ]
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 281
+The average lot time is: 140.02 days
+The average profit percentage is: 17.51%
+
+[ ADA 2017 ]
+Number of 24-hour windows with at least 5% price drop: 12
+The average drop window percentage is: -11.00%
+Number of successful sell events: 12
+The average lot time is: 5.42 days
+The average profit percentage is: 33.31%
+
+[ ADA 2018 ]
+Number of 24-hour windows with at least 5% price drop: 80
+The average drop window percentage is: -9.25%
+Number of successful sell events: 43
+The average lot time is: 13.58 days
+The average profit percentage is: 18.34%
+
+[ ADA 2019 ]
+Number of 24-hour windows with at least 5% price drop: 37
+The average drop window percentage is: -8.00%
+Number of successful sell events: 22
+The average lot time is: 13.55 days
+The average profit percentage is: 15.22%
+
+[ ADA 2020 ]
+Number of 24-hour windows with at least 5% price drop: 39
+The average drop window percentage is: -9.12%
+Number of successful sell events: 39
+The average lot time is: 34.85 days
+The average profit percentage is: 17.04%
+
+[ ADA 2021 ]
+Number of 24-hour windows with at least 5% price drop: 58
+The average drop window percentage is: -8.38%
+Number of successful sell events: 47
+The average lot time is: 16.89 days
+The average profit percentage is: 17.67%
+
+[ ADA 2022 ]
+Number of 24-hour windows with at least 5% price drop: 48
+The average drop window percentage is: -8.16%
+Number of successful sell events: 29
+The average lot time is: 15.90 days
+The average profit percentage is: 15.17%
+
+[ ADA 2023 ]
+Number of 24-hour windows with at least 5% price drop: 17
+The average drop window percentage is: -6.89%
+Number of successful sell events: 16
+The average lot time is: 59.50 days
+The average profit percentage is: 17.53%
+
+[ ADA 2024 ]
+Number of 24-hour windows with at least 5% price drop: 9
+The average drop window percentage is: -7.46%
+Number of successful sell events: 6
+The average lot time is: 22.83 days
+The average profit percentage is: 13.41%
+

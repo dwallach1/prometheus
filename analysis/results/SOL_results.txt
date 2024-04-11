@@ -1,0 +1,42 @@
+[ SOL ALL ]
+Number of 24-hour windows with at least 5% price drop: 229
+The average drop window percentage is: -9.16%
+Number of successful sell events: 222
+The average lot time is: 81.05 days
+The average profit percentage is: 17.79%
+
+[ SOL 2020 ]
+Number of 24-hour windows with at least 5% price drop: 65
+The average drop window percentage is: -9.61%
+Number of successful sell events: 48
+The average lot time is: 10.25 days
+The average profit percentage is: 17.97%
+
+[ SOL 2021 ]
+Number of 24-hour windows with at least 5% price drop: 61
+The average drop window percentage is: -9.53%
+Number of successful sell events: 56
+The average lot time is: 10.73 days
+The average profit percentage is: 19.39%
+
+[ SOL 2022 ]
+Number of 24-hour windows with at least 5% price drop: 63
+The average drop window percentage is: -9.54%
+Number of successful sell events: 33
+The average lot time is: 19.61 days
+The average profit percentage is: 16.16%
+
+[ SOL 2023 ]
+Number of 24-hour windows with at least 5% price drop: 29
+The average drop window percentage is: -7.30%
+Number of successful sell events: 27
+The average lot time is: 26.74 days
+The average profit percentage is: 16.97%
+
+[ SOL 2024 ]
+Number of 24-hour windows with at least 5% price drop: 11
+The average drop window percentage is: -7.17%
+Number of successful sell events: 8
+The average lot time is: 17.62 days
+The average profit percentage is: 13.26%
+

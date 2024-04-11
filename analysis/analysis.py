@@ -1,13 +1,25 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 import random
-
+import warnings
+warnings.filterwarnings("ignore", category=UserWarning, message="Boolean Series key will be reindexed to match DataFrame index")
+warnings.filterwarnings("ignore", category=FutureWarning, message="The default fill_method='pad' in Series.pct_change is deprecated and will be removed in a future version.")
 
 start_year = 2015
-assets = ["BTC", "ETH", "SOL"]
+# ADA. AVAX, BTC, ETH, LINK, SOL, UNI, XRP, LTC, MATIC
+# needs to have a file in historical_price_data/ with the name of the asset
+assets = [
+    "LINK",
+    "BTC",
+    "ETH",
+    "ADA",
+    "AVAX",
+    "SOL",
+]
 
 for asset in assets:
     years = ["ALL", "2015", "2016", "2017", "2018", "2019", "2020", "2021", "2022", "2023", "2024"]
+    file = open(f"results/{asset}_results.txt", "w")
     for year in years:
         df = pd.read_csv(f'historical_price_data/{asset}-USD.csv', index_col='Date', parse_dates=True)
         if year != "ALL":
@@ -69,10 +81,20 @@ for asset in assets:
         print(f"The average profit percentage is: {average_profit_percentage:.2%}")
         print()
 
+        file.write(f"[ {asset} {year} ]\n")
+        file.write(f"Number of 24-hour windows with at least 5% price drop: {len(drop_windows)}\n")
+        file.write(f"The average drop window percentage is: {avg_drop_percentage:.2%}\n")
+        file.write(f"Number of successful sell events: {len(sell_events)}\n")
+        file.write(f"The average lot time is: {average_lot_time:.2f} days\n")
+        file.write(f"The average profit percentage is: {average_profit_percentage:.2%}\n")
+        file.write("\n")
+
         ax.set_title(f'{asset} Price Chart w Trades {year}')
         ax.set_xlabel('Date')
         ax.set_ylabel('Price (USD)')
         # plt.show()
         plt.savefig(f"imgs/{asset}_{year}.png", dpi=300)
+
+    file.close()
 
 print("Done!")

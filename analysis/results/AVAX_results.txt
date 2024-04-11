@@ -1,0 +1,42 @@
+[ AVAX ALL ]
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 176
+The average lot time is: 60.39 days
+The average profit percentage is: 17.93%
+
+[ AVAX 2020 ]
+Number of 24-hour windows with at least 5% price drop: 18
+The average drop window percentage is: -7.95%
+Number of successful sell events: 8
+The average lot time is: 9.25 days
+The average profit percentage is: 14.37%
+
+[ AVAX 2021 ]
+Number of 24-hour windows with at least 5% price drop: 81
+The average drop window percentage is: -9.61%
+Number of successful sell events: 77
+The average lot time is: 32.62 days
+The average profit percentage is: 19.38%
+
+[ AVAX 2022 ]
+Number of 24-hour windows with at least 5% price drop: 59
+The average drop window percentage is: -9.22%
+Number of successful sell events: 36
+The average lot time is: 17.28 days
+The average profit percentage is: 14.99%
+
+[ AVAX 2023 ]
+Number of 24-hour windows with at least 5% price drop: 22
+The average drop window percentage is: -7.93%
+Number of successful sell events: 20
+The average lot time is: 65.75 days
+The average profit percentage is: 16.77%
+
+[ AVAX 2024 ]
+Number of 24-hour windows with at least 5% price drop: 12
+The average drop window percentage is: -8.02%
+Number of successful sell events: 8
+The average lot time is: 19.12 days
+The average profit percentage is: 14.78%
+
