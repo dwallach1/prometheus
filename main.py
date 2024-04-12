@@ -218,7 +218,9 @@ class DecisionMaker():
 
         self.save_decisions_to_db(decisions)
         # save current price to db
-        self.mongo_client[self.db_name]['current_prices'].update_one({"asset_symbol": self.asset_config.symbol}, {"$set": {"current_price": current_price, "updated_at": datetime.utcnow()}})
+        res = self.mongo_client[self.db_name]['current_prices'].update_one({"asset_symbol": self.asset_config.symbol}, {"$set": {"current_price": current_price, "updated_at": datetime.utcnow()}})
+        if res.modified_count == 0:
+            self.mongo_client[self.db_name]['current_prices'].insert_one({"asset_symbol": self.asset_config.symbol, "current_price": current_price, "updated_at": datetime.utcnow()})
         self.last_decision = datetime.utcnow()
 
     def get_open_buy_decisions(self) -> [any]:
