@@ -130,7 +130,7 @@ class DecisionMaker():
                 'buy_buffer_check': buy_buffer_check,
                 'open_buy_check': open_buy_check,
                 'open_buy_count': len(open_buy_decisions),
-            }, indent=4)
+            })
         ))
 
         context = DecisionContext(
@@ -306,7 +306,7 @@ class DecisionMaker():
             product_id=self.product_id,
             quote_size=amount_as_string,
         )
-        self.logger.info(f"buy preview => {json.dumps(preview_order, indent=4)}")
+        self.logger.info(f"buy preview => {json.dumps(preview_order)}")
         if "errs" in preview_order and len(preview_order["errs"]) > 0:
             self.logger.warning(f"preview error: {preview_order['errs']}")
             errors = preview_order["errs"]
@@ -329,7 +329,7 @@ class DecisionMaker():
                 product_id=self.product_id,
                 quote_size=amount_as_string,
             )
-            self.logger.info(f"buy order => {json.dumps(real_order, indent=4)}")
+            self.logger.info(f"buy order => {json.dumps(real_order)}")
             if "errs" in real_order and len(real_order["errs"]) > 0:
                 self.logger.warning(f"real order error: {real_order['errs']}")
             else:
@@ -366,7 +366,7 @@ class DecisionMaker():
             product_id=self.product_id,
             base_size=amount_as_string,
         )
-        self.logger.info(f"sell preview => {json.dumps(preview_order, indent=4)}")
+        self.logger.info(f"sell preview => {json.dumps(preview_order)}")
         if "errs" in preview_order and len(preview_order["errs"]) > 0:
             self.logger.warning(f"preview error: {preview_order['errs']}")
             errors = preview_order["errs"]
@@ -389,7 +389,7 @@ class DecisionMaker():
                 product_id=self.product_id,
                 base_size=amount_as_string,
             )
-            self.logger.info(f"sell order => {json.dumps(real_order, indent=4)}")
+            self.logger.info(f"sell order => {json.dumps(real_order)}")
             if "errs" in real_order and len(real_order["errs"]) > 0:
                 self.logger.warning(f"real order error: {real_order['errs']}")
             else:
@@ -441,7 +441,7 @@ def parse_config(cb_accounts) -> [Asset]:
     config_path = os.getenv("CONFIG_PATH", DEFAULT_CONFIG_PATH)
     with open(config_path, 'r') as file:
         data = json.load(file)
-    print("lodaded config ➡️ ", json.dumps(data, indent=4))
+    print("lodaded config ➡️ ", json.dumps(data))
     assets = []
     for asset in data["assets"]:
         account = next((account for account in cb_accounts if account["currency"] == asset["symbol"]), None)

@@ -3,3 +3,4 @@ accounts.json
 __pycache__/
 fly.toml
 .DS_Store
+**/*.ndjson
