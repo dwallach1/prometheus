@@ -23,6 +23,46 @@
             "buy_price_percentage_change_threshold": -5.0,
             "sell_price_percentage_change_threshold": 12.0,
             "max_open_buys": 5
+        },
+        {
+            "name": "Algorand",
+            "symbol": "ALGO",
+            "amount_to_buy_usd": 500,
+            "buy_price_percentage_change_threshold": -5.0,
+            "sell_price_percentage_change_threshold": 12.0,
+            "max_open_buys": 2
+        },
+        {
+            "name": "Cardano",
+            "symbol": "ADA",
+            "amount_to_buy_usd": 500,
+            "buy_price_percentage_change_threshold": -5.0,
+            "sell_price_percentage_change_threshold": 12.0,
+            "max_open_buys": 2
+        },
+        {
+            "name": "Chainlink",
+            "symbol": "LINK",
+            "amount_to_buy_usd": 500,
+            "buy_price_percentage_change_threshold": -5.0,
+            "sell_price_percentage_change_threshold": 12.0,
+            "max_open_buys": 2
+        },
+        {
+            "name": "Avanalanche",
+            "symbol": "AVAX",
+            "amount_to_buy_usd": 500,
+            "buy_price_percentage_change_threshold": -5.0,
+            "sell_price_percentage_change_threshold": 12.0,
+            "max_open_buys": 2
+        },
+        {
+            "name": "Dogecoin",
+            "symbol": "DOGE",
+            "amount_to_buy_usd": 500,
+            "buy_price_percentage_change_threshold": -5.0,
+            "sell_price_percentage_change_threshold": 12.0,
+            "max_open_buys": 2
         }
     ]
 }

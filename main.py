@@ -6,10 +6,12 @@ from enum import Enum
 from coinbase.rest import RESTClient
 from dotenv import dotenv_values
 from pymongo.mongo_client import MongoClient
-from datetime import datetime
+from datetime import datetime, timedelta
 import uuid
 from decisions import Decision, DecisionType, Enviorment, BestMatchBelowThresholdDecision, BuyDecision, SellDecision, DecisionContext
 from assets import Asset
+import threading
+import signal
 
 # https://docs.cloud.coinbase.com/prime/reference/primerestapi_createorder
 # https://docs.cloud.coinbase.com/advanced-trade-api/reference/retailbrokerageapi_getproduct
@@ -25,6 +27,7 @@ ONE_HOUR_SECONDS = ONE_MINUTE_SECONDS * 60
 ONE_DAY_SECONDS = ONE_HOUR_SECONDS * 24
 DECISION_BUFFER = ONE_MINUTE_SECONDS * 30
 BUY_BUFFER = ONE_DAY_SECONDS * 1
+THREAD_SLEEP_TIME = 30
 
 MAX_BUY_AMOUNT = 1000.00
 MAX_SELL_AMOUNT = 5000.00
@@ -48,7 +51,7 @@ class DecisionMaker():
             asset_config: Asset,
             usd_account_id: str):
         self.logger = logger
-        self.logger.info(f"============ intializing new decision maker for {asset_config.symbol} in {enviormnet} ============")
+        print(f"============ intializing new decision maker for {asset_config.symbol} in {enviormnet} ============")
         self.enviorment = enviormnet
         self.cb_client = cb_client
         self.mongo_client = mongo_client
@@ -57,6 +60,32 @@ class DecisionMaker():
         self.asset_config = asset_config
         self.usd_account_id = usd_account_id
         self.product_id = f"{self.asset_config.symbol}-USD"
+        self.running = True
+        self.last_decision = None
+
+    def stop(self):
+        print(f"stopping decision maker for {self.asset_config.symbol} ... may take {THREAD_SLEEP_TIME} seconds to take effect")
+        self.running = False
+
+    def run(self):
+        while self.running:
+            if self.enough_time_passed_for_decision_computation():
+                # provision a new logger for this decision
+                transaction_id = uuid.uuid4()
+                trxId = str(transaction_id)
+                self.logger = setup_logger(trxId)
+                mins_since_last_decision = (datetime.utcnow() - self.last_decision).total_seconds() / 60
+                self.logger.info(f"enough time has passed since last decision: {mins_since_last_decision} mins")
+                self.compute_decisions()
+            time.sleep(THREAD_SLEEP_TIME)
+        print(f"recieved stop signal for decision maker for {self.asset_config.symbol}. Stopped.")
+
+    def enough_time_passed_for_decision_computation(self):
+        if self.last_decision is None:
+            return True
+        now = datetime.utcnow()
+        time_delta = now - self.last_decision
+        return time_delta.total_seconds() > DECISION_BUFFER
 
     def get_buying_power(self) -> float:
         self.logger.info("Getting buying power")
@@ -73,6 +102,7 @@ class DecisionMaker():
         return asset_balance
 
     def compute_decisions(self):
+        self.logger.info(f"============ computing decisions for {self.asset_config.symbol} in {self.enviorment} ============")
         now = datetime.utcnow()
         decisions = []
         self.logger.info(f"computing decisions for {self.asset_config.symbol} at {now}")
@@ -129,8 +159,9 @@ class DecisionMaker():
 
         # CHECK BUY CONDITIONS
         if price_change_check and buy_buffer_check and open_buy_check:
-            buy_decision = self.place_buy_order(context)
-            decisions.append(buy_decision)
+            buy_decision = self.find_bottom_of_dip_and_buy(context)
+            if buy_decision is not None:
+                decisions.append(buy_decision)
 
         # CHECK SELL CONDITIONS
         if len(open_buy_decisions) > 0:
@@ -180,6 +211,7 @@ class DecisionMaker():
         self.save_decisions_to_db(decisions)
         # save current price to db
         self.mongo_client[self.db_name]['current_prices'].update_one({"asset_symbol": self.asset_config.symbol}, {"$set": {"current_price": current_price, "updated_at": datetime.utcnow()}})
+        self.last_decision = datetime.utcnow()
 
     def get_open_buy_decisions(self) -> [any]:
         res = self.mongo_client[self.db_name][self.collection_name].find({
@@ -204,6 +236,14 @@ class DecisionMaker():
         now = datetime.utcnow()
         time_delta = now - last_decision_timestamp
         return time_delta.total_seconds() > BUY_BUFFER
+
+    def find_bottom_of_dip_and_buy(self, context: DecisionContext) -> float:
+        # get candles, poll unitl we see some recovery.
+        # check threshold again.
+        # if still valid against threshold
+        # buy_decision = self.place_buy_order(context)
+        # else log it and return None
+        pass
 
     def place_buy_order(self, context: DecisionContext) -> (any, bool):
         """ """
@@ -388,9 +428,6 @@ def get_cb_accounts(cb_clinet: RESTClient) -> dict:
 
 
 def setup_logger(trx_id):
-    """
-    Set up a logger with a specific transaction ID.
-    """
     logger = logging.getLogger(trx_id)
     logger.setLevel(logging.INFO)
     if not logger.handlers:
@@ -442,6 +479,30 @@ def main():
     cb_client = RESTClient(api_key=API_KEY, api_secret=API_SECRET)
     mongo_client = MongoClient(MONGO_URI)
 
+    # TEMP: test candle stuff
+    now = datetime.utcnow()
+    five_hour_ago = now - timedelta(minutes=300)
+    start = f"{int(five_hour_ago.timestamp())}"
+    end = f"{int(now.timestamp())}"
+    print(f"start: {start}, end: {end}")
+    candles = cb_client.get_candles("BTC-USD", start=start, end=end, granularity="FIVE_MINUTE")['candles']
+    print("candles ➡️ ", json.dumps(candles, indent=4))
+    if len(candles) == 0:
+        print("no candles to analyze")
+        return
+    for candle in candles:
+        candle_time = datetime.utcfromtimestamp(int(candle['start']))
+        candle_date = candle_time.strftime("%Y-%m-%d %H:%M:%S")
+        is_green = candle["close"] > candle["open"]
+        print(f"candle is green: {is_green} @ {candle_date}")
+    # get first candle which is latest
+    latest_candle = candles[0]
+    candle_time = datetime.utcfromtimestamp(int(latest_candle['start']))
+    candle_date = candle_time.strftime("%Y-%m-%d %H:%M:%S")
+    is_green = latest_candle["close"] > latest_candle["open"]
+    print(f"➡️ latest candle is green: {is_green} @ {candle_date}")
+    return
+
     cb_accounts = get_cb_accounts(cb_client)
     cash_account = next((account for account in cb_accounts if account["currency"] == USD_SYMBOL), None)
     if cash_account is None:
@@ -449,24 +510,56 @@ def main():
     cash_account_id = cash_account["uuid"]
     assets = parse_config(cb_accounts)
 
-    while True:
-        for asset_config in assets:
-            transaction_id = uuid.uuid4()
-            trxId = str(transaction_id)
-            logger = setup_logger(trxId)
-            decisionMaker = DecisionMaker(
-                logger,
-                ENV,
-                cb_client,
-                mongo_client,
-                DB_NAME,
-                DB_COLLECTION,
-                asset_config,
-                cash_account_id
-            )
-            decisionMaker.compute_decisions()
-            logger.info("finished making decisions :)")
-        time.sleep(DECISION_BUFFER)
+    traders = []
+    for asset_config in assets:
+        decisionMaker = DecisionMaker(
+            ENV,
+            cb_client,
+            mongo_client,
+            DB_NAME,
+            DB_COLLECTION,
+            asset_config,
+            cash_account_id
+        )
+        traders.append(decisionMaker)
+
+    threads = []
+    for trader in traders:
+        thread = threading.Thread(target=trader.run)
+        thread.start()
+        threads.append(thread)
+
+    # Block the main thread until a signal interrupt is received
+    def signal_handler(sig, frame):
+        print("Stopping traders...")
+        for trader in traders:
+            trader.stop()
+        for thread in threads:
+            thread.join()
+        print("Traders stopped.")
+        exit(0)
+
+    signal.signal(signal.SIGINT, signal_handler)
+    signal.pause()
+
+    # while True:
+    #     for asset_config in assets:
+    #         transaction_id = uuid.uuid4()
+    #         trxId = str(transaction_id)
+    #         logger = setup_logger(trxId)
+    #         decisionMaker = DecisionMaker(
+    #             logger,
+    #             ENV,
+    #             cb_client,
+    #             mongo_client,
+    #             DB_NAME,
+    #             DB_COLLECTION,
+    #             asset_config,
+    #             cash_account_id
+    #         )
+    #         decisionMaker.compute_decisions()
+    #         logger.info("finished making decisions :)")
+    #     time.sleep(DECISION_BUFFER)
 
 
 if __name__ == "__main__":
