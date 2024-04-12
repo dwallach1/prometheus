@@ -35,7 +35,8 @@ class DecisionContext:
                  price_change_check: bool,
                  buy_buffer_check: bool,
                  open_buy_check: bool,
-                 open_buy_count: int):
+                 open_buy_count: int,
+                 open_buy_decisions: [any]):
         self.enviorment = enviorment
         self.price = price
         self.symbol = symbol
@@ -50,16 +51,21 @@ class DecisionContext:
         self.buy_buffer_check = buy_buffer_check
         self.open_buy_check = open_buy_check
         self.open_buy_count = open_buy_count
+        self.open_buy_decisions = open_buy_decisions
 
     def get_attributes(self):
         # This method returns all instance attributes as a dictionary
         attrs = self.__dict__
         attrs['enviorment'] = self.enviorment.value
+        attrs.pop('open_buy_decisions', None)
         return attrs
 
     def get_price(self):
         return self.price
-
+    
+    def should_buy(self):
+        return self.price_change_check and self.buy_buffer_check and self.open_buy_check
+    
 
 class Decision():
     """ """

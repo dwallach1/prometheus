@@ -1,9 +1,7 @@
+import os
 import pandas as pd
 import matplotlib.pyplot as plt
 import random
-import warnings
-warnings.filterwarnings("ignore", category=UserWarning, message="Boolean Series key will be reindexed to match DataFrame index")
-warnings.filterwarnings("ignore", category=FutureWarning, message="The default fill_method='pad' in Series.pct_change is deprecated and will be removed in a future version.")
 
 start_year = 2015
 # ADA. AVAX, BTC, ETH, LINK, SOL, UNI, XRP, LTC, MATIC
@@ -15,6 +13,9 @@ assets = [
     "ADA",
     "AVAX",
     "SOL",
+    "ALGO",
+    "DOGE",
+    "MATIC"
 ]
 
 for asset in assets:
@@ -93,7 +94,10 @@ for asset in assets:
         ax.set_xlabel('Date')
         ax.set_ylabel('Price (USD)')
         # plt.show()
-        plt.savefig(f"imgs/{asset}_{year}.png", dpi=300)
+        img_folder_path = f"imgs/{asset}"
+        if not os.path.exists(img_folder_path):
+            os.makedirs(img_folder_path)
+        plt.savefig(f"{img_folder_path}/{asset}_{year}.png", dpi=300)
 
     file.close()
 

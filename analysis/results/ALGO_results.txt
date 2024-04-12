@@ -1,0 +1,49 @@
+[ ALGO ALL ]
+Number of 24-hour windows with at least 5% price drop: 268
+The average drop window percentage is: -8.94%
+Number of successful sell events: 232
+The average lot time is: 75.30 days
+The average profit percentage is: 16.92%
+
+[ ALGO 2019 ]
+Number of 24-hour windows with at least 5% price drop: 47
+The average drop window percentage is: -10.14%
+Number of successful sell events: 20
+The average lot time is: 8.35 days
+The average profit percentage is: 18.96%
+
+[ ALGO 2020 ]
+Number of 24-hour windows with at least 5% price drop: 53
+The average drop window percentage is: -9.46%
+Number of successful sell events: 46
+The average lot time is: 26.20 days
+The average profit percentage is: 17.90%
+
+[ ALGO 2021 ]
+Number of 24-hour windows with at least 5% price drop: 70
+The average drop window percentage is: -9.05%
+Number of successful sell events: 63
+The average lot time is: 21.37 days
+The average profit percentage is: 17.34%
+
+[ ALGO 2022 ]
+Number of 24-hour windows with at least 5% price drop: 57
+The average drop window percentage is: -8.49%
+Number of successful sell events: 28
+The average lot time is: 26.93 days
+The average profit percentage is: 15.19%
+
+[ ALGO 2023 ]
+Number of 24-hour windows with at least 5% price drop: 27
+The average drop window percentage is: -7.43%
+Number of successful sell events: 23
+The average lot time is: 79.22 days
+The average profit percentage is: 14.21%
+
+[ ALGO 2024 ]
+Number of 24-hour windows with at least 5% price drop: 14
+The average drop window percentage is: -7.14%
+Number of successful sell events: 9
+The average lot time is: 32.11 days
+The average profit percentage is: 16.00%
+

@@ -1,0 +1,49 @@
+[ MATIC ALL ]
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 256
+The average lot time is: 39.44 days
+The average profit percentage is: 19.66%
+
+[ MATIC 2019 ]
+Number of 24-hour windows with at least 5% price drop: 56
+The average drop window percentage is: -10.07%
+Number of successful sell events: 51
+The average lot time is: 28.37 days
+The average profit percentage is: 20.57%
+
+[ MATIC 2020 ]
+Number of 24-hour windows with at least 5% price drop: 53
+The average drop window percentage is: -9.37%
+Number of successful sell events: 46
+The average lot time is: 23.61 days
+The average profit percentage is: 16.97%
+
+[ MATIC 2021 ]
+Number of 24-hour windows with at least 5% price drop: 76
+The average drop window percentage is: -9.37%
+Number of successful sell events: 74
+The average lot time is: 21.69 days
+The average profit percentage is: 21.77%
+
+[ MATIC 2022 ]
+Number of 24-hour windows with at least 5% price drop: 54
+The average drop window percentage is: -9.15%
+Number of successful sell events: 37
+The average lot time is: 26.76 days
+The average profit percentage is: 18.41%
+
+[ MATIC 2023 ]
+Number of 24-hour windows with at least 5% price drop: 24
+The average drop window percentage is: -7.19%
+Number of successful sell events: 19
+The average lot time is: 56.11 days
+The average profit percentage is: 16.86%
+
+[ MATIC 2024 ]
+Number of 24-hour windows with at least 5% price drop: 11
+The average drop window percentage is: -7.42%
+Number of successful sell events: 5
+The average lot time is: 20.20 days
+The average profit percentage is: 14.39%
+
