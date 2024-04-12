@@ -549,6 +549,8 @@ def main():
         thread = threading.Thread(target=trader.run)
         thread.start()
         threads.append(thread)
+        print("sleeping for 30 seconds before starting the next trader to avoid 429s on startup")
+        time.sleep(THREAD_SLEEP_TIME)
 
     # Block the main thread until a signal interrupt is received
     def signal_handler(sig, frame):
