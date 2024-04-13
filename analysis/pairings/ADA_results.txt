@@ -1,0 +1,2352 @@
+[ ADA ] Buy Threshold: 5%, Sell Threshold: 10%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 283
+The average lot time is: 116.50 days
+The average profit percentage is: 15.38%
+
+[ ADA ] Buy Threshold: 5%, Sell Threshold: 11%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 282
+The average lot time is: 134.10 days
+The average profit percentage is: 16.49%
+
+[ ADA ] Buy Threshold: 5%, Sell Threshold: 12%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 281
+The average lot time is: 140.02 days
+The average profit percentage is: 17.51%
+
+[ ADA ] Buy Threshold: 5%, Sell Threshold: 13%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 277
+The average lot time is: 157.26 days
+The average profit percentage is: 18.73%
+
+[ ADA ] Buy Threshold: 5%, Sell Threshold: 14%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 274
+The average lot time is: 168.00 days
+The average profit percentage is: 20.42%
+
+[ ADA ] Buy Threshold: 5%, Sell Threshold: 15%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 273
+The average lot time is: 172.34 days
+The average profit percentage is: 21.43%
+
+[ ADA ] Buy Threshold: 5%, Sell Threshold: 16%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 273
+The average lot time is: 181.27 days
+The average profit percentage is: 22.62%
+
+[ ADA ] Buy Threshold: 5%, Sell Threshold: 17%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 273
+The average lot time is: 190.25 days
+The average profit percentage is: 23.58%
+
+[ ADA ] Buy Threshold: 5%, Sell Threshold: 18%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 271
+The average lot time is: 200.99 days
+The average profit percentage is: 24.72%
+
+[ ADA ] Buy Threshold: 5%, Sell Threshold: 19%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 268
+The average lot time is: 211.37 days
+The average profit percentage is: 26.00%
+
+[ ADA ] Buy Threshold: 5%, Sell Threshold: 20%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 267
+The average lot time is: 218.52 days
+The average profit percentage is: 27.14%
+
+[ ADA ] Buy Threshold: 5%, Sell Threshold: 21%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 267
+The average lot time is: 222.39 days
+The average profit percentage is: 27.99%
+
+[ ADA ] Buy Threshold: 5%, Sell Threshold: 22%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 267
+The average lot time is: 225.46 days
+The average profit percentage is: 29.17%
+
+[ ADA ] Buy Threshold: 5%, Sell Threshold: 23%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 267
+The average lot time is: 227.72 days
+The average profit percentage is: 29.85%
+
+[ ADA ] Buy Threshold: 5%, Sell Threshold: 24%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 266
+The average lot time is: 235.48 days
+The average profit percentage is: 30.86%
+
+[ ADA ] Buy Threshold: 5%, Sell Threshold: 25%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 266
+The average lot time is: 237.76 days
+The average profit percentage is: 31.81%
+
+[ ADA ] Buy Threshold: 6%, Sell Threshold: 10%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 283
+The average lot time is: 116.50 days
+The average profit percentage is: 15.38%
+
+[ ADA ] Buy Threshold: 6%, Sell Threshold: 11%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 282
+The average lot time is: 134.10 days
+The average profit percentage is: 16.49%
+
+[ ADA ] Buy Threshold: 6%, Sell Threshold: 12%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 281
+The average lot time is: 140.02 days
+The average profit percentage is: 17.51%
+
+[ ADA ] Buy Threshold: 6%, Sell Threshold: 13%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 277
+The average lot time is: 157.26 days
+The average profit percentage is: 18.73%
+
+[ ADA ] Buy Threshold: 6%, Sell Threshold: 14%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 274
+The average lot time is: 168.00 days
+The average profit percentage is: 20.42%
+
+[ ADA ] Buy Threshold: 6%, Sell Threshold: 15%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 273
+The average lot time is: 172.34 days
+The average profit percentage is: 21.43%
+
+[ ADA ] Buy Threshold: 6%, Sell Threshold: 16%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 273
+The average lot time is: 181.27 days
+The average profit percentage is: 22.62%
+
+[ ADA ] Buy Threshold: 6%, Sell Threshold: 17%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 273
+The average lot time is: 190.25 days
+The average profit percentage is: 23.58%
+
+[ ADA ] Buy Threshold: 6%, Sell Threshold: 18%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 271
+The average lot time is: 200.99 days
+The average profit percentage is: 24.72%
+
+[ ADA ] Buy Threshold: 6%, Sell Threshold: 19%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 268
+The average lot time is: 211.37 days
+The average profit percentage is: 26.00%
+
+[ ADA ] Buy Threshold: 6%, Sell Threshold: 20%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 267
+The average lot time is: 218.52 days
+The average profit percentage is: 27.14%
+
+[ ADA ] Buy Threshold: 6%, Sell Threshold: 21%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 267
+The average lot time is: 222.39 days
+The average profit percentage is: 27.99%
+
+[ ADA ] Buy Threshold: 6%, Sell Threshold: 22%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 267
+The average lot time is: 225.46 days
+The average profit percentage is: 29.17%
+
+[ ADA ] Buy Threshold: 6%, Sell Threshold: 23%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 267
+The average lot time is: 227.72 days
+The average profit percentage is: 29.85%
+
+[ ADA ] Buy Threshold: 6%, Sell Threshold: 24%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 266
+The average lot time is: 235.48 days
+The average profit percentage is: 30.86%
+
+[ ADA ] Buy Threshold: 6%, Sell Threshold: 25%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 266
+The average lot time is: 237.76 days
+The average profit percentage is: 31.81%
+
+[ ADA ] Buy Threshold: 7%, Sell Threshold: 10%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 283
+The average lot time is: 116.50 days
+The average profit percentage is: 15.38%
+
+[ ADA ] Buy Threshold: 7%, Sell Threshold: 11%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 282
+The average lot time is: 134.10 days
+The average profit percentage is: 16.49%
+
+[ ADA ] Buy Threshold: 7%, Sell Threshold: 12%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 281
+The average lot time is: 140.02 days
+The average profit percentage is: 17.51%
+
+[ ADA ] Buy Threshold: 7%, Sell Threshold: 13%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 277
+The average lot time is: 157.26 days
+The average profit percentage is: 18.73%
+
+[ ADA ] Buy Threshold: 7%, Sell Threshold: 14%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 274
+The average lot time is: 168.00 days
+The average profit percentage is: 20.42%
+
+[ ADA ] Buy Threshold: 7%, Sell Threshold: 15%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 273
+The average lot time is: 172.34 days
+The average profit percentage is: 21.43%
+
+[ ADA ] Buy Threshold: 7%, Sell Threshold: 16%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 273
+The average lot time is: 181.27 days
+The average profit percentage is: 22.62%
+
+[ ADA ] Buy Threshold: 7%, Sell Threshold: 17%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 273
+The average lot time is: 190.25 days
+The average profit percentage is: 23.58%
+
+[ ADA ] Buy Threshold: 7%, Sell Threshold: 18%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 271
+The average lot time is: 200.99 days
+The average profit percentage is: 24.72%
+
+[ ADA ] Buy Threshold: 7%, Sell Threshold: 19%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 268
+The average lot time is: 211.37 days
+The average profit percentage is: 26.00%
+
+[ ADA ] Buy Threshold: 7%, Sell Threshold: 20%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 267
+The average lot time is: 218.52 days
+The average profit percentage is: 27.14%
+
+[ ADA ] Buy Threshold: 7%, Sell Threshold: 21%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 267
+The average lot time is: 222.39 days
+The average profit percentage is: 27.99%
+
+[ ADA ] Buy Threshold: 7%, Sell Threshold: 22%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 267
+The average lot time is: 225.46 days
+The average profit percentage is: 29.17%
+
+[ ADA ] Buy Threshold: 7%, Sell Threshold: 23%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 267
+The average lot time is: 227.72 days
+The average profit percentage is: 29.85%
+
+[ ADA ] Buy Threshold: 7%, Sell Threshold: 24%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 266
+The average lot time is: 235.48 days
+The average profit percentage is: 30.86%
+
+[ ADA ] Buy Threshold: 7%, Sell Threshold: 25%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 266
+The average lot time is: 237.76 days
+The average profit percentage is: 31.81%
+
+[ ADA ] Buy Threshold: 8%, Sell Threshold: 10%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 283
+The average lot time is: 116.50 days
+The average profit percentage is: 15.38%
+
+[ ADA ] Buy Threshold: 8%, Sell Threshold: 11%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 282
+The average lot time is: 134.10 days
+The average profit percentage is: 16.49%
+
+[ ADA ] Buy Threshold: 8%, Sell Threshold: 12%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 281
+The average lot time is: 140.02 days
+The average profit percentage is: 17.51%
+
+[ ADA ] Buy Threshold: 8%, Sell Threshold: 13%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 277
+The average lot time is: 157.26 days
+The average profit percentage is: 18.73%
+
+[ ADA ] Buy Threshold: 8%, Sell Threshold: 14%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 274
+The average lot time is: 168.00 days
+The average profit percentage is: 20.42%
+
+[ ADA ] Buy Threshold: 8%, Sell Threshold: 15%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 273
+The average lot time is: 172.34 days
+The average profit percentage is: 21.43%
+
+[ ADA ] Buy Threshold: 8%, Sell Threshold: 16%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 273
+The average lot time is: 181.27 days
+The average profit percentage is: 22.62%
+
+[ ADA ] Buy Threshold: 8%, Sell Threshold: 17%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 273
+The average lot time is: 190.25 days
+The average profit percentage is: 23.58%
+
+[ ADA ] Buy Threshold: 8%, Sell Threshold: 18%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 271
+The average lot time is: 200.99 days
+The average profit percentage is: 24.72%
+
+[ ADA ] Buy Threshold: 8%, Sell Threshold: 19%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 268
+The average lot time is: 211.37 days
+The average profit percentage is: 26.00%
+
+[ ADA ] Buy Threshold: 8%, Sell Threshold: 20%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 267
+The average lot time is: 218.52 days
+The average profit percentage is: 27.14%
+
+[ ADA ] Buy Threshold: 8%, Sell Threshold: 21%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 267
+The average lot time is: 222.39 days
+The average profit percentage is: 27.99%
+
+[ ADA ] Buy Threshold: 8%, Sell Threshold: 22%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 267
+The average lot time is: 225.46 days
+The average profit percentage is: 29.17%
+
+[ ADA ] Buy Threshold: 8%, Sell Threshold: 23%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 267
+The average lot time is: 227.72 days
+The average profit percentage is: 29.85%
+
+[ ADA ] Buy Threshold: 8%, Sell Threshold: 24%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 266
+The average lot time is: 235.48 days
+The average profit percentage is: 30.86%
+
+[ ADA ] Buy Threshold: 8%, Sell Threshold: 25%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 266
+The average lot time is: 237.76 days
+The average profit percentage is: 31.81%
+
+[ ADA ] Buy Threshold: 9%, Sell Threshold: 10%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 283
+The average lot time is: 116.50 days
+The average profit percentage is: 15.38%
+
+[ ADA ] Buy Threshold: 9%, Sell Threshold: 11%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 282
+The average lot time is: 134.10 days
+The average profit percentage is: 16.49%
+
+[ ADA ] Buy Threshold: 9%, Sell Threshold: 12%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 281
+The average lot time is: 140.02 days
+The average profit percentage is: 17.51%
+
+[ ADA ] Buy Threshold: 9%, Sell Threshold: 13%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 277
+The average lot time is: 157.26 days
+The average profit percentage is: 18.73%
+
+[ ADA ] Buy Threshold: 9%, Sell Threshold: 14%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 274
+The average lot time is: 168.00 days
+The average profit percentage is: 20.42%
+
+[ ADA ] Buy Threshold: 9%, Sell Threshold: 15%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 273
+The average lot time is: 172.34 days
+The average profit percentage is: 21.43%
+
+[ ADA ] Buy Threshold: 9%, Sell Threshold: 16%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 273
+The average lot time is: 181.27 days
+The average profit percentage is: 22.62%
+
+[ ADA ] Buy Threshold: 9%, Sell Threshold: 17%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 273
+The average lot time is: 190.25 days
+The average profit percentage is: 23.58%
+
+[ ADA ] Buy Threshold: 9%, Sell Threshold: 18%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 271
+The average lot time is: 200.99 days
+The average profit percentage is: 24.72%
+
+[ ADA ] Buy Threshold: 9%, Sell Threshold: 19%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 268
+The average lot time is: 211.37 days
+The average profit percentage is: 26.00%
+
+[ ADA ] Buy Threshold: 9%, Sell Threshold: 20%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 267
+The average lot time is: 218.52 days
+The average profit percentage is: 27.14%
+
+[ ADA ] Buy Threshold: 9%, Sell Threshold: 21%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 267
+The average lot time is: 222.39 days
+The average profit percentage is: 27.99%
+
+[ ADA ] Buy Threshold: 9%, Sell Threshold: 22%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 267
+The average lot time is: 225.46 days
+The average profit percentage is: 29.17%
+
+[ ADA ] Buy Threshold: 9%, Sell Threshold: 23%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 267
+The average lot time is: 227.72 days
+The average profit percentage is: 29.85%
+
+[ ADA ] Buy Threshold: 9%, Sell Threshold: 24%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 266
+The average lot time is: 235.48 days
+The average profit percentage is: 30.86%
+
+[ ADA ] Buy Threshold: 9%, Sell Threshold: 25%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 266
+The average lot time is: 237.76 days
+The average profit percentage is: 31.81%
+
+[ ADA ] Buy Threshold: 10%, Sell Threshold: 10%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 283
+The average lot time is: 116.50 days
+The average profit percentage is: 15.38%
+
+[ ADA ] Buy Threshold: 10%, Sell Threshold: 11%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 282
+The average lot time is: 134.10 days
+The average profit percentage is: 16.49%
+
+[ ADA ] Buy Threshold: 10%, Sell Threshold: 12%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 281
+The average lot time is: 140.02 days
+The average profit percentage is: 17.51%
+
+[ ADA ] Buy Threshold: 10%, Sell Threshold: 13%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 277
+The average lot time is: 157.26 days
+The average profit percentage is: 18.73%
+
+[ ADA ] Buy Threshold: 10%, Sell Threshold: 14%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 274
+The average lot time is: 168.00 days
+The average profit percentage is: 20.42%
+
+[ ADA ] Buy Threshold: 10%, Sell Threshold: 15%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 273
+The average lot time is: 172.34 days
+The average profit percentage is: 21.43%
+
+[ ADA ] Buy Threshold: 10%, Sell Threshold: 16%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 273
+The average lot time is: 181.27 days
+The average profit percentage is: 22.62%
+
+[ ADA ] Buy Threshold: 10%, Sell Threshold: 17%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 273
+The average lot time is: 190.25 days
+The average profit percentage is: 23.58%
+
+[ ADA ] Buy Threshold: 10%, Sell Threshold: 18%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 271
+The average lot time is: 200.99 days
+The average profit percentage is: 24.72%
+
+[ ADA ] Buy Threshold: 10%, Sell Threshold: 19%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 268
+The average lot time is: 211.37 days
+The average profit percentage is: 26.00%
+
+[ ADA ] Buy Threshold: 10%, Sell Threshold: 20%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 267
+The average lot time is: 218.52 days
+The average profit percentage is: 27.14%
+
+[ ADA ] Buy Threshold: 10%, Sell Threshold: 21%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 267
+The average lot time is: 222.39 days
+The average profit percentage is: 27.99%
+
+[ ADA ] Buy Threshold: 10%, Sell Threshold: 22%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 267
+The average lot time is: 225.46 days
+The average profit percentage is: 29.17%
+
+[ ADA ] Buy Threshold: 10%, Sell Threshold: 23%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 267
+The average lot time is: 227.72 days
+The average profit percentage is: 29.85%
+
+[ ADA ] Buy Threshold: 10%, Sell Threshold: 24%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 266
+The average lot time is: 235.48 days
+The average profit percentage is: 30.86%
+
+[ ADA ] Buy Threshold: 10%, Sell Threshold: 25%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 266
+The average lot time is: 237.76 days
+The average profit percentage is: 31.81%
+
+[ ADA ] Buy Threshold: 11%, Sell Threshold: 10%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 283
+The average lot time is: 116.50 days
+The average profit percentage is: 15.38%
+
+[ ADA ] Buy Threshold: 11%, Sell Threshold: 11%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 282
+The average lot time is: 134.10 days
+The average profit percentage is: 16.49%
+
+[ ADA ] Buy Threshold: 11%, Sell Threshold: 12%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 281
+The average lot time is: 140.02 days
+The average profit percentage is: 17.51%
+
+[ ADA ] Buy Threshold: 11%, Sell Threshold: 13%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 277
+The average lot time is: 157.26 days
+The average profit percentage is: 18.73%
+
+[ ADA ] Buy Threshold: 11%, Sell Threshold: 14%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 274
+The average lot time is: 168.00 days
+The average profit percentage is: 20.42%
+
+[ ADA ] Buy Threshold: 11%, Sell Threshold: 15%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 273
+The average lot time is: 172.34 days
+The average profit percentage is: 21.43%
+
+[ ADA ] Buy Threshold: 11%, Sell Threshold: 16%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 273
+The average lot time is: 181.27 days
+The average profit percentage is: 22.62%
+
+[ ADA ] Buy Threshold: 11%, Sell Threshold: 17%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 273
+The average lot time is: 190.25 days
+The average profit percentage is: 23.58%
+
+[ ADA ] Buy Threshold: 11%, Sell Threshold: 18%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 271
+The average lot time is: 200.99 days
+The average profit percentage is: 24.72%
+
+[ ADA ] Buy Threshold: 11%, Sell Threshold: 19%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 268
+The average lot time is: 211.37 days
+The average profit percentage is: 26.00%
+
+[ ADA ] Buy Threshold: 11%, Sell Threshold: 20%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 267
+The average lot time is: 218.52 days
+The average profit percentage is: 27.14%
+
+[ ADA ] Buy Threshold: 11%, Sell Threshold: 21%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 267
+The average lot time is: 222.39 days
+The average profit percentage is: 27.99%
+
+[ ADA ] Buy Threshold: 11%, Sell Threshold: 22%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 267
+The average lot time is: 225.46 days
+The average profit percentage is: 29.17%
+
+[ ADA ] Buy Threshold: 11%, Sell Threshold: 23%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 267
+The average lot time is: 227.72 days
+The average profit percentage is: 29.85%
+
+[ ADA ] Buy Threshold: 11%, Sell Threshold: 24%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 266
+The average lot time is: 235.48 days
+The average profit percentage is: 30.86%
+
+[ ADA ] Buy Threshold: 11%, Sell Threshold: 25%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 266
+The average lot time is: 237.76 days
+The average profit percentage is: 31.81%
+
+[ ADA ] Buy Threshold: 12%, Sell Threshold: 10%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 283
+The average lot time is: 116.50 days
+The average profit percentage is: 15.38%
+
+[ ADA ] Buy Threshold: 12%, Sell Threshold: 11%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 282
+The average lot time is: 134.10 days
+The average profit percentage is: 16.49%
+
+[ ADA ] Buy Threshold: 12%, Sell Threshold: 12%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 281
+The average lot time is: 140.02 days
+The average profit percentage is: 17.51%
+
+[ ADA ] Buy Threshold: 12%, Sell Threshold: 13%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 277
+The average lot time is: 157.26 days
+The average profit percentage is: 18.73%
+
+[ ADA ] Buy Threshold: 12%, Sell Threshold: 14%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 274
+The average lot time is: 168.00 days
+The average profit percentage is: 20.42%
+
+[ ADA ] Buy Threshold: 12%, Sell Threshold: 15%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 273
+The average lot time is: 172.34 days
+The average profit percentage is: 21.43%
+
+[ ADA ] Buy Threshold: 12%, Sell Threshold: 16%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 273
+The average lot time is: 181.27 days
+The average profit percentage is: 22.62%
+
+[ ADA ] Buy Threshold: 12%, Sell Threshold: 17%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 273
+The average lot time is: 190.25 days
+The average profit percentage is: 23.58%
+
+[ ADA ] Buy Threshold: 12%, Sell Threshold: 18%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 271
+The average lot time is: 200.99 days
+The average profit percentage is: 24.72%
+
+[ ADA ] Buy Threshold: 12%, Sell Threshold: 19%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 268
+The average lot time is: 211.37 days
+The average profit percentage is: 26.00%
+
+[ ADA ] Buy Threshold: 12%, Sell Threshold: 20%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 267
+The average lot time is: 218.52 days
+The average profit percentage is: 27.14%
+
+[ ADA ] Buy Threshold: 12%, Sell Threshold: 21%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 267
+The average lot time is: 222.39 days
+The average profit percentage is: 27.99%
+
+[ ADA ] Buy Threshold: 12%, Sell Threshold: 22%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 267
+The average lot time is: 225.46 days
+The average profit percentage is: 29.17%
+
+[ ADA ] Buy Threshold: 12%, Sell Threshold: 23%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 267
+The average lot time is: 227.72 days
+The average profit percentage is: 29.85%
+
+[ ADA ] Buy Threshold: 12%, Sell Threshold: 24%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 266
+The average lot time is: 235.48 days
+The average profit percentage is: 30.86%
+
+[ ADA ] Buy Threshold: 12%, Sell Threshold: 25%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 266
+The average lot time is: 237.76 days
+The average profit percentage is: 31.81%
+
+[ ADA ] Buy Threshold: 13%, Sell Threshold: 10%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 283
+The average lot time is: 116.50 days
+The average profit percentage is: 15.38%
+
+[ ADA ] Buy Threshold: 13%, Sell Threshold: 11%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 282
+The average lot time is: 134.10 days
+The average profit percentage is: 16.49%
+
+[ ADA ] Buy Threshold: 13%, Sell Threshold: 12%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 281
+The average lot time is: 140.02 days
+The average profit percentage is: 17.51%
+
+[ ADA ] Buy Threshold: 13%, Sell Threshold: 13%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 277
+The average lot time is: 157.26 days
+The average profit percentage is: 18.73%
+
+[ ADA ] Buy Threshold: 13%, Sell Threshold: 14%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 274
+The average lot time is: 168.00 days
+The average profit percentage is: 20.42%
+
+[ ADA ] Buy Threshold: 13%, Sell Threshold: 15%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 273
+The average lot time is: 172.34 days
+The average profit percentage is: 21.43%
+
+[ ADA ] Buy Threshold: 13%, Sell Threshold: 16%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 273
+The average lot time is: 181.27 days
+The average profit percentage is: 22.62%
+
+[ ADA ] Buy Threshold: 13%, Sell Threshold: 17%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 273
+The average lot time is: 190.25 days
+The average profit percentage is: 23.58%
+
+[ ADA ] Buy Threshold: 13%, Sell Threshold: 18%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 271
+The average lot time is: 200.99 days
+The average profit percentage is: 24.72%
+
+[ ADA ] Buy Threshold: 13%, Sell Threshold: 19%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 268
+The average lot time is: 211.37 days
+The average profit percentage is: 26.00%
+
+[ ADA ] Buy Threshold: 13%, Sell Threshold: 20%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 267
+The average lot time is: 218.52 days
+The average profit percentage is: 27.14%
+
+[ ADA ] Buy Threshold: 13%, Sell Threshold: 21%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 267
+The average lot time is: 222.39 days
+The average profit percentage is: 27.99%
+
+[ ADA ] Buy Threshold: 13%, Sell Threshold: 22%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 267
+The average lot time is: 225.46 days
+The average profit percentage is: 29.17%
+
+[ ADA ] Buy Threshold: 13%, Sell Threshold: 23%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 267
+The average lot time is: 227.72 days
+The average profit percentage is: 29.85%
+
+[ ADA ] Buy Threshold: 13%, Sell Threshold: 24%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 266
+The average lot time is: 235.48 days
+The average profit percentage is: 30.86%
+
+[ ADA ] Buy Threshold: 13%, Sell Threshold: 25%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 266
+The average lot time is: 237.76 days
+The average profit percentage is: 31.81%
+
+[ ADA ] Buy Threshold: 14%, Sell Threshold: 10%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 283
+The average lot time is: 116.50 days
+The average profit percentage is: 15.38%
+
+[ ADA ] Buy Threshold: 14%, Sell Threshold: 11%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 282
+The average lot time is: 134.10 days
+The average profit percentage is: 16.49%
+
+[ ADA ] Buy Threshold: 14%, Sell Threshold: 12%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 281
+The average lot time is: 140.02 days
+The average profit percentage is: 17.51%
+
+[ ADA ] Buy Threshold: 14%, Sell Threshold: 13%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 277
+The average lot time is: 157.26 days
+The average profit percentage is: 18.73%
+
+[ ADA ] Buy Threshold: 14%, Sell Threshold: 14%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 274
+The average lot time is: 168.00 days
+The average profit percentage is: 20.42%
+
+[ ADA ] Buy Threshold: 14%, Sell Threshold: 15%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 273
+The average lot time is: 172.34 days
+The average profit percentage is: 21.43%
+
+[ ADA ] Buy Threshold: 14%, Sell Threshold: 16%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 273
+The average lot time is: 181.27 days
+The average profit percentage is: 22.62%
+
+[ ADA ] Buy Threshold: 14%, Sell Threshold: 17%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 273
+The average lot time is: 190.25 days
+The average profit percentage is: 23.58%
+
+[ ADA ] Buy Threshold: 14%, Sell Threshold: 18%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 271
+The average lot time is: 200.99 days
+The average profit percentage is: 24.72%
+
+[ ADA ] Buy Threshold: 14%, Sell Threshold: 19%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 268
+The average lot time is: 211.37 days
+The average profit percentage is: 26.00%
+
+[ ADA ] Buy Threshold: 14%, Sell Threshold: 20%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 267
+The average lot time is: 218.52 days
+The average profit percentage is: 27.14%
+
+[ ADA ] Buy Threshold: 14%, Sell Threshold: 21%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 267
+The average lot time is: 222.39 days
+The average profit percentage is: 27.99%
+
+[ ADA ] Buy Threshold: 14%, Sell Threshold: 22%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 267
+The average lot time is: 225.46 days
+The average profit percentage is: 29.17%
+
+[ ADA ] Buy Threshold: 14%, Sell Threshold: 23%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 267
+The average lot time is: 227.72 days
+The average profit percentage is: 29.85%
+
+[ ADA ] Buy Threshold: 14%, Sell Threshold: 24%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 266
+The average lot time is: 235.48 days
+The average profit percentage is: 30.86%
+
+[ ADA ] Buy Threshold: 14%, Sell Threshold: 25%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 266
+The average lot time is: 237.76 days
+The average profit percentage is: 31.81%
+
+[ ADA ] Buy Threshold: 15%, Sell Threshold: 10%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 283
+The average lot time is: 116.50 days
+The average profit percentage is: 15.38%
+
+[ ADA ] Buy Threshold: 15%, Sell Threshold: 11%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 282
+The average lot time is: 134.10 days
+The average profit percentage is: 16.49%
+
+[ ADA ] Buy Threshold: 15%, Sell Threshold: 12%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 281
+The average lot time is: 140.02 days
+The average profit percentage is: 17.51%
+
+[ ADA ] Buy Threshold: 15%, Sell Threshold: 13%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 277
+The average lot time is: 157.26 days
+The average profit percentage is: 18.73%
+
+[ ADA ] Buy Threshold: 15%, Sell Threshold: 14%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 274
+The average lot time is: 168.00 days
+The average profit percentage is: 20.42%
+
+[ ADA ] Buy Threshold: 15%, Sell Threshold: 15%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 273
+The average lot time is: 172.34 days
+The average profit percentage is: 21.43%
+
+[ ADA ] Buy Threshold: 15%, Sell Threshold: 16%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 273
+The average lot time is: 181.27 days
+The average profit percentage is: 22.62%
+
+[ ADA ] Buy Threshold: 15%, Sell Threshold: 17%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 273
+The average lot time is: 190.25 days
+The average profit percentage is: 23.58%
+
+[ ADA ] Buy Threshold: 15%, Sell Threshold: 18%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 271
+The average lot time is: 200.99 days
+The average profit percentage is: 24.72%
+
+[ ADA ] Buy Threshold: 15%, Sell Threshold: 19%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 268
+The average lot time is: 211.37 days
+The average profit percentage is: 26.00%
+
+[ ADA ] Buy Threshold: 15%, Sell Threshold: 20%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 267
+The average lot time is: 218.52 days
+The average profit percentage is: 27.14%
+
+[ ADA ] Buy Threshold: 15%, Sell Threshold: 21%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 267
+The average lot time is: 222.39 days
+The average profit percentage is: 27.99%
+
+[ ADA ] Buy Threshold: 15%, Sell Threshold: 22%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 267
+The average lot time is: 225.46 days
+The average profit percentage is: 29.17%
+
+[ ADA ] Buy Threshold: 15%, Sell Threshold: 23%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 267
+The average lot time is: 227.72 days
+The average profit percentage is: 29.85%
+
+[ ADA ] Buy Threshold: 15%, Sell Threshold: 24%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 266
+The average lot time is: 235.48 days
+The average profit percentage is: 30.86%
+
+[ ADA ] Buy Threshold: 15%, Sell Threshold: 25%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 266
+The average lot time is: 237.76 days
+The average profit percentage is: 31.81%
+
+[ ADA ] Buy Threshold: 16%, Sell Threshold: 10%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 283
+The average lot time is: 116.50 days
+The average profit percentage is: 15.38%
+
+[ ADA ] Buy Threshold: 16%, Sell Threshold: 11%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 282
+The average lot time is: 134.10 days
+The average profit percentage is: 16.49%
+
+[ ADA ] Buy Threshold: 16%, Sell Threshold: 12%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 281
+The average lot time is: 140.02 days
+The average profit percentage is: 17.51%
+
+[ ADA ] Buy Threshold: 16%, Sell Threshold: 13%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 277
+The average lot time is: 157.26 days
+The average profit percentage is: 18.73%
+
+[ ADA ] Buy Threshold: 16%, Sell Threshold: 14%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 274
+The average lot time is: 168.00 days
+The average profit percentage is: 20.42%
+
+[ ADA ] Buy Threshold: 16%, Sell Threshold: 15%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 273
+The average lot time is: 172.34 days
+The average profit percentage is: 21.43%
+
+[ ADA ] Buy Threshold: 16%, Sell Threshold: 16%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 273
+The average lot time is: 181.27 days
+The average profit percentage is: 22.62%
+
+[ ADA ] Buy Threshold: 16%, Sell Threshold: 17%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 273
+The average lot time is: 190.25 days
+The average profit percentage is: 23.58%
+
+[ ADA ] Buy Threshold: 16%, Sell Threshold: 18%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 271
+The average lot time is: 200.99 days
+The average profit percentage is: 24.72%
+
+[ ADA ] Buy Threshold: 16%, Sell Threshold: 19%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 268
+The average lot time is: 211.37 days
+The average profit percentage is: 26.00%
+
+[ ADA ] Buy Threshold: 16%, Sell Threshold: 20%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 267
+The average lot time is: 218.52 days
+The average profit percentage is: 27.14%
+
+[ ADA ] Buy Threshold: 16%, Sell Threshold: 21%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 267
+The average lot time is: 222.39 days
+The average profit percentage is: 27.99%
+
+[ ADA ] Buy Threshold: 16%, Sell Threshold: 22%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 267
+The average lot time is: 225.46 days
+The average profit percentage is: 29.17%
+
+[ ADA ] Buy Threshold: 16%, Sell Threshold: 23%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 267
+The average lot time is: 227.72 days
+The average profit percentage is: 29.85%
+
+[ ADA ] Buy Threshold: 16%, Sell Threshold: 24%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 266
+The average lot time is: 235.48 days
+The average profit percentage is: 30.86%
+
+[ ADA ] Buy Threshold: 16%, Sell Threshold: 25%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 266
+The average lot time is: 237.76 days
+The average profit percentage is: 31.81%
+
+[ ADA ] Buy Threshold: 17%, Sell Threshold: 10%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 283
+The average lot time is: 116.50 days
+The average profit percentage is: 15.38%
+
+[ ADA ] Buy Threshold: 17%, Sell Threshold: 11%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 282
+The average lot time is: 134.10 days
+The average profit percentage is: 16.49%
+
+[ ADA ] Buy Threshold: 17%, Sell Threshold: 12%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 281
+The average lot time is: 140.02 days
+The average profit percentage is: 17.51%
+
+[ ADA ] Buy Threshold: 17%, Sell Threshold: 13%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 277
+The average lot time is: 157.26 days
+The average profit percentage is: 18.73%
+
+[ ADA ] Buy Threshold: 17%, Sell Threshold: 14%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 274
+The average lot time is: 168.00 days
+The average profit percentage is: 20.42%
+
+[ ADA ] Buy Threshold: 17%, Sell Threshold: 15%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 273
+The average lot time is: 172.34 days
+The average profit percentage is: 21.43%
+
+[ ADA ] Buy Threshold: 17%, Sell Threshold: 16%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 273
+The average lot time is: 181.27 days
+The average profit percentage is: 22.62%
+
+[ ADA ] Buy Threshold: 17%, Sell Threshold: 17%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 273
+The average lot time is: 190.25 days
+The average profit percentage is: 23.58%
+
+[ ADA ] Buy Threshold: 17%, Sell Threshold: 18%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 271
+The average lot time is: 200.99 days
+The average profit percentage is: 24.72%
+
+[ ADA ] Buy Threshold: 17%, Sell Threshold: 19%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 268
+The average lot time is: 211.37 days
+The average profit percentage is: 26.00%
+
+[ ADA ] Buy Threshold: 17%, Sell Threshold: 20%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 267
+The average lot time is: 218.52 days
+The average profit percentage is: 27.14%
+
+[ ADA ] Buy Threshold: 17%, Sell Threshold: 21%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 267
+The average lot time is: 222.39 days
+The average profit percentage is: 27.99%
+
+[ ADA ] Buy Threshold: 17%, Sell Threshold: 22%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 267
+The average lot time is: 225.46 days
+The average profit percentage is: 29.17%
+
+[ ADA ] Buy Threshold: 17%, Sell Threshold: 23%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 267
+The average lot time is: 227.72 days
+The average profit percentage is: 29.85%
+
+[ ADA ] Buy Threshold: 17%, Sell Threshold: 24%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 266
+The average lot time is: 235.48 days
+The average profit percentage is: 30.86%
+
+[ ADA ] Buy Threshold: 17%, Sell Threshold: 25%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 266
+The average lot time is: 237.76 days
+The average profit percentage is: 31.81%
+
+[ ADA ] Buy Threshold: 18%, Sell Threshold: 10%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 283
+The average lot time is: 116.50 days
+The average profit percentage is: 15.38%
+
+[ ADA ] Buy Threshold: 18%, Sell Threshold: 11%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 282
+The average lot time is: 134.10 days
+The average profit percentage is: 16.49%
+
+[ ADA ] Buy Threshold: 18%, Sell Threshold: 12%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 281
+The average lot time is: 140.02 days
+The average profit percentage is: 17.51%
+
+[ ADA ] Buy Threshold: 18%, Sell Threshold: 13%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 277
+The average lot time is: 157.26 days
+The average profit percentage is: 18.73%
+
+[ ADA ] Buy Threshold: 18%, Sell Threshold: 14%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 274
+The average lot time is: 168.00 days
+The average profit percentage is: 20.42%
+
+[ ADA ] Buy Threshold: 18%, Sell Threshold: 15%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 273
+The average lot time is: 172.34 days
+The average profit percentage is: 21.43%
+
+[ ADA ] Buy Threshold: 18%, Sell Threshold: 16%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 273
+The average lot time is: 181.27 days
+The average profit percentage is: 22.62%
+
+[ ADA ] Buy Threshold: 18%, Sell Threshold: 17%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 273
+The average lot time is: 190.25 days
+The average profit percentage is: 23.58%
+
+[ ADA ] Buy Threshold: 18%, Sell Threshold: 18%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 271
+The average lot time is: 200.99 days
+The average profit percentage is: 24.72%
+
+[ ADA ] Buy Threshold: 18%, Sell Threshold: 19%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 268
+The average lot time is: 211.37 days
+The average profit percentage is: 26.00%
+
+[ ADA ] Buy Threshold: 18%, Sell Threshold: 20%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 267
+The average lot time is: 218.52 days
+The average profit percentage is: 27.14%
+
+[ ADA ] Buy Threshold: 18%, Sell Threshold: 21%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 267
+The average lot time is: 222.39 days
+The average profit percentage is: 27.99%
+
+[ ADA ] Buy Threshold: 18%, Sell Threshold: 22%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 267
+The average lot time is: 225.46 days
+The average profit percentage is: 29.17%
+
+[ ADA ] Buy Threshold: 18%, Sell Threshold: 23%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 267
+The average lot time is: 227.72 days
+The average profit percentage is: 29.85%
+
+[ ADA ] Buy Threshold: 18%, Sell Threshold: 24%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 266
+The average lot time is: 235.48 days
+The average profit percentage is: 30.86%
+
+[ ADA ] Buy Threshold: 18%, Sell Threshold: 25%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 266
+The average lot time is: 237.76 days
+The average profit percentage is: 31.81%
+
+[ ADA ] Buy Threshold: 19%, Sell Threshold: 10%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 283
+The average lot time is: 116.50 days
+The average profit percentage is: 15.38%
+
+[ ADA ] Buy Threshold: 19%, Sell Threshold: 11%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 282
+The average lot time is: 134.10 days
+The average profit percentage is: 16.49%
+
+[ ADA ] Buy Threshold: 19%, Sell Threshold: 12%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 281
+The average lot time is: 140.02 days
+The average profit percentage is: 17.51%
+
+[ ADA ] Buy Threshold: 19%, Sell Threshold: 13%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 277
+The average lot time is: 157.26 days
+The average profit percentage is: 18.73%
+
+[ ADA ] Buy Threshold: 19%, Sell Threshold: 14%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 274
+The average lot time is: 168.00 days
+The average profit percentage is: 20.42%
+
+[ ADA ] Buy Threshold: 19%, Sell Threshold: 15%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 273
+The average lot time is: 172.34 days
+The average profit percentage is: 21.43%
+
+[ ADA ] Buy Threshold: 19%, Sell Threshold: 16%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 273
+The average lot time is: 181.27 days
+The average profit percentage is: 22.62%
+
+[ ADA ] Buy Threshold: 19%, Sell Threshold: 17%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 273
+The average lot time is: 190.25 days
+The average profit percentage is: 23.58%
+
+[ ADA ] Buy Threshold: 19%, Sell Threshold: 18%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 271
+The average lot time is: 200.99 days
+The average profit percentage is: 24.72%
+
+[ ADA ] Buy Threshold: 19%, Sell Threshold: 19%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 268
+The average lot time is: 211.37 days
+The average profit percentage is: 26.00%
+
+[ ADA ] Buy Threshold: 19%, Sell Threshold: 20%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 267
+The average lot time is: 218.52 days
+The average profit percentage is: 27.14%
+
+[ ADA ] Buy Threshold: 19%, Sell Threshold: 21%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 267
+The average lot time is: 222.39 days
+The average profit percentage is: 27.99%
+
+[ ADA ] Buy Threshold: 19%, Sell Threshold: 22%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 267
+The average lot time is: 225.46 days
+The average profit percentage is: 29.17%
+
+[ ADA ] Buy Threshold: 19%, Sell Threshold: 23%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 267
+The average lot time is: 227.72 days
+The average profit percentage is: 29.85%
+
+[ ADA ] Buy Threshold: 19%, Sell Threshold: 24%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 266
+The average lot time is: 235.48 days
+The average profit percentage is: 30.86%
+
+[ ADA ] Buy Threshold: 19%, Sell Threshold: 25%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 266
+The average lot time is: 237.76 days
+The average profit percentage is: 31.81%
+
+[ ADA ] Buy Threshold: 20%, Sell Threshold: 10%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 283
+The average lot time is: 116.50 days
+The average profit percentage is: 15.38%
+
+[ ADA ] Buy Threshold: 20%, Sell Threshold: 11%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 282
+The average lot time is: 134.10 days
+The average profit percentage is: 16.49%
+
+[ ADA ] Buy Threshold: 20%, Sell Threshold: 12%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 281
+The average lot time is: 140.02 days
+The average profit percentage is: 17.51%
+
+[ ADA ] Buy Threshold: 20%, Sell Threshold: 13%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 277
+The average lot time is: 157.26 days
+The average profit percentage is: 18.73%
+
+[ ADA ] Buy Threshold: 20%, Sell Threshold: 14%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 274
+The average lot time is: 168.00 days
+The average profit percentage is: 20.42%
+
+[ ADA ] Buy Threshold: 20%, Sell Threshold: 15%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 273
+The average lot time is: 172.34 days
+The average profit percentage is: 21.43%
+
+[ ADA ] Buy Threshold: 20%, Sell Threshold: 16%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 273
+The average lot time is: 181.27 days
+The average profit percentage is: 22.62%
+
+[ ADA ] Buy Threshold: 20%, Sell Threshold: 17%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 273
+The average lot time is: 190.25 days
+The average profit percentage is: 23.58%
+
+[ ADA ] Buy Threshold: 20%, Sell Threshold: 18%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 271
+The average lot time is: 200.99 days
+The average profit percentage is: 24.72%
+
+[ ADA ] Buy Threshold: 20%, Sell Threshold: 19%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 268
+The average lot time is: 211.37 days
+The average profit percentage is: 26.00%
+
+[ ADA ] Buy Threshold: 20%, Sell Threshold: 20%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 267
+The average lot time is: 218.52 days
+The average profit percentage is: 27.14%
+
+[ ADA ] Buy Threshold: 20%, Sell Threshold: 21%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 267
+The average lot time is: 222.39 days
+The average profit percentage is: 27.99%
+
+[ ADA ] Buy Threshold: 20%, Sell Threshold: 22%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 267
+The average lot time is: 225.46 days
+The average profit percentage is: 29.17%
+
+[ ADA ] Buy Threshold: 20%, Sell Threshold: 23%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 267
+The average lot time is: 227.72 days
+The average profit percentage is: 29.85%
+
+[ ADA ] Buy Threshold: 20%, Sell Threshold: 24%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 266
+The average lot time is: 235.48 days
+The average profit percentage is: 30.86%
+
+[ ADA ] Buy Threshold: 20%, Sell Threshold: 25%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 266
+The average lot time is: 237.76 days
+The average profit percentage is: 31.81%
+
+[ ADA ] Buy Threshold: 21%, Sell Threshold: 10%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 283
+The average lot time is: 116.50 days
+The average profit percentage is: 15.38%
+
+[ ADA ] Buy Threshold: 21%, Sell Threshold: 11%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 282
+The average lot time is: 134.10 days
+The average profit percentage is: 16.49%
+
+[ ADA ] Buy Threshold: 21%, Sell Threshold: 12%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 281
+The average lot time is: 140.02 days
+The average profit percentage is: 17.51%
+
+[ ADA ] Buy Threshold: 21%, Sell Threshold: 13%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 277
+The average lot time is: 157.26 days
+The average profit percentage is: 18.73%
+
+[ ADA ] Buy Threshold: 21%, Sell Threshold: 14%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 274
+The average lot time is: 168.00 days
+The average profit percentage is: 20.42%
+
+[ ADA ] Buy Threshold: 21%, Sell Threshold: 15%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 273
+The average lot time is: 172.34 days
+The average profit percentage is: 21.43%
+
+[ ADA ] Buy Threshold: 21%, Sell Threshold: 16%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 273
+The average lot time is: 181.27 days
+The average profit percentage is: 22.62%
+
+[ ADA ] Buy Threshold: 21%, Sell Threshold: 17%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 273
+The average lot time is: 190.25 days
+The average profit percentage is: 23.58%
+
+[ ADA ] Buy Threshold: 21%, Sell Threshold: 18%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 271
+The average lot time is: 200.99 days
+The average profit percentage is: 24.72%
+
+[ ADA ] Buy Threshold: 21%, Sell Threshold: 19%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 268
+The average lot time is: 211.37 days
+The average profit percentage is: 26.00%
+
+[ ADA ] Buy Threshold: 21%, Sell Threshold: 20%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 267
+The average lot time is: 218.52 days
+The average profit percentage is: 27.14%
+
+[ ADA ] Buy Threshold: 21%, Sell Threshold: 21%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 267
+The average lot time is: 222.39 days
+The average profit percentage is: 27.99%
+
+[ ADA ] Buy Threshold: 21%, Sell Threshold: 22%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 267
+The average lot time is: 225.46 days
+The average profit percentage is: 29.17%
+
+[ ADA ] Buy Threshold: 21%, Sell Threshold: 23%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 267
+The average lot time is: 227.72 days
+The average profit percentage is: 29.85%
+
+[ ADA ] Buy Threshold: 21%, Sell Threshold: 24%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 266
+The average lot time is: 235.48 days
+The average profit percentage is: 30.86%
+
+[ ADA ] Buy Threshold: 21%, Sell Threshold: 25%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 266
+The average lot time is: 237.76 days
+The average profit percentage is: 31.81%
+
+[ ADA ] Buy Threshold: 22%, Sell Threshold: 10%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 283
+The average lot time is: 116.50 days
+The average profit percentage is: 15.38%
+
+[ ADA ] Buy Threshold: 22%, Sell Threshold: 11%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 282
+The average lot time is: 134.10 days
+The average profit percentage is: 16.49%
+
+[ ADA ] Buy Threshold: 22%, Sell Threshold: 12%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 281
+The average lot time is: 140.02 days
+The average profit percentage is: 17.51%
+
+[ ADA ] Buy Threshold: 22%, Sell Threshold: 13%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 277
+The average lot time is: 157.26 days
+The average profit percentage is: 18.73%
+
+[ ADA ] Buy Threshold: 22%, Sell Threshold: 14%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 274
+The average lot time is: 168.00 days
+The average profit percentage is: 20.42%
+
+[ ADA ] Buy Threshold: 22%, Sell Threshold: 15%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 273
+The average lot time is: 172.34 days
+The average profit percentage is: 21.43%
+
+[ ADA ] Buy Threshold: 22%, Sell Threshold: 16%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 273
+The average lot time is: 181.27 days
+The average profit percentage is: 22.62%
+
+[ ADA ] Buy Threshold: 22%, Sell Threshold: 17%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 273
+The average lot time is: 190.25 days
+The average profit percentage is: 23.58%
+
+[ ADA ] Buy Threshold: 22%, Sell Threshold: 18%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 271
+The average lot time is: 200.99 days
+The average profit percentage is: 24.72%
+
+[ ADA ] Buy Threshold: 22%, Sell Threshold: 19%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 268
+The average lot time is: 211.37 days
+The average profit percentage is: 26.00%
+
+[ ADA ] Buy Threshold: 22%, Sell Threshold: 20%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 267
+The average lot time is: 218.52 days
+The average profit percentage is: 27.14%
+
+[ ADA ] Buy Threshold: 22%, Sell Threshold: 21%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 267
+The average lot time is: 222.39 days
+The average profit percentage is: 27.99%
+
+[ ADA ] Buy Threshold: 22%, Sell Threshold: 22%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 267
+The average lot time is: 225.46 days
+The average profit percentage is: 29.17%
+
+[ ADA ] Buy Threshold: 22%, Sell Threshold: 23%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 267
+The average lot time is: 227.72 days
+The average profit percentage is: 29.85%
+
+[ ADA ] Buy Threshold: 22%, Sell Threshold: 24%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 266
+The average lot time is: 235.48 days
+The average profit percentage is: 30.86%
+
+[ ADA ] Buy Threshold: 22%, Sell Threshold: 25%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 266
+The average lot time is: 237.76 days
+The average profit percentage is: 31.81%
+
+[ ADA ] Buy Threshold: 23%, Sell Threshold: 10%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 283
+The average lot time is: 116.50 days
+The average profit percentage is: 15.38%
+
+[ ADA ] Buy Threshold: 23%, Sell Threshold: 11%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 282
+The average lot time is: 134.10 days
+The average profit percentage is: 16.49%
+
+[ ADA ] Buy Threshold: 23%, Sell Threshold: 12%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 281
+The average lot time is: 140.02 days
+The average profit percentage is: 17.51%
+
+[ ADA ] Buy Threshold: 23%, Sell Threshold: 13%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 277
+The average lot time is: 157.26 days
+The average profit percentage is: 18.73%
+
+[ ADA ] Buy Threshold: 23%, Sell Threshold: 14%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 274
+The average lot time is: 168.00 days
+The average profit percentage is: 20.42%
+
+[ ADA ] Buy Threshold: 23%, Sell Threshold: 15%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 273
+The average lot time is: 172.34 days
+The average profit percentage is: 21.43%
+
+[ ADA ] Buy Threshold: 23%, Sell Threshold: 16%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 273
+The average lot time is: 181.27 days
+The average profit percentage is: 22.62%
+
+[ ADA ] Buy Threshold: 23%, Sell Threshold: 17%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 273
+The average lot time is: 190.25 days
+The average profit percentage is: 23.58%
+
+[ ADA ] Buy Threshold: 23%, Sell Threshold: 18%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 271
+The average lot time is: 200.99 days
+The average profit percentage is: 24.72%
+
+[ ADA ] Buy Threshold: 23%, Sell Threshold: 19%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 268
+The average lot time is: 211.37 days
+The average profit percentage is: 26.00%
+
+[ ADA ] Buy Threshold: 23%, Sell Threshold: 20%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 267
+The average lot time is: 218.52 days
+The average profit percentage is: 27.14%
+
+[ ADA ] Buy Threshold: 23%, Sell Threshold: 21%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 267
+The average lot time is: 222.39 days
+The average profit percentage is: 27.99%
+
+[ ADA ] Buy Threshold: 23%, Sell Threshold: 22%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 267
+The average lot time is: 225.46 days
+The average profit percentage is: 29.17%
+
+[ ADA ] Buy Threshold: 23%, Sell Threshold: 23%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 267
+The average lot time is: 227.72 days
+The average profit percentage is: 29.85%
+
+[ ADA ] Buy Threshold: 23%, Sell Threshold: 24%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 266
+The average lot time is: 235.48 days
+The average profit percentage is: 30.86%
+
+[ ADA ] Buy Threshold: 23%, Sell Threshold: 25%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 266
+The average lot time is: 237.76 days
+The average profit percentage is: 31.81%
+
+[ ADA ] Buy Threshold: 24%, Sell Threshold: 10%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 283
+The average lot time is: 116.50 days
+The average profit percentage is: 15.38%
+
+[ ADA ] Buy Threshold: 24%, Sell Threshold: 11%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 282
+The average lot time is: 134.10 days
+The average profit percentage is: 16.49%
+
+[ ADA ] Buy Threshold: 24%, Sell Threshold: 12%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 281
+The average lot time is: 140.02 days
+The average profit percentage is: 17.51%
+
+[ ADA ] Buy Threshold: 24%, Sell Threshold: 13%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 277
+The average lot time is: 157.26 days
+The average profit percentage is: 18.73%
+
+[ ADA ] Buy Threshold: 24%, Sell Threshold: 14%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 274
+The average lot time is: 168.00 days
+The average profit percentage is: 20.42%
+
+[ ADA ] Buy Threshold: 24%, Sell Threshold: 15%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 273
+The average lot time is: 172.34 days
+The average profit percentage is: 21.43%
+
+[ ADA ] Buy Threshold: 24%, Sell Threshold: 16%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 273
+The average lot time is: 181.27 days
+The average profit percentage is: 22.62%
+
+[ ADA ] Buy Threshold: 24%, Sell Threshold: 17%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 273
+The average lot time is: 190.25 days
+The average profit percentage is: 23.58%
+
+[ ADA ] Buy Threshold: 24%, Sell Threshold: 18%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 271
+The average lot time is: 200.99 days
+The average profit percentage is: 24.72%
+
+[ ADA ] Buy Threshold: 24%, Sell Threshold: 19%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 268
+The average lot time is: 211.37 days
+The average profit percentage is: 26.00%
+
+[ ADA ] Buy Threshold: 24%, Sell Threshold: 20%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 267
+The average lot time is: 218.52 days
+The average profit percentage is: 27.14%
+
+[ ADA ] Buy Threshold: 24%, Sell Threshold: 21%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 267
+The average lot time is: 222.39 days
+The average profit percentage is: 27.99%
+
+[ ADA ] Buy Threshold: 24%, Sell Threshold: 22%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 267
+The average lot time is: 225.46 days
+The average profit percentage is: 29.17%
+
+[ ADA ] Buy Threshold: 24%, Sell Threshold: 23%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 267
+The average lot time is: 227.72 days
+The average profit percentage is: 29.85%
+
+[ ADA ] Buy Threshold: 24%, Sell Threshold: 24%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 266
+The average lot time is: 235.48 days
+The average profit percentage is: 30.86%
+
+[ ADA ] Buy Threshold: 24%, Sell Threshold: 25%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 266
+The average lot time is: 237.76 days
+The average profit percentage is: 31.81%
+
+[ ADA ] Buy Threshold: 25%, Sell Threshold: 10%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 283
+The average lot time is: 116.50 days
+The average profit percentage is: 15.38%
+
+[ ADA ] Buy Threshold: 25%, Sell Threshold: 11%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 282
+The average lot time is: 134.10 days
+The average profit percentage is: 16.49%
+
+[ ADA ] Buy Threshold: 25%, Sell Threshold: 12%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 281
+The average lot time is: 140.02 days
+The average profit percentage is: 17.51%
+
+[ ADA ] Buy Threshold: 25%, Sell Threshold: 13%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 277
+The average lot time is: 157.26 days
+The average profit percentage is: 18.73%
+
+[ ADA ] Buy Threshold: 25%, Sell Threshold: 14%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 274
+The average lot time is: 168.00 days
+The average profit percentage is: 20.42%
+
+[ ADA ] Buy Threshold: 25%, Sell Threshold: 15%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 273
+The average lot time is: 172.34 days
+The average profit percentage is: 21.43%
+
+[ ADA ] Buy Threshold: 25%, Sell Threshold: 16%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 273
+The average lot time is: 181.27 days
+The average profit percentage is: 22.62%
+
+[ ADA ] Buy Threshold: 25%, Sell Threshold: 17%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 273
+The average lot time is: 190.25 days
+The average profit percentage is: 23.58%
+
+[ ADA ] Buy Threshold: 25%, Sell Threshold: 18%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 271
+The average lot time is: 200.99 days
+The average profit percentage is: 24.72%
+
+[ ADA ] Buy Threshold: 25%, Sell Threshold: 19%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 268
+The average lot time is: 211.37 days
+The average profit percentage is: 26.00%
+
+[ ADA ] Buy Threshold: 25%, Sell Threshold: 20%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 267
+The average lot time is: 218.52 days
+The average profit percentage is: 27.14%
+
+[ ADA ] Buy Threshold: 25%, Sell Threshold: 21%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 267
+The average lot time is: 222.39 days
+The average profit percentage is: 27.99%
+
+[ ADA ] Buy Threshold: 25%, Sell Threshold: 22%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 267
+The average lot time is: 225.46 days
+The average profit percentage is: 29.17%
+
+[ ADA ] Buy Threshold: 25%, Sell Threshold: 23%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 267
+The average lot time is: 227.72 days
+The average profit percentage is: 29.85%
+
+[ ADA ] Buy Threshold: 25%, Sell Threshold: 24%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 266
+The average lot time is: 235.48 days
+The average profit percentage is: 30.86%
+
+[ ADA ] Buy Threshold: 25%, Sell Threshold: 25%
+Number of 24-hour windows with at least 5% price drop: 300
+The average drop window percentage is: -8.62%
+Number of successful sell events: 266
+The average lot time is: 237.76 days
+The average profit percentage is: 31.81%
+

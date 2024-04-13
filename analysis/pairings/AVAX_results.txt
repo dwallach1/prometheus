@@ -1,0 +1,2352 @@
+[ AVAX ] Buy Threshold: 5%, Sell Threshold: 10%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 177
+The average lot time is: 58.37 days
+The average profit percentage is: 16.16%
+
+[ AVAX ] Buy Threshold: 5%, Sell Threshold: 11%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 177
+The average lot time is: 59.68 days
+The average profit percentage is: 16.98%
+
+[ AVAX ] Buy Threshold: 5%, Sell Threshold: 12%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 176
+The average lot time is: 60.39 days
+The average profit percentage is: 17.93%
+
+[ AVAX ] Buy Threshold: 5%, Sell Threshold: 13%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 176
+The average lot time is: 63.14 days
+The average profit percentage is: 18.57%
+
+[ AVAX ] Buy Threshold: 5%, Sell Threshold: 14%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 173
+The average lot time is: 65.97 days
+The average profit percentage is: 19.65%
+
+[ AVAX ] Buy Threshold: 5%, Sell Threshold: 15%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 171
+The average lot time is: 69.54 days
+The average profit percentage is: 20.99%
+
+[ AVAX ] Buy Threshold: 5%, Sell Threshold: 16%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 170
+The average lot time is: 75.47 days
+The average profit percentage is: 21.94%
+
+[ AVAX ] Buy Threshold: 5%, Sell Threshold: 17%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 169
+The average lot time is: 78.20 days
+The average profit percentage is: 23.10%
+
+[ AVAX ] Buy Threshold: 5%, Sell Threshold: 18%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 167
+The average lot time is: 79.18 days
+The average profit percentage is: 24.14%
+
+[ AVAX ] Buy Threshold: 5%, Sell Threshold: 19%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 166
+The average lot time is: 84.62 days
+The average profit percentage is: 24.99%
+
+[ AVAX ] Buy Threshold: 5%, Sell Threshold: 20%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 165
+The average lot time is: 88.75 days
+The average profit percentage is: 25.94%
+
+[ AVAX ] Buy Threshold: 5%, Sell Threshold: 21%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 165
+The average lot time is: 90.94 days
+The average profit percentage is: 27.16%
+
+[ AVAX ] Buy Threshold: 5%, Sell Threshold: 22%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 165
+The average lot time is: 91.58 days
+The average profit percentage is: 28.06%
+
+[ AVAX ] Buy Threshold: 5%, Sell Threshold: 23%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 165
+The average lot time is: 92.11 days
+The average profit percentage is: 29.42%
+
+[ AVAX ] Buy Threshold: 5%, Sell Threshold: 24%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 165
+The average lot time is: 98.43 days
+The average profit percentage is: 30.67%
+
+[ AVAX ] Buy Threshold: 5%, Sell Threshold: 25%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 164
+The average lot time is: 102.26 days
+The average profit percentage is: 31.81%
+
+[ AVAX ] Buy Threshold: 6%, Sell Threshold: 10%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 177
+The average lot time is: 58.37 days
+The average profit percentage is: 16.16%
+
+[ AVAX ] Buy Threshold: 6%, Sell Threshold: 11%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 177
+The average lot time is: 59.68 days
+The average profit percentage is: 16.98%
+
+[ AVAX ] Buy Threshold: 6%, Sell Threshold: 12%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 176
+The average lot time is: 60.39 days
+The average profit percentage is: 17.93%
+
+[ AVAX ] Buy Threshold: 6%, Sell Threshold: 13%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 176
+The average lot time is: 63.14 days
+The average profit percentage is: 18.57%
+
+[ AVAX ] Buy Threshold: 6%, Sell Threshold: 14%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 173
+The average lot time is: 65.97 days
+The average profit percentage is: 19.65%
+
+[ AVAX ] Buy Threshold: 6%, Sell Threshold: 15%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 171
+The average lot time is: 69.54 days
+The average profit percentage is: 20.99%
+
+[ AVAX ] Buy Threshold: 6%, Sell Threshold: 16%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 170
+The average lot time is: 75.47 days
+The average profit percentage is: 21.94%
+
+[ AVAX ] Buy Threshold: 6%, Sell Threshold: 17%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 169
+The average lot time is: 78.20 days
+The average profit percentage is: 23.10%
+
+[ AVAX ] Buy Threshold: 6%, Sell Threshold: 18%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 167
+The average lot time is: 79.18 days
+The average profit percentage is: 24.14%
+
+[ AVAX ] Buy Threshold: 6%, Sell Threshold: 19%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 166
+The average lot time is: 84.62 days
+The average profit percentage is: 24.99%
+
+[ AVAX ] Buy Threshold: 6%, Sell Threshold: 20%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 165
+The average lot time is: 88.75 days
+The average profit percentage is: 25.94%
+
+[ AVAX ] Buy Threshold: 6%, Sell Threshold: 21%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 165
+The average lot time is: 90.94 days
+The average profit percentage is: 27.16%
+
+[ AVAX ] Buy Threshold: 6%, Sell Threshold: 22%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 165
+The average lot time is: 91.58 days
+The average profit percentage is: 28.06%
+
+[ AVAX ] Buy Threshold: 6%, Sell Threshold: 23%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 165
+The average lot time is: 92.11 days
+The average profit percentage is: 29.42%
+
+[ AVAX ] Buy Threshold: 6%, Sell Threshold: 24%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 165
+The average lot time is: 98.43 days
+The average profit percentage is: 30.67%
+
+[ AVAX ] Buy Threshold: 6%, Sell Threshold: 25%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 164
+The average lot time is: 102.26 days
+The average profit percentage is: 31.81%
+
+[ AVAX ] Buy Threshold: 7%, Sell Threshold: 10%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 177
+The average lot time is: 58.37 days
+The average profit percentage is: 16.16%
+
+[ AVAX ] Buy Threshold: 7%, Sell Threshold: 11%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 177
+The average lot time is: 59.68 days
+The average profit percentage is: 16.98%
+
+[ AVAX ] Buy Threshold: 7%, Sell Threshold: 12%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 176
+The average lot time is: 60.39 days
+The average profit percentage is: 17.93%
+
+[ AVAX ] Buy Threshold: 7%, Sell Threshold: 13%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 176
+The average lot time is: 63.14 days
+The average profit percentage is: 18.57%
+
+[ AVAX ] Buy Threshold: 7%, Sell Threshold: 14%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 173
+The average lot time is: 65.97 days
+The average profit percentage is: 19.65%
+
+[ AVAX ] Buy Threshold: 7%, Sell Threshold: 15%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 171
+The average lot time is: 69.54 days
+The average profit percentage is: 20.99%
+
+[ AVAX ] Buy Threshold: 7%, Sell Threshold: 16%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 170
+The average lot time is: 75.47 days
+The average profit percentage is: 21.94%
+
+[ AVAX ] Buy Threshold: 7%, Sell Threshold: 17%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 169
+The average lot time is: 78.20 days
+The average profit percentage is: 23.10%
+
+[ AVAX ] Buy Threshold: 7%, Sell Threshold: 18%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 167
+The average lot time is: 79.18 days
+The average profit percentage is: 24.14%
+
+[ AVAX ] Buy Threshold: 7%, Sell Threshold: 19%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 166
+The average lot time is: 84.62 days
+The average profit percentage is: 24.99%
+
+[ AVAX ] Buy Threshold: 7%, Sell Threshold: 20%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 165
+The average lot time is: 88.75 days
+The average profit percentage is: 25.94%
+
+[ AVAX ] Buy Threshold: 7%, Sell Threshold: 21%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 165
+The average lot time is: 90.94 days
+The average profit percentage is: 27.16%
+
+[ AVAX ] Buy Threshold: 7%, Sell Threshold: 22%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 165
+The average lot time is: 91.58 days
+The average profit percentage is: 28.06%
+
+[ AVAX ] Buy Threshold: 7%, Sell Threshold: 23%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 165
+The average lot time is: 92.11 days
+The average profit percentage is: 29.42%
+
+[ AVAX ] Buy Threshold: 7%, Sell Threshold: 24%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 165
+The average lot time is: 98.43 days
+The average profit percentage is: 30.67%
+
+[ AVAX ] Buy Threshold: 7%, Sell Threshold: 25%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 164
+The average lot time is: 102.26 days
+The average profit percentage is: 31.81%
+
+[ AVAX ] Buy Threshold: 8%, Sell Threshold: 10%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 177
+The average lot time is: 58.37 days
+The average profit percentage is: 16.16%
+
+[ AVAX ] Buy Threshold: 8%, Sell Threshold: 11%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 177
+The average lot time is: 59.68 days
+The average profit percentage is: 16.98%
+
+[ AVAX ] Buy Threshold: 8%, Sell Threshold: 12%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 176
+The average lot time is: 60.39 days
+The average profit percentage is: 17.93%
+
+[ AVAX ] Buy Threshold: 8%, Sell Threshold: 13%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 176
+The average lot time is: 63.14 days
+The average profit percentage is: 18.57%
+
+[ AVAX ] Buy Threshold: 8%, Sell Threshold: 14%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 173
+The average lot time is: 65.97 days
+The average profit percentage is: 19.65%
+
+[ AVAX ] Buy Threshold: 8%, Sell Threshold: 15%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 171
+The average lot time is: 69.54 days
+The average profit percentage is: 20.99%
+
+[ AVAX ] Buy Threshold: 8%, Sell Threshold: 16%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 170
+The average lot time is: 75.47 days
+The average profit percentage is: 21.94%
+
+[ AVAX ] Buy Threshold: 8%, Sell Threshold: 17%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 169
+The average lot time is: 78.20 days
+The average profit percentage is: 23.10%
+
+[ AVAX ] Buy Threshold: 8%, Sell Threshold: 18%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 167
+The average lot time is: 79.18 days
+The average profit percentage is: 24.14%
+
+[ AVAX ] Buy Threshold: 8%, Sell Threshold: 19%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 166
+The average lot time is: 84.62 days
+The average profit percentage is: 24.99%
+
+[ AVAX ] Buy Threshold: 8%, Sell Threshold: 20%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 165
+The average lot time is: 88.75 days
+The average profit percentage is: 25.94%
+
+[ AVAX ] Buy Threshold: 8%, Sell Threshold: 21%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 165
+The average lot time is: 90.94 days
+The average profit percentage is: 27.16%
+
+[ AVAX ] Buy Threshold: 8%, Sell Threshold: 22%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 165
+The average lot time is: 91.58 days
+The average profit percentage is: 28.06%
+
+[ AVAX ] Buy Threshold: 8%, Sell Threshold: 23%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 165
+The average lot time is: 92.11 days
+The average profit percentage is: 29.42%
+
+[ AVAX ] Buy Threshold: 8%, Sell Threshold: 24%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 165
+The average lot time is: 98.43 days
+The average profit percentage is: 30.67%
+
+[ AVAX ] Buy Threshold: 8%, Sell Threshold: 25%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 164
+The average lot time is: 102.26 days
+The average profit percentage is: 31.81%
+
+[ AVAX ] Buy Threshold: 9%, Sell Threshold: 10%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 177
+The average lot time is: 58.37 days
+The average profit percentage is: 16.16%
+
+[ AVAX ] Buy Threshold: 9%, Sell Threshold: 11%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 177
+The average lot time is: 59.68 days
+The average profit percentage is: 16.98%
+
+[ AVAX ] Buy Threshold: 9%, Sell Threshold: 12%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 176
+The average lot time is: 60.39 days
+The average profit percentage is: 17.93%
+
+[ AVAX ] Buy Threshold: 9%, Sell Threshold: 13%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 176
+The average lot time is: 63.14 days
+The average profit percentage is: 18.57%
+
+[ AVAX ] Buy Threshold: 9%, Sell Threshold: 14%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 173
+The average lot time is: 65.97 days
+The average profit percentage is: 19.65%
+
+[ AVAX ] Buy Threshold: 9%, Sell Threshold: 15%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 171
+The average lot time is: 69.54 days
+The average profit percentage is: 20.99%
+
+[ AVAX ] Buy Threshold: 9%, Sell Threshold: 16%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 170
+The average lot time is: 75.47 days
+The average profit percentage is: 21.94%
+
+[ AVAX ] Buy Threshold: 9%, Sell Threshold: 17%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 169
+The average lot time is: 78.20 days
+The average profit percentage is: 23.10%
+
+[ AVAX ] Buy Threshold: 9%, Sell Threshold: 18%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 167
+The average lot time is: 79.18 days
+The average profit percentage is: 24.14%
+
+[ AVAX ] Buy Threshold: 9%, Sell Threshold: 19%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 166
+The average lot time is: 84.62 days
+The average profit percentage is: 24.99%
+
+[ AVAX ] Buy Threshold: 9%, Sell Threshold: 20%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 165
+The average lot time is: 88.75 days
+The average profit percentage is: 25.94%
+
+[ AVAX ] Buy Threshold: 9%, Sell Threshold: 21%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 165
+The average lot time is: 90.94 days
+The average profit percentage is: 27.16%
+
+[ AVAX ] Buy Threshold: 9%, Sell Threshold: 22%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 165
+The average lot time is: 91.58 days
+The average profit percentage is: 28.06%
+
+[ AVAX ] Buy Threshold: 9%, Sell Threshold: 23%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 165
+The average lot time is: 92.11 days
+The average profit percentage is: 29.42%
+
+[ AVAX ] Buy Threshold: 9%, Sell Threshold: 24%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 165
+The average lot time is: 98.43 days
+The average profit percentage is: 30.67%
+
+[ AVAX ] Buy Threshold: 9%, Sell Threshold: 25%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 164
+The average lot time is: 102.26 days
+The average profit percentage is: 31.81%
+
+[ AVAX ] Buy Threshold: 10%, Sell Threshold: 10%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 177
+The average lot time is: 58.37 days
+The average profit percentage is: 16.16%
+
+[ AVAX ] Buy Threshold: 10%, Sell Threshold: 11%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 177
+The average lot time is: 59.68 days
+The average profit percentage is: 16.98%
+
+[ AVAX ] Buy Threshold: 10%, Sell Threshold: 12%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 176
+The average lot time is: 60.39 days
+The average profit percentage is: 17.93%
+
+[ AVAX ] Buy Threshold: 10%, Sell Threshold: 13%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 176
+The average lot time is: 63.14 days
+The average profit percentage is: 18.57%
+
+[ AVAX ] Buy Threshold: 10%, Sell Threshold: 14%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 173
+The average lot time is: 65.97 days
+The average profit percentage is: 19.65%
+
+[ AVAX ] Buy Threshold: 10%, Sell Threshold: 15%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 171
+The average lot time is: 69.54 days
+The average profit percentage is: 20.99%
+
+[ AVAX ] Buy Threshold: 10%, Sell Threshold: 16%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 170
+The average lot time is: 75.47 days
+The average profit percentage is: 21.94%
+
+[ AVAX ] Buy Threshold: 10%, Sell Threshold: 17%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 169
+The average lot time is: 78.20 days
+The average profit percentage is: 23.10%
+
+[ AVAX ] Buy Threshold: 10%, Sell Threshold: 18%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 167
+The average lot time is: 79.18 days
+The average profit percentage is: 24.14%
+
+[ AVAX ] Buy Threshold: 10%, Sell Threshold: 19%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 166
+The average lot time is: 84.62 days
+The average profit percentage is: 24.99%
+
+[ AVAX ] Buy Threshold: 10%, Sell Threshold: 20%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 165
+The average lot time is: 88.75 days
+The average profit percentage is: 25.94%
+
+[ AVAX ] Buy Threshold: 10%, Sell Threshold: 21%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 165
+The average lot time is: 90.94 days
+The average profit percentage is: 27.16%
+
+[ AVAX ] Buy Threshold: 10%, Sell Threshold: 22%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 165
+The average lot time is: 91.58 days
+The average profit percentage is: 28.06%
+
+[ AVAX ] Buy Threshold: 10%, Sell Threshold: 23%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 165
+The average lot time is: 92.11 days
+The average profit percentage is: 29.42%
+
+[ AVAX ] Buy Threshold: 10%, Sell Threshold: 24%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 165
+The average lot time is: 98.43 days
+The average profit percentage is: 30.67%
+
+[ AVAX ] Buy Threshold: 10%, Sell Threshold: 25%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 164
+The average lot time is: 102.26 days
+The average profit percentage is: 31.81%
+
+[ AVAX ] Buy Threshold: 11%, Sell Threshold: 10%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 177
+The average lot time is: 58.37 days
+The average profit percentage is: 16.16%
+
+[ AVAX ] Buy Threshold: 11%, Sell Threshold: 11%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 177
+The average lot time is: 59.68 days
+The average profit percentage is: 16.98%
+
+[ AVAX ] Buy Threshold: 11%, Sell Threshold: 12%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 176
+The average lot time is: 60.39 days
+The average profit percentage is: 17.93%
+
+[ AVAX ] Buy Threshold: 11%, Sell Threshold: 13%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 176
+The average lot time is: 63.14 days
+The average profit percentage is: 18.57%
+
+[ AVAX ] Buy Threshold: 11%, Sell Threshold: 14%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 173
+The average lot time is: 65.97 days
+The average profit percentage is: 19.65%
+
+[ AVAX ] Buy Threshold: 11%, Sell Threshold: 15%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 171
+The average lot time is: 69.54 days
+The average profit percentage is: 20.99%
+
+[ AVAX ] Buy Threshold: 11%, Sell Threshold: 16%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 170
+The average lot time is: 75.47 days
+The average profit percentage is: 21.94%
+
+[ AVAX ] Buy Threshold: 11%, Sell Threshold: 17%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 169
+The average lot time is: 78.20 days
+The average profit percentage is: 23.10%
+
+[ AVAX ] Buy Threshold: 11%, Sell Threshold: 18%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 167
+The average lot time is: 79.18 days
+The average profit percentage is: 24.14%
+
+[ AVAX ] Buy Threshold: 11%, Sell Threshold: 19%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 166
+The average lot time is: 84.62 days
+The average profit percentage is: 24.99%
+
+[ AVAX ] Buy Threshold: 11%, Sell Threshold: 20%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 165
+The average lot time is: 88.75 days
+The average profit percentage is: 25.94%
+
+[ AVAX ] Buy Threshold: 11%, Sell Threshold: 21%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 165
+The average lot time is: 90.94 days
+The average profit percentage is: 27.16%
+
+[ AVAX ] Buy Threshold: 11%, Sell Threshold: 22%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 165
+The average lot time is: 91.58 days
+The average profit percentage is: 28.06%
+
+[ AVAX ] Buy Threshold: 11%, Sell Threshold: 23%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 165
+The average lot time is: 92.11 days
+The average profit percentage is: 29.42%
+
+[ AVAX ] Buy Threshold: 11%, Sell Threshold: 24%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 165
+The average lot time is: 98.43 days
+The average profit percentage is: 30.67%
+
+[ AVAX ] Buy Threshold: 11%, Sell Threshold: 25%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 164
+The average lot time is: 102.26 days
+The average profit percentage is: 31.81%
+
+[ AVAX ] Buy Threshold: 12%, Sell Threshold: 10%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 177
+The average lot time is: 58.37 days
+The average profit percentage is: 16.16%
+
+[ AVAX ] Buy Threshold: 12%, Sell Threshold: 11%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 177
+The average lot time is: 59.68 days
+The average profit percentage is: 16.98%
+
+[ AVAX ] Buy Threshold: 12%, Sell Threshold: 12%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 176
+The average lot time is: 60.39 days
+The average profit percentage is: 17.93%
+
+[ AVAX ] Buy Threshold: 12%, Sell Threshold: 13%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 176
+The average lot time is: 63.14 days
+The average profit percentage is: 18.57%
+
+[ AVAX ] Buy Threshold: 12%, Sell Threshold: 14%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 173
+The average lot time is: 65.97 days
+The average profit percentage is: 19.65%
+
+[ AVAX ] Buy Threshold: 12%, Sell Threshold: 15%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 171
+The average lot time is: 69.54 days
+The average profit percentage is: 20.99%
+
+[ AVAX ] Buy Threshold: 12%, Sell Threshold: 16%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 170
+The average lot time is: 75.47 days
+The average profit percentage is: 21.94%
+
+[ AVAX ] Buy Threshold: 12%, Sell Threshold: 17%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 169
+The average lot time is: 78.20 days
+The average profit percentage is: 23.10%
+
+[ AVAX ] Buy Threshold: 12%, Sell Threshold: 18%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 167
+The average lot time is: 79.18 days
+The average profit percentage is: 24.14%
+
+[ AVAX ] Buy Threshold: 12%, Sell Threshold: 19%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 166
+The average lot time is: 84.62 days
+The average profit percentage is: 24.99%
+
+[ AVAX ] Buy Threshold: 12%, Sell Threshold: 20%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 165
+The average lot time is: 88.75 days
+The average profit percentage is: 25.94%
+
+[ AVAX ] Buy Threshold: 12%, Sell Threshold: 21%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 165
+The average lot time is: 90.94 days
+The average profit percentage is: 27.16%
+
+[ AVAX ] Buy Threshold: 12%, Sell Threshold: 22%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 165
+The average lot time is: 91.58 days
+The average profit percentage is: 28.06%
+
+[ AVAX ] Buy Threshold: 12%, Sell Threshold: 23%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 165
+The average lot time is: 92.11 days
+The average profit percentage is: 29.42%
+
+[ AVAX ] Buy Threshold: 12%, Sell Threshold: 24%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 165
+The average lot time is: 98.43 days
+The average profit percentage is: 30.67%
+
+[ AVAX ] Buy Threshold: 12%, Sell Threshold: 25%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 164
+The average lot time is: 102.26 days
+The average profit percentage is: 31.81%
+
+[ AVAX ] Buy Threshold: 13%, Sell Threshold: 10%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 177
+The average lot time is: 58.37 days
+The average profit percentage is: 16.16%
+
+[ AVAX ] Buy Threshold: 13%, Sell Threshold: 11%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 177
+The average lot time is: 59.68 days
+The average profit percentage is: 16.98%
+
+[ AVAX ] Buy Threshold: 13%, Sell Threshold: 12%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 176
+The average lot time is: 60.39 days
+The average profit percentage is: 17.93%
+
+[ AVAX ] Buy Threshold: 13%, Sell Threshold: 13%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 176
+The average lot time is: 63.14 days
+The average profit percentage is: 18.57%
+
+[ AVAX ] Buy Threshold: 13%, Sell Threshold: 14%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 173
+The average lot time is: 65.97 days
+The average profit percentage is: 19.65%
+
+[ AVAX ] Buy Threshold: 13%, Sell Threshold: 15%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 171
+The average lot time is: 69.54 days
+The average profit percentage is: 20.99%
+
+[ AVAX ] Buy Threshold: 13%, Sell Threshold: 16%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 170
+The average lot time is: 75.47 days
+The average profit percentage is: 21.94%
+
+[ AVAX ] Buy Threshold: 13%, Sell Threshold: 17%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 169
+The average lot time is: 78.20 days
+The average profit percentage is: 23.10%
+
+[ AVAX ] Buy Threshold: 13%, Sell Threshold: 18%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 167
+The average lot time is: 79.18 days
+The average profit percentage is: 24.14%
+
+[ AVAX ] Buy Threshold: 13%, Sell Threshold: 19%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 166
+The average lot time is: 84.62 days
+The average profit percentage is: 24.99%
+
+[ AVAX ] Buy Threshold: 13%, Sell Threshold: 20%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 165
+The average lot time is: 88.75 days
+The average profit percentage is: 25.94%
+
+[ AVAX ] Buy Threshold: 13%, Sell Threshold: 21%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 165
+The average lot time is: 90.94 days
+The average profit percentage is: 27.16%
+
+[ AVAX ] Buy Threshold: 13%, Sell Threshold: 22%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 165
+The average lot time is: 91.58 days
+The average profit percentage is: 28.06%
+
+[ AVAX ] Buy Threshold: 13%, Sell Threshold: 23%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 165
+The average lot time is: 92.11 days
+The average profit percentage is: 29.42%
+
+[ AVAX ] Buy Threshold: 13%, Sell Threshold: 24%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 165
+The average lot time is: 98.43 days
+The average profit percentage is: 30.67%
+
+[ AVAX ] Buy Threshold: 13%, Sell Threshold: 25%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 164
+The average lot time is: 102.26 days
+The average profit percentage is: 31.81%
+
+[ AVAX ] Buy Threshold: 14%, Sell Threshold: 10%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 177
+The average lot time is: 58.37 days
+The average profit percentage is: 16.16%
+
+[ AVAX ] Buy Threshold: 14%, Sell Threshold: 11%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 177
+The average lot time is: 59.68 days
+The average profit percentage is: 16.98%
+
+[ AVAX ] Buy Threshold: 14%, Sell Threshold: 12%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 176
+The average lot time is: 60.39 days
+The average profit percentage is: 17.93%
+
+[ AVAX ] Buy Threshold: 14%, Sell Threshold: 13%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 176
+The average lot time is: 63.14 days
+The average profit percentage is: 18.57%
+
+[ AVAX ] Buy Threshold: 14%, Sell Threshold: 14%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 173
+The average lot time is: 65.97 days
+The average profit percentage is: 19.65%
+
+[ AVAX ] Buy Threshold: 14%, Sell Threshold: 15%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 171
+The average lot time is: 69.54 days
+The average profit percentage is: 20.99%
+
+[ AVAX ] Buy Threshold: 14%, Sell Threshold: 16%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 170
+The average lot time is: 75.47 days
+The average profit percentage is: 21.94%
+
+[ AVAX ] Buy Threshold: 14%, Sell Threshold: 17%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 169
+The average lot time is: 78.20 days
+The average profit percentage is: 23.10%
+
+[ AVAX ] Buy Threshold: 14%, Sell Threshold: 18%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 167
+The average lot time is: 79.18 days
+The average profit percentage is: 24.14%
+
+[ AVAX ] Buy Threshold: 14%, Sell Threshold: 19%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 166
+The average lot time is: 84.62 days
+The average profit percentage is: 24.99%
+
+[ AVAX ] Buy Threshold: 14%, Sell Threshold: 20%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 165
+The average lot time is: 88.75 days
+The average profit percentage is: 25.94%
+
+[ AVAX ] Buy Threshold: 14%, Sell Threshold: 21%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 165
+The average lot time is: 90.94 days
+The average profit percentage is: 27.16%
+
+[ AVAX ] Buy Threshold: 14%, Sell Threshold: 22%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 165
+The average lot time is: 91.58 days
+The average profit percentage is: 28.06%
+
+[ AVAX ] Buy Threshold: 14%, Sell Threshold: 23%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 165
+The average lot time is: 92.11 days
+The average profit percentage is: 29.42%
+
+[ AVAX ] Buy Threshold: 14%, Sell Threshold: 24%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 165
+The average lot time is: 98.43 days
+The average profit percentage is: 30.67%
+
+[ AVAX ] Buy Threshold: 14%, Sell Threshold: 25%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 164
+The average lot time is: 102.26 days
+The average profit percentage is: 31.81%
+
+[ AVAX ] Buy Threshold: 15%, Sell Threshold: 10%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 177
+The average lot time is: 58.37 days
+The average profit percentage is: 16.16%
+
+[ AVAX ] Buy Threshold: 15%, Sell Threshold: 11%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 177
+The average lot time is: 59.68 days
+The average profit percentage is: 16.98%
+
+[ AVAX ] Buy Threshold: 15%, Sell Threshold: 12%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 176
+The average lot time is: 60.39 days
+The average profit percentage is: 17.93%
+
+[ AVAX ] Buy Threshold: 15%, Sell Threshold: 13%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 176
+The average lot time is: 63.14 days
+The average profit percentage is: 18.57%
+
+[ AVAX ] Buy Threshold: 15%, Sell Threshold: 14%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 173
+The average lot time is: 65.97 days
+The average profit percentage is: 19.65%
+
+[ AVAX ] Buy Threshold: 15%, Sell Threshold: 15%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 171
+The average lot time is: 69.54 days
+The average profit percentage is: 20.99%
+
+[ AVAX ] Buy Threshold: 15%, Sell Threshold: 16%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 170
+The average lot time is: 75.47 days
+The average profit percentage is: 21.94%
+
+[ AVAX ] Buy Threshold: 15%, Sell Threshold: 17%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 169
+The average lot time is: 78.20 days
+The average profit percentage is: 23.10%
+
+[ AVAX ] Buy Threshold: 15%, Sell Threshold: 18%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 167
+The average lot time is: 79.18 days
+The average profit percentage is: 24.14%
+
+[ AVAX ] Buy Threshold: 15%, Sell Threshold: 19%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 166
+The average lot time is: 84.62 days
+The average profit percentage is: 24.99%
+
+[ AVAX ] Buy Threshold: 15%, Sell Threshold: 20%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 165
+The average lot time is: 88.75 days
+The average profit percentage is: 25.94%
+
+[ AVAX ] Buy Threshold: 15%, Sell Threshold: 21%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 165
+The average lot time is: 90.94 days
+The average profit percentage is: 27.16%
+
+[ AVAX ] Buy Threshold: 15%, Sell Threshold: 22%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 165
+The average lot time is: 91.58 days
+The average profit percentage is: 28.06%
+
+[ AVAX ] Buy Threshold: 15%, Sell Threshold: 23%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 165
+The average lot time is: 92.11 days
+The average profit percentage is: 29.42%
+
+[ AVAX ] Buy Threshold: 15%, Sell Threshold: 24%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 165
+The average lot time is: 98.43 days
+The average profit percentage is: 30.67%
+
+[ AVAX ] Buy Threshold: 15%, Sell Threshold: 25%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 164
+The average lot time is: 102.26 days
+The average profit percentage is: 31.81%
+
+[ AVAX ] Buy Threshold: 16%, Sell Threshold: 10%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 177
+The average lot time is: 58.37 days
+The average profit percentage is: 16.16%
+
+[ AVAX ] Buy Threshold: 16%, Sell Threshold: 11%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 177
+The average lot time is: 59.68 days
+The average profit percentage is: 16.98%
+
+[ AVAX ] Buy Threshold: 16%, Sell Threshold: 12%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 176
+The average lot time is: 60.39 days
+The average profit percentage is: 17.93%
+
+[ AVAX ] Buy Threshold: 16%, Sell Threshold: 13%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 176
+The average lot time is: 63.14 days
+The average profit percentage is: 18.57%
+
+[ AVAX ] Buy Threshold: 16%, Sell Threshold: 14%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 173
+The average lot time is: 65.97 days
+The average profit percentage is: 19.65%
+
+[ AVAX ] Buy Threshold: 16%, Sell Threshold: 15%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 171
+The average lot time is: 69.54 days
+The average profit percentage is: 20.99%
+
+[ AVAX ] Buy Threshold: 16%, Sell Threshold: 16%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 170
+The average lot time is: 75.47 days
+The average profit percentage is: 21.94%
+
+[ AVAX ] Buy Threshold: 16%, Sell Threshold: 17%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 169
+The average lot time is: 78.20 days
+The average profit percentage is: 23.10%
+
+[ AVAX ] Buy Threshold: 16%, Sell Threshold: 18%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 167
+The average lot time is: 79.18 days
+The average profit percentage is: 24.14%
+
+[ AVAX ] Buy Threshold: 16%, Sell Threshold: 19%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 166
+The average lot time is: 84.62 days
+The average profit percentage is: 24.99%
+
+[ AVAX ] Buy Threshold: 16%, Sell Threshold: 20%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 165
+The average lot time is: 88.75 days
+The average profit percentage is: 25.94%
+
+[ AVAX ] Buy Threshold: 16%, Sell Threshold: 21%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 165
+The average lot time is: 90.94 days
+The average profit percentage is: 27.16%
+
+[ AVAX ] Buy Threshold: 16%, Sell Threshold: 22%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 165
+The average lot time is: 91.58 days
+The average profit percentage is: 28.06%
+
+[ AVAX ] Buy Threshold: 16%, Sell Threshold: 23%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 165
+The average lot time is: 92.11 days
+The average profit percentage is: 29.42%
+
+[ AVAX ] Buy Threshold: 16%, Sell Threshold: 24%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 165
+The average lot time is: 98.43 days
+The average profit percentage is: 30.67%
+
+[ AVAX ] Buy Threshold: 16%, Sell Threshold: 25%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 164
+The average lot time is: 102.26 days
+The average profit percentage is: 31.81%
+
+[ AVAX ] Buy Threshold: 17%, Sell Threshold: 10%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 177
+The average lot time is: 58.37 days
+The average profit percentage is: 16.16%
+
+[ AVAX ] Buy Threshold: 17%, Sell Threshold: 11%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 177
+The average lot time is: 59.68 days
+The average profit percentage is: 16.98%
+
+[ AVAX ] Buy Threshold: 17%, Sell Threshold: 12%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 176
+The average lot time is: 60.39 days
+The average profit percentage is: 17.93%
+
+[ AVAX ] Buy Threshold: 17%, Sell Threshold: 13%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 176
+The average lot time is: 63.14 days
+The average profit percentage is: 18.57%
+
+[ AVAX ] Buy Threshold: 17%, Sell Threshold: 14%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 173
+The average lot time is: 65.97 days
+The average profit percentage is: 19.65%
+
+[ AVAX ] Buy Threshold: 17%, Sell Threshold: 15%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 171
+The average lot time is: 69.54 days
+The average profit percentage is: 20.99%
+
+[ AVAX ] Buy Threshold: 17%, Sell Threshold: 16%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 170
+The average lot time is: 75.47 days
+The average profit percentage is: 21.94%
+
+[ AVAX ] Buy Threshold: 17%, Sell Threshold: 17%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 169
+The average lot time is: 78.20 days
+The average profit percentage is: 23.10%
+
+[ AVAX ] Buy Threshold: 17%, Sell Threshold: 18%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 167
+The average lot time is: 79.18 days
+The average profit percentage is: 24.14%
+
+[ AVAX ] Buy Threshold: 17%, Sell Threshold: 19%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 166
+The average lot time is: 84.62 days
+The average profit percentage is: 24.99%
+
+[ AVAX ] Buy Threshold: 17%, Sell Threshold: 20%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 165
+The average lot time is: 88.75 days
+The average profit percentage is: 25.94%
+
+[ AVAX ] Buy Threshold: 17%, Sell Threshold: 21%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 165
+The average lot time is: 90.94 days
+The average profit percentage is: 27.16%
+
+[ AVAX ] Buy Threshold: 17%, Sell Threshold: 22%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 165
+The average lot time is: 91.58 days
+The average profit percentage is: 28.06%
+
+[ AVAX ] Buy Threshold: 17%, Sell Threshold: 23%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 165
+The average lot time is: 92.11 days
+The average profit percentage is: 29.42%
+
+[ AVAX ] Buy Threshold: 17%, Sell Threshold: 24%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 165
+The average lot time is: 98.43 days
+The average profit percentage is: 30.67%
+
+[ AVAX ] Buy Threshold: 17%, Sell Threshold: 25%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 164
+The average lot time is: 102.26 days
+The average profit percentage is: 31.81%
+
+[ AVAX ] Buy Threshold: 18%, Sell Threshold: 10%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 177
+The average lot time is: 58.37 days
+The average profit percentage is: 16.16%
+
+[ AVAX ] Buy Threshold: 18%, Sell Threshold: 11%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 177
+The average lot time is: 59.68 days
+The average profit percentage is: 16.98%
+
+[ AVAX ] Buy Threshold: 18%, Sell Threshold: 12%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 176
+The average lot time is: 60.39 days
+The average profit percentage is: 17.93%
+
+[ AVAX ] Buy Threshold: 18%, Sell Threshold: 13%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 176
+The average lot time is: 63.14 days
+The average profit percentage is: 18.57%
+
+[ AVAX ] Buy Threshold: 18%, Sell Threshold: 14%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 173
+The average lot time is: 65.97 days
+The average profit percentage is: 19.65%
+
+[ AVAX ] Buy Threshold: 18%, Sell Threshold: 15%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 171
+The average lot time is: 69.54 days
+The average profit percentage is: 20.99%
+
+[ AVAX ] Buy Threshold: 18%, Sell Threshold: 16%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 170
+The average lot time is: 75.47 days
+The average profit percentage is: 21.94%
+
+[ AVAX ] Buy Threshold: 18%, Sell Threshold: 17%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 169
+The average lot time is: 78.20 days
+The average profit percentage is: 23.10%
+
+[ AVAX ] Buy Threshold: 18%, Sell Threshold: 18%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 167
+The average lot time is: 79.18 days
+The average profit percentage is: 24.14%
+
+[ AVAX ] Buy Threshold: 18%, Sell Threshold: 19%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 166
+The average lot time is: 84.62 days
+The average profit percentage is: 24.99%
+
+[ AVAX ] Buy Threshold: 18%, Sell Threshold: 20%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 165
+The average lot time is: 88.75 days
+The average profit percentage is: 25.94%
+
+[ AVAX ] Buy Threshold: 18%, Sell Threshold: 21%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 165
+The average lot time is: 90.94 days
+The average profit percentage is: 27.16%
+
+[ AVAX ] Buy Threshold: 18%, Sell Threshold: 22%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 165
+The average lot time is: 91.58 days
+The average profit percentage is: 28.06%
+
+[ AVAX ] Buy Threshold: 18%, Sell Threshold: 23%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 165
+The average lot time is: 92.11 days
+The average profit percentage is: 29.42%
+
+[ AVAX ] Buy Threshold: 18%, Sell Threshold: 24%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 165
+The average lot time is: 98.43 days
+The average profit percentage is: 30.67%
+
+[ AVAX ] Buy Threshold: 18%, Sell Threshold: 25%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 164
+The average lot time is: 102.26 days
+The average profit percentage is: 31.81%
+
+[ AVAX ] Buy Threshold: 19%, Sell Threshold: 10%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 177
+The average lot time is: 58.37 days
+The average profit percentage is: 16.16%
+
+[ AVAX ] Buy Threshold: 19%, Sell Threshold: 11%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 177
+The average lot time is: 59.68 days
+The average profit percentage is: 16.98%
+
+[ AVAX ] Buy Threshold: 19%, Sell Threshold: 12%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 176
+The average lot time is: 60.39 days
+The average profit percentage is: 17.93%
+
+[ AVAX ] Buy Threshold: 19%, Sell Threshold: 13%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 176
+The average lot time is: 63.14 days
+The average profit percentage is: 18.57%
+
+[ AVAX ] Buy Threshold: 19%, Sell Threshold: 14%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 173
+The average lot time is: 65.97 days
+The average profit percentage is: 19.65%
+
+[ AVAX ] Buy Threshold: 19%, Sell Threshold: 15%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 171
+The average lot time is: 69.54 days
+The average profit percentage is: 20.99%
+
+[ AVAX ] Buy Threshold: 19%, Sell Threshold: 16%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 170
+The average lot time is: 75.47 days
+The average profit percentage is: 21.94%
+
+[ AVAX ] Buy Threshold: 19%, Sell Threshold: 17%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 169
+The average lot time is: 78.20 days
+The average profit percentage is: 23.10%
+
+[ AVAX ] Buy Threshold: 19%, Sell Threshold: 18%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 167
+The average lot time is: 79.18 days
+The average profit percentage is: 24.14%
+
+[ AVAX ] Buy Threshold: 19%, Sell Threshold: 19%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 166
+The average lot time is: 84.62 days
+The average profit percentage is: 24.99%
+
+[ AVAX ] Buy Threshold: 19%, Sell Threshold: 20%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 165
+The average lot time is: 88.75 days
+The average profit percentage is: 25.94%
+
+[ AVAX ] Buy Threshold: 19%, Sell Threshold: 21%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 165
+The average lot time is: 90.94 days
+The average profit percentage is: 27.16%
+
+[ AVAX ] Buy Threshold: 19%, Sell Threshold: 22%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 165
+The average lot time is: 91.58 days
+The average profit percentage is: 28.06%
+
+[ AVAX ] Buy Threshold: 19%, Sell Threshold: 23%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 165
+The average lot time is: 92.11 days
+The average profit percentage is: 29.42%
+
+[ AVAX ] Buy Threshold: 19%, Sell Threshold: 24%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 165
+The average lot time is: 98.43 days
+The average profit percentage is: 30.67%
+
+[ AVAX ] Buy Threshold: 19%, Sell Threshold: 25%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 164
+The average lot time is: 102.26 days
+The average profit percentage is: 31.81%
+
+[ AVAX ] Buy Threshold: 20%, Sell Threshold: 10%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 177
+The average lot time is: 58.37 days
+The average profit percentage is: 16.16%
+
+[ AVAX ] Buy Threshold: 20%, Sell Threshold: 11%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 177
+The average lot time is: 59.68 days
+The average profit percentage is: 16.98%
+
+[ AVAX ] Buy Threshold: 20%, Sell Threshold: 12%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 176
+The average lot time is: 60.39 days
+The average profit percentage is: 17.93%
+
+[ AVAX ] Buy Threshold: 20%, Sell Threshold: 13%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 176
+The average lot time is: 63.14 days
+The average profit percentage is: 18.57%
+
+[ AVAX ] Buy Threshold: 20%, Sell Threshold: 14%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 173
+The average lot time is: 65.97 days
+The average profit percentage is: 19.65%
+
+[ AVAX ] Buy Threshold: 20%, Sell Threshold: 15%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 171
+The average lot time is: 69.54 days
+The average profit percentage is: 20.99%
+
+[ AVAX ] Buy Threshold: 20%, Sell Threshold: 16%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 170
+The average lot time is: 75.47 days
+The average profit percentage is: 21.94%
+
+[ AVAX ] Buy Threshold: 20%, Sell Threshold: 17%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 169
+The average lot time is: 78.20 days
+The average profit percentage is: 23.10%
+
+[ AVAX ] Buy Threshold: 20%, Sell Threshold: 18%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 167
+The average lot time is: 79.18 days
+The average profit percentage is: 24.14%
+
+[ AVAX ] Buy Threshold: 20%, Sell Threshold: 19%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 166
+The average lot time is: 84.62 days
+The average profit percentage is: 24.99%
+
+[ AVAX ] Buy Threshold: 20%, Sell Threshold: 20%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 165
+The average lot time is: 88.75 days
+The average profit percentage is: 25.94%
+
+[ AVAX ] Buy Threshold: 20%, Sell Threshold: 21%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 165
+The average lot time is: 90.94 days
+The average profit percentage is: 27.16%
+
+[ AVAX ] Buy Threshold: 20%, Sell Threshold: 22%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 165
+The average lot time is: 91.58 days
+The average profit percentage is: 28.06%
+
+[ AVAX ] Buy Threshold: 20%, Sell Threshold: 23%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 165
+The average lot time is: 92.11 days
+The average profit percentage is: 29.42%
+
+[ AVAX ] Buy Threshold: 20%, Sell Threshold: 24%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 165
+The average lot time is: 98.43 days
+The average profit percentage is: 30.67%
+
+[ AVAX ] Buy Threshold: 20%, Sell Threshold: 25%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 164
+The average lot time is: 102.26 days
+The average profit percentage is: 31.81%
+
+[ AVAX ] Buy Threshold: 21%, Sell Threshold: 10%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 177
+The average lot time is: 58.37 days
+The average profit percentage is: 16.16%
+
+[ AVAX ] Buy Threshold: 21%, Sell Threshold: 11%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 177
+The average lot time is: 59.68 days
+The average profit percentage is: 16.98%
+
+[ AVAX ] Buy Threshold: 21%, Sell Threshold: 12%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 176
+The average lot time is: 60.39 days
+The average profit percentage is: 17.93%
+
+[ AVAX ] Buy Threshold: 21%, Sell Threshold: 13%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 176
+The average lot time is: 63.14 days
+The average profit percentage is: 18.57%
+
+[ AVAX ] Buy Threshold: 21%, Sell Threshold: 14%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 173
+The average lot time is: 65.97 days
+The average profit percentage is: 19.65%
+
+[ AVAX ] Buy Threshold: 21%, Sell Threshold: 15%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 171
+The average lot time is: 69.54 days
+The average profit percentage is: 20.99%
+
+[ AVAX ] Buy Threshold: 21%, Sell Threshold: 16%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 170
+The average lot time is: 75.47 days
+The average profit percentage is: 21.94%
+
+[ AVAX ] Buy Threshold: 21%, Sell Threshold: 17%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 169
+The average lot time is: 78.20 days
+The average profit percentage is: 23.10%
+
+[ AVAX ] Buy Threshold: 21%, Sell Threshold: 18%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 167
+The average lot time is: 79.18 days
+The average profit percentage is: 24.14%
+
+[ AVAX ] Buy Threshold: 21%, Sell Threshold: 19%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 166
+The average lot time is: 84.62 days
+The average profit percentage is: 24.99%
+
+[ AVAX ] Buy Threshold: 21%, Sell Threshold: 20%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 165
+The average lot time is: 88.75 days
+The average profit percentage is: 25.94%
+
+[ AVAX ] Buy Threshold: 21%, Sell Threshold: 21%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 165
+The average lot time is: 90.94 days
+The average profit percentage is: 27.16%
+
+[ AVAX ] Buy Threshold: 21%, Sell Threshold: 22%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 165
+The average lot time is: 91.58 days
+The average profit percentage is: 28.06%
+
+[ AVAX ] Buy Threshold: 21%, Sell Threshold: 23%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 165
+The average lot time is: 92.11 days
+The average profit percentage is: 29.42%
+
+[ AVAX ] Buy Threshold: 21%, Sell Threshold: 24%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 165
+The average lot time is: 98.43 days
+The average profit percentage is: 30.67%
+
+[ AVAX ] Buy Threshold: 21%, Sell Threshold: 25%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 164
+The average lot time is: 102.26 days
+The average profit percentage is: 31.81%
+
+[ AVAX ] Buy Threshold: 22%, Sell Threshold: 10%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 177
+The average lot time is: 58.37 days
+The average profit percentage is: 16.16%
+
+[ AVAX ] Buy Threshold: 22%, Sell Threshold: 11%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 177
+The average lot time is: 59.68 days
+The average profit percentage is: 16.98%
+
+[ AVAX ] Buy Threshold: 22%, Sell Threshold: 12%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 176
+The average lot time is: 60.39 days
+The average profit percentage is: 17.93%
+
+[ AVAX ] Buy Threshold: 22%, Sell Threshold: 13%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 176
+The average lot time is: 63.14 days
+The average profit percentage is: 18.57%
+
+[ AVAX ] Buy Threshold: 22%, Sell Threshold: 14%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 173
+The average lot time is: 65.97 days
+The average profit percentage is: 19.65%
+
+[ AVAX ] Buy Threshold: 22%, Sell Threshold: 15%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 171
+The average lot time is: 69.54 days
+The average profit percentage is: 20.99%
+
+[ AVAX ] Buy Threshold: 22%, Sell Threshold: 16%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 170
+The average lot time is: 75.47 days
+The average profit percentage is: 21.94%
+
+[ AVAX ] Buy Threshold: 22%, Sell Threshold: 17%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 169
+The average lot time is: 78.20 days
+The average profit percentage is: 23.10%
+
+[ AVAX ] Buy Threshold: 22%, Sell Threshold: 18%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 167
+The average lot time is: 79.18 days
+The average profit percentage is: 24.14%
+
+[ AVAX ] Buy Threshold: 22%, Sell Threshold: 19%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 166
+The average lot time is: 84.62 days
+The average profit percentage is: 24.99%
+
+[ AVAX ] Buy Threshold: 22%, Sell Threshold: 20%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 165
+The average lot time is: 88.75 days
+The average profit percentage is: 25.94%
+
+[ AVAX ] Buy Threshold: 22%, Sell Threshold: 21%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 165
+The average lot time is: 90.94 days
+The average profit percentage is: 27.16%
+
+[ AVAX ] Buy Threshold: 22%, Sell Threshold: 22%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 165
+The average lot time is: 91.58 days
+The average profit percentage is: 28.06%
+
+[ AVAX ] Buy Threshold: 22%, Sell Threshold: 23%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 165
+The average lot time is: 92.11 days
+The average profit percentage is: 29.42%
+
+[ AVAX ] Buy Threshold: 22%, Sell Threshold: 24%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 165
+The average lot time is: 98.43 days
+The average profit percentage is: 30.67%
+
+[ AVAX ] Buy Threshold: 22%, Sell Threshold: 25%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 164
+The average lot time is: 102.26 days
+The average profit percentage is: 31.81%
+
+[ AVAX ] Buy Threshold: 23%, Sell Threshold: 10%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 177
+The average lot time is: 58.37 days
+The average profit percentage is: 16.16%
+
+[ AVAX ] Buy Threshold: 23%, Sell Threshold: 11%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 177
+The average lot time is: 59.68 days
+The average profit percentage is: 16.98%
+
+[ AVAX ] Buy Threshold: 23%, Sell Threshold: 12%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 176
+The average lot time is: 60.39 days
+The average profit percentage is: 17.93%
+
+[ AVAX ] Buy Threshold: 23%, Sell Threshold: 13%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 176
+The average lot time is: 63.14 days
+The average profit percentage is: 18.57%
+
+[ AVAX ] Buy Threshold: 23%, Sell Threshold: 14%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 173
+The average lot time is: 65.97 days
+The average profit percentage is: 19.65%
+
+[ AVAX ] Buy Threshold: 23%, Sell Threshold: 15%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 171
+The average lot time is: 69.54 days
+The average profit percentage is: 20.99%
+
+[ AVAX ] Buy Threshold: 23%, Sell Threshold: 16%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 170
+The average lot time is: 75.47 days
+The average profit percentage is: 21.94%
+
+[ AVAX ] Buy Threshold: 23%, Sell Threshold: 17%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 169
+The average lot time is: 78.20 days
+The average profit percentage is: 23.10%
+
+[ AVAX ] Buy Threshold: 23%, Sell Threshold: 18%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 167
+The average lot time is: 79.18 days
+The average profit percentage is: 24.14%
+
+[ AVAX ] Buy Threshold: 23%, Sell Threshold: 19%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 166
+The average lot time is: 84.62 days
+The average profit percentage is: 24.99%
+
+[ AVAX ] Buy Threshold: 23%, Sell Threshold: 20%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 165
+The average lot time is: 88.75 days
+The average profit percentage is: 25.94%
+
+[ AVAX ] Buy Threshold: 23%, Sell Threshold: 21%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 165
+The average lot time is: 90.94 days
+The average profit percentage is: 27.16%
+
+[ AVAX ] Buy Threshold: 23%, Sell Threshold: 22%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 165
+The average lot time is: 91.58 days
+The average profit percentage is: 28.06%
+
+[ AVAX ] Buy Threshold: 23%, Sell Threshold: 23%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 165
+The average lot time is: 92.11 days
+The average profit percentage is: 29.42%
+
+[ AVAX ] Buy Threshold: 23%, Sell Threshold: 24%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 165
+The average lot time is: 98.43 days
+The average profit percentage is: 30.67%
+
+[ AVAX ] Buy Threshold: 23%, Sell Threshold: 25%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 164
+The average lot time is: 102.26 days
+The average profit percentage is: 31.81%
+
+[ AVAX ] Buy Threshold: 24%, Sell Threshold: 10%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 177
+The average lot time is: 58.37 days
+The average profit percentage is: 16.16%
+
+[ AVAX ] Buy Threshold: 24%, Sell Threshold: 11%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 177
+The average lot time is: 59.68 days
+The average profit percentage is: 16.98%
+
+[ AVAX ] Buy Threshold: 24%, Sell Threshold: 12%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 176
+The average lot time is: 60.39 days
+The average profit percentage is: 17.93%
+
+[ AVAX ] Buy Threshold: 24%, Sell Threshold: 13%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 176
+The average lot time is: 63.14 days
+The average profit percentage is: 18.57%
+
+[ AVAX ] Buy Threshold: 24%, Sell Threshold: 14%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 173
+The average lot time is: 65.97 days
+The average profit percentage is: 19.65%
+
+[ AVAX ] Buy Threshold: 24%, Sell Threshold: 15%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 171
+The average lot time is: 69.54 days
+The average profit percentage is: 20.99%
+
+[ AVAX ] Buy Threshold: 24%, Sell Threshold: 16%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 170
+The average lot time is: 75.47 days
+The average profit percentage is: 21.94%
+
+[ AVAX ] Buy Threshold: 24%, Sell Threshold: 17%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 169
+The average lot time is: 78.20 days
+The average profit percentage is: 23.10%
+
+[ AVAX ] Buy Threshold: 24%, Sell Threshold: 18%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 167
+The average lot time is: 79.18 days
+The average profit percentage is: 24.14%
+
+[ AVAX ] Buy Threshold: 24%, Sell Threshold: 19%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 166
+The average lot time is: 84.62 days
+The average profit percentage is: 24.99%
+
+[ AVAX ] Buy Threshold: 24%, Sell Threshold: 20%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 165
+The average lot time is: 88.75 days
+The average profit percentage is: 25.94%
+
+[ AVAX ] Buy Threshold: 24%, Sell Threshold: 21%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 165
+The average lot time is: 90.94 days
+The average profit percentage is: 27.16%
+
+[ AVAX ] Buy Threshold: 24%, Sell Threshold: 22%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 165
+The average lot time is: 91.58 days
+The average profit percentage is: 28.06%
+
+[ AVAX ] Buy Threshold: 24%, Sell Threshold: 23%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 165
+The average lot time is: 92.11 days
+The average profit percentage is: 29.42%
+
+[ AVAX ] Buy Threshold: 24%, Sell Threshold: 24%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 165
+The average lot time is: 98.43 days
+The average profit percentage is: 30.67%
+
+[ AVAX ] Buy Threshold: 24%, Sell Threshold: 25%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 164
+The average lot time is: 102.26 days
+The average profit percentage is: 31.81%
+
+[ AVAX ] Buy Threshold: 25%, Sell Threshold: 10%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 177
+The average lot time is: 58.37 days
+The average profit percentage is: 16.16%
+
+[ AVAX ] Buy Threshold: 25%, Sell Threshold: 11%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 177
+The average lot time is: 59.68 days
+The average profit percentage is: 16.98%
+
+[ AVAX ] Buy Threshold: 25%, Sell Threshold: 12%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 176
+The average lot time is: 60.39 days
+The average profit percentage is: 17.93%
+
+[ AVAX ] Buy Threshold: 25%, Sell Threshold: 13%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 176
+The average lot time is: 63.14 days
+The average profit percentage is: 18.57%
+
+[ AVAX ] Buy Threshold: 25%, Sell Threshold: 14%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 173
+The average lot time is: 65.97 days
+The average profit percentage is: 19.65%
+
+[ AVAX ] Buy Threshold: 25%, Sell Threshold: 15%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 171
+The average lot time is: 69.54 days
+The average profit percentage is: 20.99%
+
+[ AVAX ] Buy Threshold: 25%, Sell Threshold: 16%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 170
+The average lot time is: 75.47 days
+The average profit percentage is: 21.94%
+
+[ AVAX ] Buy Threshold: 25%, Sell Threshold: 17%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 169
+The average lot time is: 78.20 days
+The average profit percentage is: 23.10%
+
+[ AVAX ] Buy Threshold: 25%, Sell Threshold: 18%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 167
+The average lot time is: 79.18 days
+The average profit percentage is: 24.14%
+
+[ AVAX ] Buy Threshold: 25%, Sell Threshold: 19%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 166
+The average lot time is: 84.62 days
+The average profit percentage is: 24.99%
+
+[ AVAX ] Buy Threshold: 25%, Sell Threshold: 20%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 165
+The average lot time is: 88.75 days
+The average profit percentage is: 25.94%
+
+[ AVAX ] Buy Threshold: 25%, Sell Threshold: 21%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 165
+The average lot time is: 90.94 days
+The average profit percentage is: 27.16%
+
+[ AVAX ] Buy Threshold: 25%, Sell Threshold: 22%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 165
+The average lot time is: 91.58 days
+The average profit percentage is: 28.06%
+
+[ AVAX ] Buy Threshold: 25%, Sell Threshold: 23%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 165
+The average lot time is: 92.11 days
+The average profit percentage is: 29.42%
+
+[ AVAX ] Buy Threshold: 25%, Sell Threshold: 24%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 165
+The average lot time is: 98.43 days
+The average profit percentage is: 30.67%
+
+[ AVAX ] Buy Threshold: 25%, Sell Threshold: 25%
+Number of 24-hour windows with at least 5% price drop: 192
+The average drop window percentage is: -9.04%
+Number of successful sell events: 164
+The average lot time is: 102.26 days
+The average profit percentage is: 31.81%
+

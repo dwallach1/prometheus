@@ -8,7 +8,7 @@ from dotenv import dotenv_values
 from pymongo.mongo_client import MongoClient
 from datetime import datetime, timedelta
 import uuid
-from decisions import Decision, DecisionType, Enviorment, BestMatchBelowThresholdDecision, BuyDecision, SellDecision, DecisionContext
+from decisions import Decision, DecisionType, Enviorment, BestMatchBelowThresholdDecision, BuyDecision, SellDecision, DecisionContext, SkipDecision
 from assets import Asset
 import threading
 import signal
@@ -164,13 +164,23 @@ class DecisionMaker():
         context = self.get_decision_context()
         open_buy_decisions = context.open_buy_decisions
         current_price = context.price
+        skip_reason = ""
 
         # CHECK BUY CONDITIONS
-        if context.should_buy():
+        if context.should_buy() and has_enough_buying_power:
             buy_decision = self.find_bottom_of_dip_and_buy()
             if buy_decision is not None:
                 decisions.append(buy_decision)
-
+        else:
+            if not context.price_change_check:
+                skip_reason = "price change check failed"
+            elif not context.buy_buffer_check:
+                skip_reason = "buy buffer check failed"
+            elif not context.open_buy_check:
+                skip_reason = "open buy check failed"
+            elif not has_enough_buying_power:
+                skip_reason = "not enough buying power"
+            self.logger.info(f"Skipping buy decision, reason: {skip_reason}")
         # CHECK SELL CONDITIONS
         if len(open_buy_decisions) > 0:
             best_match = None
@@ -212,8 +222,8 @@ class DecisionMaker():
                     decisions.append(sell_decision)
 
         if len(decisions) == 0:
-            self.logger.info("no decisions made (no buys or sells)... generating a skip decision")
-            decision = Decision(decision_type=DecisionType.SKIP, context=context)
+            self.logger.info(f"no decisions made (no buys or sells)... generating a skip decision with reason {skip_reason}")
+            decision = SkipDecision(context=context, reason=skip_reason)
             decisions.append(decision)
 
         self.save_decisions_to_db(decisions)

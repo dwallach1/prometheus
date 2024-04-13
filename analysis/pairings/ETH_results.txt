@@ -1,0 +1,2352 @@
+[ ETH ] Buy Threshold: 5%, Sell Threshold: 10%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 206
+The average lot time is: 160.25 days
+The average profit percentage is: 13.62%
+
+[ ETH ] Buy Threshold: 5%, Sell Threshold: 11%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 206
+The average lot time is: 171.46 days
+The average profit percentage is: 14.69%
+
+[ ETH ] Buy Threshold: 5%, Sell Threshold: 12%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 206
+The average lot time is: 172.21 days
+The average profit percentage is: 15.38%
+
+[ ETH ] Buy Threshold: 5%, Sell Threshold: 13%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 205
+The average lot time is: 174.76 days
+The average profit percentage is: 16.30%
+
+[ ETH ] Buy Threshold: 5%, Sell Threshold: 14%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 205
+The average lot time is: 178.98 days
+The average profit percentage is: 17.74%
+
+[ ETH ] Buy Threshold: 5%, Sell Threshold: 15%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 203
+The average lot time is: 181.25 days
+The average profit percentage is: 18.52%
+
+[ ETH ] Buy Threshold: 5%, Sell Threshold: 16%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 202
+The average lot time is: 197.39 days
+The average profit percentage is: 19.76%
+
+[ ETH ] Buy Threshold: 5%, Sell Threshold: 17%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 202
+The average lot time is: 204.68 days
+The average profit percentage is: 21.07%
+
+[ ETH ] Buy Threshold: 5%, Sell Threshold: 18%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 201
+The average lot time is: 212.64 days
+The average profit percentage is: 22.41%
+
+[ ETH ] Buy Threshold: 5%, Sell Threshold: 19%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 201
+The average lot time is: 231.42 days
+The average profit percentage is: 23.51%
+
+[ ETH ] Buy Threshold: 5%, Sell Threshold: 20%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 201
+The average lot time is: 241.79 days
+The average profit percentage is: 24.68%
+
+[ ETH ] Buy Threshold: 5%, Sell Threshold: 21%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 201
+The average lot time is: 248.46 days
+The average profit percentage is: 25.97%
+
+[ ETH ] Buy Threshold: 5%, Sell Threshold: 22%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 201
+The average lot time is: 250.46 days
+The average profit percentage is: 26.77%
+
+[ ETH ] Buy Threshold: 5%, Sell Threshold: 23%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 201
+The average lot time is: 257.18 days
+The average profit percentage is: 27.60%
+
+[ ETH ] Buy Threshold: 5%, Sell Threshold: 24%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 201
+The average lot time is: 258.88 days
+The average profit percentage is: 28.41%
+
+[ ETH ] Buy Threshold: 5%, Sell Threshold: 25%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 201
+The average lot time is: 263.29 days
+The average profit percentage is: 29.31%
+
+[ ETH ] Buy Threshold: 6%, Sell Threshold: 10%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 206
+The average lot time is: 160.25 days
+The average profit percentage is: 13.62%
+
+[ ETH ] Buy Threshold: 6%, Sell Threshold: 11%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 206
+The average lot time is: 171.46 days
+The average profit percentage is: 14.69%
+
+[ ETH ] Buy Threshold: 6%, Sell Threshold: 12%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 206
+The average lot time is: 172.21 days
+The average profit percentage is: 15.38%
+
+[ ETH ] Buy Threshold: 6%, Sell Threshold: 13%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 205
+The average lot time is: 174.76 days
+The average profit percentage is: 16.30%
+
+[ ETH ] Buy Threshold: 6%, Sell Threshold: 14%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 205
+The average lot time is: 178.98 days
+The average profit percentage is: 17.74%
+
+[ ETH ] Buy Threshold: 6%, Sell Threshold: 15%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 203
+The average lot time is: 181.25 days
+The average profit percentage is: 18.52%
+
+[ ETH ] Buy Threshold: 6%, Sell Threshold: 16%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 202
+The average lot time is: 197.39 days
+The average profit percentage is: 19.76%
+
+[ ETH ] Buy Threshold: 6%, Sell Threshold: 17%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 202
+The average lot time is: 204.68 days
+The average profit percentage is: 21.07%
+
+[ ETH ] Buy Threshold: 6%, Sell Threshold: 18%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 201
+The average lot time is: 212.64 days
+The average profit percentage is: 22.41%
+
+[ ETH ] Buy Threshold: 6%, Sell Threshold: 19%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 201
+The average lot time is: 231.42 days
+The average profit percentage is: 23.51%
+
+[ ETH ] Buy Threshold: 6%, Sell Threshold: 20%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 201
+The average lot time is: 241.79 days
+The average profit percentage is: 24.68%
+
+[ ETH ] Buy Threshold: 6%, Sell Threshold: 21%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 201
+The average lot time is: 248.46 days
+The average profit percentage is: 25.97%
+
+[ ETH ] Buy Threshold: 6%, Sell Threshold: 22%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 201
+The average lot time is: 250.46 days
+The average profit percentage is: 26.77%
+
+[ ETH ] Buy Threshold: 6%, Sell Threshold: 23%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 201
+The average lot time is: 257.18 days
+The average profit percentage is: 27.60%
+
+[ ETH ] Buy Threshold: 6%, Sell Threshold: 24%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 201
+The average lot time is: 258.88 days
+The average profit percentage is: 28.41%
+
+[ ETH ] Buy Threshold: 6%, Sell Threshold: 25%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 201
+The average lot time is: 263.29 days
+The average profit percentage is: 29.31%
+
+[ ETH ] Buy Threshold: 7%, Sell Threshold: 10%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 206
+The average lot time is: 160.25 days
+The average profit percentage is: 13.62%
+
+[ ETH ] Buy Threshold: 7%, Sell Threshold: 11%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 206
+The average lot time is: 171.46 days
+The average profit percentage is: 14.69%
+
+[ ETH ] Buy Threshold: 7%, Sell Threshold: 12%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 206
+The average lot time is: 172.21 days
+The average profit percentage is: 15.38%
+
+[ ETH ] Buy Threshold: 7%, Sell Threshold: 13%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 205
+The average lot time is: 174.76 days
+The average profit percentage is: 16.30%
+
+[ ETH ] Buy Threshold: 7%, Sell Threshold: 14%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 205
+The average lot time is: 178.98 days
+The average profit percentage is: 17.74%
+
+[ ETH ] Buy Threshold: 7%, Sell Threshold: 15%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 203
+The average lot time is: 181.25 days
+The average profit percentage is: 18.52%
+
+[ ETH ] Buy Threshold: 7%, Sell Threshold: 16%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 202
+The average lot time is: 197.39 days
+The average profit percentage is: 19.76%
+
+[ ETH ] Buy Threshold: 7%, Sell Threshold: 17%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 202
+The average lot time is: 204.68 days
+The average profit percentage is: 21.07%
+
+[ ETH ] Buy Threshold: 7%, Sell Threshold: 18%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 201
+The average lot time is: 212.64 days
+The average profit percentage is: 22.41%
+
+[ ETH ] Buy Threshold: 7%, Sell Threshold: 19%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 201
+The average lot time is: 231.42 days
+The average profit percentage is: 23.51%
+
+[ ETH ] Buy Threshold: 7%, Sell Threshold: 20%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 201
+The average lot time is: 241.79 days
+The average profit percentage is: 24.68%
+
+[ ETH ] Buy Threshold: 7%, Sell Threshold: 21%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 201
+The average lot time is: 248.46 days
+The average profit percentage is: 25.97%
+
+[ ETH ] Buy Threshold: 7%, Sell Threshold: 22%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 201
+The average lot time is: 250.46 days
+The average profit percentage is: 26.77%
+
+[ ETH ] Buy Threshold: 7%, Sell Threshold: 23%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 201
+The average lot time is: 257.18 days
+The average profit percentage is: 27.60%
+
+[ ETH ] Buy Threshold: 7%, Sell Threshold: 24%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 201
+The average lot time is: 258.88 days
+The average profit percentage is: 28.41%
+
+[ ETH ] Buy Threshold: 7%, Sell Threshold: 25%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 201
+The average lot time is: 263.29 days
+The average profit percentage is: 29.31%
+
+[ ETH ] Buy Threshold: 8%, Sell Threshold: 10%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 206
+The average lot time is: 160.25 days
+The average profit percentage is: 13.62%
+
+[ ETH ] Buy Threshold: 8%, Sell Threshold: 11%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 206
+The average lot time is: 171.46 days
+The average profit percentage is: 14.69%
+
+[ ETH ] Buy Threshold: 8%, Sell Threshold: 12%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 206
+The average lot time is: 172.21 days
+The average profit percentage is: 15.38%
+
+[ ETH ] Buy Threshold: 8%, Sell Threshold: 13%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 205
+The average lot time is: 174.76 days
+The average profit percentage is: 16.30%
+
+[ ETH ] Buy Threshold: 8%, Sell Threshold: 14%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 205
+The average lot time is: 178.98 days
+The average profit percentage is: 17.74%
+
+[ ETH ] Buy Threshold: 8%, Sell Threshold: 15%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 203
+The average lot time is: 181.25 days
+The average profit percentage is: 18.52%
+
+[ ETH ] Buy Threshold: 8%, Sell Threshold: 16%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 202
+The average lot time is: 197.39 days
+The average profit percentage is: 19.76%
+
+[ ETH ] Buy Threshold: 8%, Sell Threshold: 17%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 202
+The average lot time is: 204.68 days
+The average profit percentage is: 21.07%
+
+[ ETH ] Buy Threshold: 8%, Sell Threshold: 18%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 201
+The average lot time is: 212.64 days
+The average profit percentage is: 22.41%
+
+[ ETH ] Buy Threshold: 8%, Sell Threshold: 19%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 201
+The average lot time is: 231.42 days
+The average profit percentage is: 23.51%
+
+[ ETH ] Buy Threshold: 8%, Sell Threshold: 20%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 201
+The average lot time is: 241.79 days
+The average profit percentage is: 24.68%
+
+[ ETH ] Buy Threshold: 8%, Sell Threshold: 21%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 201
+The average lot time is: 248.46 days
+The average profit percentage is: 25.97%
+
+[ ETH ] Buy Threshold: 8%, Sell Threshold: 22%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 201
+The average lot time is: 250.46 days
+The average profit percentage is: 26.77%
+
+[ ETH ] Buy Threshold: 8%, Sell Threshold: 23%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 201
+The average lot time is: 257.18 days
+The average profit percentage is: 27.60%
+
+[ ETH ] Buy Threshold: 8%, Sell Threshold: 24%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 201
+The average lot time is: 258.88 days
+The average profit percentage is: 28.41%
+
+[ ETH ] Buy Threshold: 8%, Sell Threshold: 25%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 201
+The average lot time is: 263.29 days
+The average profit percentage is: 29.31%
+
+[ ETH ] Buy Threshold: 9%, Sell Threshold: 10%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 206
+The average lot time is: 160.25 days
+The average profit percentage is: 13.62%
+
+[ ETH ] Buy Threshold: 9%, Sell Threshold: 11%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 206
+The average lot time is: 171.46 days
+The average profit percentage is: 14.69%
+
+[ ETH ] Buy Threshold: 9%, Sell Threshold: 12%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 206
+The average lot time is: 172.21 days
+The average profit percentage is: 15.38%
+
+[ ETH ] Buy Threshold: 9%, Sell Threshold: 13%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 205
+The average lot time is: 174.76 days
+The average profit percentage is: 16.30%
+
+[ ETH ] Buy Threshold: 9%, Sell Threshold: 14%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 205
+The average lot time is: 178.98 days
+The average profit percentage is: 17.74%
+
+[ ETH ] Buy Threshold: 9%, Sell Threshold: 15%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 203
+The average lot time is: 181.25 days
+The average profit percentage is: 18.52%
+
+[ ETH ] Buy Threshold: 9%, Sell Threshold: 16%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 202
+The average lot time is: 197.39 days
+The average profit percentage is: 19.76%
+
+[ ETH ] Buy Threshold: 9%, Sell Threshold: 17%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 202
+The average lot time is: 204.68 days
+The average profit percentage is: 21.07%
+
+[ ETH ] Buy Threshold: 9%, Sell Threshold: 18%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 201
+The average lot time is: 212.64 days
+The average profit percentage is: 22.41%
+
+[ ETH ] Buy Threshold: 9%, Sell Threshold: 19%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 201
+The average lot time is: 231.42 days
+The average profit percentage is: 23.51%
+
+[ ETH ] Buy Threshold: 9%, Sell Threshold: 20%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 201
+The average lot time is: 241.79 days
+The average profit percentage is: 24.68%
+
+[ ETH ] Buy Threshold: 9%, Sell Threshold: 21%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 201
+The average lot time is: 248.46 days
+The average profit percentage is: 25.97%
+
+[ ETH ] Buy Threshold: 9%, Sell Threshold: 22%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 201
+The average lot time is: 250.46 days
+The average profit percentage is: 26.77%
+
+[ ETH ] Buy Threshold: 9%, Sell Threshold: 23%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 201
+The average lot time is: 257.18 days
+The average profit percentage is: 27.60%
+
+[ ETH ] Buy Threshold: 9%, Sell Threshold: 24%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 201
+The average lot time is: 258.88 days
+The average profit percentage is: 28.41%
+
+[ ETH ] Buy Threshold: 9%, Sell Threshold: 25%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 201
+The average lot time is: 263.29 days
+The average profit percentage is: 29.31%
+
+[ ETH ] Buy Threshold: 10%, Sell Threshold: 10%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 206
+The average lot time is: 160.25 days
+The average profit percentage is: 13.62%
+
+[ ETH ] Buy Threshold: 10%, Sell Threshold: 11%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 206
+The average lot time is: 171.46 days
+The average profit percentage is: 14.69%
+
+[ ETH ] Buy Threshold: 10%, Sell Threshold: 12%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 206
+The average lot time is: 172.21 days
+The average profit percentage is: 15.38%
+
+[ ETH ] Buy Threshold: 10%, Sell Threshold: 13%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 205
+The average lot time is: 174.76 days
+The average profit percentage is: 16.30%
+
+[ ETH ] Buy Threshold: 10%, Sell Threshold: 14%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 205
+The average lot time is: 178.98 days
+The average profit percentage is: 17.74%
+
+[ ETH ] Buy Threshold: 10%, Sell Threshold: 15%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 203
+The average lot time is: 181.25 days
+The average profit percentage is: 18.52%
+
+[ ETH ] Buy Threshold: 10%, Sell Threshold: 16%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 202
+The average lot time is: 197.39 days
+The average profit percentage is: 19.76%
+
+[ ETH ] Buy Threshold: 10%, Sell Threshold: 17%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 202
+The average lot time is: 204.68 days
+The average profit percentage is: 21.07%
+
+[ ETH ] Buy Threshold: 10%, Sell Threshold: 18%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 201
+The average lot time is: 212.64 days
+The average profit percentage is: 22.41%
+
+[ ETH ] Buy Threshold: 10%, Sell Threshold: 19%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 201
+The average lot time is: 231.42 days
+The average profit percentage is: 23.51%
+
+[ ETH ] Buy Threshold: 10%, Sell Threshold: 20%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 201
+The average lot time is: 241.79 days
+The average profit percentage is: 24.68%
+
+[ ETH ] Buy Threshold: 10%, Sell Threshold: 21%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 201
+The average lot time is: 248.46 days
+The average profit percentage is: 25.97%
+
+[ ETH ] Buy Threshold: 10%, Sell Threshold: 22%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 201
+The average lot time is: 250.46 days
+The average profit percentage is: 26.77%
+
+[ ETH ] Buy Threshold: 10%, Sell Threshold: 23%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 201
+The average lot time is: 257.18 days
+The average profit percentage is: 27.60%
+
+[ ETH ] Buy Threshold: 10%, Sell Threshold: 24%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 201
+The average lot time is: 258.88 days
+The average profit percentage is: 28.41%
+
+[ ETH ] Buy Threshold: 10%, Sell Threshold: 25%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 201
+The average lot time is: 263.29 days
+The average profit percentage is: 29.31%
+
+[ ETH ] Buy Threshold: 11%, Sell Threshold: 10%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 206
+The average lot time is: 160.25 days
+The average profit percentage is: 13.62%
+
+[ ETH ] Buy Threshold: 11%, Sell Threshold: 11%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 206
+The average lot time is: 171.46 days
+The average profit percentage is: 14.69%
+
+[ ETH ] Buy Threshold: 11%, Sell Threshold: 12%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 206
+The average lot time is: 172.21 days
+The average profit percentage is: 15.38%
+
+[ ETH ] Buy Threshold: 11%, Sell Threshold: 13%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 205
+The average lot time is: 174.76 days
+The average profit percentage is: 16.30%
+
+[ ETH ] Buy Threshold: 11%, Sell Threshold: 14%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 205
+The average lot time is: 178.98 days
+The average profit percentage is: 17.74%
+
+[ ETH ] Buy Threshold: 11%, Sell Threshold: 15%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 203
+The average lot time is: 181.25 days
+The average profit percentage is: 18.52%
+
+[ ETH ] Buy Threshold: 11%, Sell Threshold: 16%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 202
+The average lot time is: 197.39 days
+The average profit percentage is: 19.76%
+
+[ ETH ] Buy Threshold: 11%, Sell Threshold: 17%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 202
+The average lot time is: 204.68 days
+The average profit percentage is: 21.07%
+
+[ ETH ] Buy Threshold: 11%, Sell Threshold: 18%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 201
+The average lot time is: 212.64 days
+The average profit percentage is: 22.41%
+
+[ ETH ] Buy Threshold: 11%, Sell Threshold: 19%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 201
+The average lot time is: 231.42 days
+The average profit percentage is: 23.51%
+
+[ ETH ] Buy Threshold: 11%, Sell Threshold: 20%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 201
+The average lot time is: 241.79 days
+The average profit percentage is: 24.68%
+
+[ ETH ] Buy Threshold: 11%, Sell Threshold: 21%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 201
+The average lot time is: 248.46 days
+The average profit percentage is: 25.97%
+
+[ ETH ] Buy Threshold: 11%, Sell Threshold: 22%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 201
+The average lot time is: 250.46 days
+The average profit percentage is: 26.77%
+
+[ ETH ] Buy Threshold: 11%, Sell Threshold: 23%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 201
+The average lot time is: 257.18 days
+The average profit percentage is: 27.60%
+
+[ ETH ] Buy Threshold: 11%, Sell Threshold: 24%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 201
+The average lot time is: 258.88 days
+The average profit percentage is: 28.41%
+
+[ ETH ] Buy Threshold: 11%, Sell Threshold: 25%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 201
+The average lot time is: 263.29 days
+The average profit percentage is: 29.31%
+
+[ ETH ] Buy Threshold: 12%, Sell Threshold: 10%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 206
+The average lot time is: 160.25 days
+The average profit percentage is: 13.62%
+
+[ ETH ] Buy Threshold: 12%, Sell Threshold: 11%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 206
+The average lot time is: 171.46 days
+The average profit percentage is: 14.69%
+
+[ ETH ] Buy Threshold: 12%, Sell Threshold: 12%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 206
+The average lot time is: 172.21 days
+The average profit percentage is: 15.38%
+
+[ ETH ] Buy Threshold: 12%, Sell Threshold: 13%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 205
+The average lot time is: 174.76 days
+The average profit percentage is: 16.30%
+
+[ ETH ] Buy Threshold: 12%, Sell Threshold: 14%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 205
+The average lot time is: 178.98 days
+The average profit percentage is: 17.74%
+
+[ ETH ] Buy Threshold: 12%, Sell Threshold: 15%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 203
+The average lot time is: 181.25 days
+The average profit percentage is: 18.52%
+
+[ ETH ] Buy Threshold: 12%, Sell Threshold: 16%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 202
+The average lot time is: 197.39 days
+The average profit percentage is: 19.76%
+
+[ ETH ] Buy Threshold: 12%, Sell Threshold: 17%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 202
+The average lot time is: 204.68 days
+The average profit percentage is: 21.07%
+
+[ ETH ] Buy Threshold: 12%, Sell Threshold: 18%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 201
+The average lot time is: 212.64 days
+The average profit percentage is: 22.41%
+
+[ ETH ] Buy Threshold: 12%, Sell Threshold: 19%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 201
+The average lot time is: 231.42 days
+The average profit percentage is: 23.51%
+
+[ ETH ] Buy Threshold: 12%, Sell Threshold: 20%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 201
+The average lot time is: 241.79 days
+The average profit percentage is: 24.68%
+
+[ ETH ] Buy Threshold: 12%, Sell Threshold: 21%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 201
+The average lot time is: 248.46 days
+The average profit percentage is: 25.97%
+
+[ ETH ] Buy Threshold: 12%, Sell Threshold: 22%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 201
+The average lot time is: 250.46 days
+The average profit percentage is: 26.77%
+
+[ ETH ] Buy Threshold: 12%, Sell Threshold: 23%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 201
+The average lot time is: 257.18 days
+The average profit percentage is: 27.60%
+
+[ ETH ] Buy Threshold: 12%, Sell Threshold: 24%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 201
+The average lot time is: 258.88 days
+The average profit percentage is: 28.41%
+
+[ ETH ] Buy Threshold: 12%, Sell Threshold: 25%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 201
+The average lot time is: 263.29 days
+The average profit percentage is: 29.31%
+
+[ ETH ] Buy Threshold: 13%, Sell Threshold: 10%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 206
+The average lot time is: 160.25 days
+The average profit percentage is: 13.62%
+
+[ ETH ] Buy Threshold: 13%, Sell Threshold: 11%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 206
+The average lot time is: 171.46 days
+The average profit percentage is: 14.69%
+
+[ ETH ] Buy Threshold: 13%, Sell Threshold: 12%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 206
+The average lot time is: 172.21 days
+The average profit percentage is: 15.38%
+
+[ ETH ] Buy Threshold: 13%, Sell Threshold: 13%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 205
+The average lot time is: 174.76 days
+The average profit percentage is: 16.30%
+
+[ ETH ] Buy Threshold: 13%, Sell Threshold: 14%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 205
+The average lot time is: 178.98 days
+The average profit percentage is: 17.74%
+
+[ ETH ] Buy Threshold: 13%, Sell Threshold: 15%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 203
+The average lot time is: 181.25 days
+The average profit percentage is: 18.52%
+
+[ ETH ] Buy Threshold: 13%, Sell Threshold: 16%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 202
+The average lot time is: 197.39 days
+The average profit percentage is: 19.76%
+
+[ ETH ] Buy Threshold: 13%, Sell Threshold: 17%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 202
+The average lot time is: 204.68 days
+The average profit percentage is: 21.07%
+
+[ ETH ] Buy Threshold: 13%, Sell Threshold: 18%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 201
+The average lot time is: 212.64 days
+The average profit percentage is: 22.41%
+
+[ ETH ] Buy Threshold: 13%, Sell Threshold: 19%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 201
+The average lot time is: 231.42 days
+The average profit percentage is: 23.51%
+
+[ ETH ] Buy Threshold: 13%, Sell Threshold: 20%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 201
+The average lot time is: 241.79 days
+The average profit percentage is: 24.68%
+
+[ ETH ] Buy Threshold: 13%, Sell Threshold: 21%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 201
+The average lot time is: 248.46 days
+The average profit percentage is: 25.97%
+
+[ ETH ] Buy Threshold: 13%, Sell Threshold: 22%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 201
+The average lot time is: 250.46 days
+The average profit percentage is: 26.77%
+
+[ ETH ] Buy Threshold: 13%, Sell Threshold: 23%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 201
+The average lot time is: 257.18 days
+The average profit percentage is: 27.60%
+
+[ ETH ] Buy Threshold: 13%, Sell Threshold: 24%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 201
+The average lot time is: 258.88 days
+The average profit percentage is: 28.41%
+
+[ ETH ] Buy Threshold: 13%, Sell Threshold: 25%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 201
+The average lot time is: 263.29 days
+The average profit percentage is: 29.31%
+
+[ ETH ] Buy Threshold: 14%, Sell Threshold: 10%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 206
+The average lot time is: 160.25 days
+The average profit percentage is: 13.62%
+
+[ ETH ] Buy Threshold: 14%, Sell Threshold: 11%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 206
+The average lot time is: 171.46 days
+The average profit percentage is: 14.69%
+
+[ ETH ] Buy Threshold: 14%, Sell Threshold: 12%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 206
+The average lot time is: 172.21 days
+The average profit percentage is: 15.38%
+
+[ ETH ] Buy Threshold: 14%, Sell Threshold: 13%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 205
+The average lot time is: 174.76 days
+The average profit percentage is: 16.30%
+
+[ ETH ] Buy Threshold: 14%, Sell Threshold: 14%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 205
+The average lot time is: 178.98 days
+The average profit percentage is: 17.74%
+
+[ ETH ] Buy Threshold: 14%, Sell Threshold: 15%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 203
+The average lot time is: 181.25 days
+The average profit percentage is: 18.52%
+
+[ ETH ] Buy Threshold: 14%, Sell Threshold: 16%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 202
+The average lot time is: 197.39 days
+The average profit percentage is: 19.76%
+
+[ ETH ] Buy Threshold: 14%, Sell Threshold: 17%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 202
+The average lot time is: 204.68 days
+The average profit percentage is: 21.07%
+
+[ ETH ] Buy Threshold: 14%, Sell Threshold: 18%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 201
+The average lot time is: 212.64 days
+The average profit percentage is: 22.41%
+
+[ ETH ] Buy Threshold: 14%, Sell Threshold: 19%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 201
+The average lot time is: 231.42 days
+The average profit percentage is: 23.51%
+
+[ ETH ] Buy Threshold: 14%, Sell Threshold: 20%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 201
+The average lot time is: 241.79 days
+The average profit percentage is: 24.68%
+
+[ ETH ] Buy Threshold: 14%, Sell Threshold: 21%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 201
+The average lot time is: 248.46 days
+The average profit percentage is: 25.97%
+
+[ ETH ] Buy Threshold: 14%, Sell Threshold: 22%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 201
+The average lot time is: 250.46 days
+The average profit percentage is: 26.77%
+
+[ ETH ] Buy Threshold: 14%, Sell Threshold: 23%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 201
+The average lot time is: 257.18 days
+The average profit percentage is: 27.60%
+
+[ ETH ] Buy Threshold: 14%, Sell Threshold: 24%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 201
+The average lot time is: 258.88 days
+The average profit percentage is: 28.41%
+
+[ ETH ] Buy Threshold: 14%, Sell Threshold: 25%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 201
+The average lot time is: 263.29 days
+The average profit percentage is: 29.31%
+
+[ ETH ] Buy Threshold: 15%, Sell Threshold: 10%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 206
+The average lot time is: 160.25 days
+The average profit percentage is: 13.62%
+
+[ ETH ] Buy Threshold: 15%, Sell Threshold: 11%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 206
+The average lot time is: 171.46 days
+The average profit percentage is: 14.69%
+
+[ ETH ] Buy Threshold: 15%, Sell Threshold: 12%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 206
+The average lot time is: 172.21 days
+The average profit percentage is: 15.38%
+
+[ ETH ] Buy Threshold: 15%, Sell Threshold: 13%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 205
+The average lot time is: 174.76 days
+The average profit percentage is: 16.30%
+
+[ ETH ] Buy Threshold: 15%, Sell Threshold: 14%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 205
+The average lot time is: 178.98 days
+The average profit percentage is: 17.74%
+
+[ ETH ] Buy Threshold: 15%, Sell Threshold: 15%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 203
+The average lot time is: 181.25 days
+The average profit percentage is: 18.52%
+
+[ ETH ] Buy Threshold: 15%, Sell Threshold: 16%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 202
+The average lot time is: 197.39 days
+The average profit percentage is: 19.76%
+
+[ ETH ] Buy Threshold: 15%, Sell Threshold: 17%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 202
+The average lot time is: 204.68 days
+The average profit percentage is: 21.07%
+
+[ ETH ] Buy Threshold: 15%, Sell Threshold: 18%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 201
+The average lot time is: 212.64 days
+The average profit percentage is: 22.41%
+
+[ ETH ] Buy Threshold: 15%, Sell Threshold: 19%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 201
+The average lot time is: 231.42 days
+The average profit percentage is: 23.51%
+
+[ ETH ] Buy Threshold: 15%, Sell Threshold: 20%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 201
+The average lot time is: 241.79 days
+The average profit percentage is: 24.68%
+
+[ ETH ] Buy Threshold: 15%, Sell Threshold: 21%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 201
+The average lot time is: 248.46 days
+The average profit percentage is: 25.97%
+
+[ ETH ] Buy Threshold: 15%, Sell Threshold: 22%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 201
+The average lot time is: 250.46 days
+The average profit percentage is: 26.77%
+
+[ ETH ] Buy Threshold: 15%, Sell Threshold: 23%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 201
+The average lot time is: 257.18 days
+The average profit percentage is: 27.60%
+
+[ ETH ] Buy Threshold: 15%, Sell Threshold: 24%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 201
+The average lot time is: 258.88 days
+The average profit percentage is: 28.41%
+
+[ ETH ] Buy Threshold: 15%, Sell Threshold: 25%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 201
+The average lot time is: 263.29 days
+The average profit percentage is: 29.31%
+
+[ ETH ] Buy Threshold: 16%, Sell Threshold: 10%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 206
+The average lot time is: 160.25 days
+The average profit percentage is: 13.62%
+
+[ ETH ] Buy Threshold: 16%, Sell Threshold: 11%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 206
+The average lot time is: 171.46 days
+The average profit percentage is: 14.69%
+
+[ ETH ] Buy Threshold: 16%, Sell Threshold: 12%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 206
+The average lot time is: 172.21 days
+The average profit percentage is: 15.38%
+
+[ ETH ] Buy Threshold: 16%, Sell Threshold: 13%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 205
+The average lot time is: 174.76 days
+The average profit percentage is: 16.30%
+
+[ ETH ] Buy Threshold: 16%, Sell Threshold: 14%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 205
+The average lot time is: 178.98 days
+The average profit percentage is: 17.74%
+
+[ ETH ] Buy Threshold: 16%, Sell Threshold: 15%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 203
+The average lot time is: 181.25 days
+The average profit percentage is: 18.52%
+
+[ ETH ] Buy Threshold: 16%, Sell Threshold: 16%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 202
+The average lot time is: 197.39 days
+The average profit percentage is: 19.76%
+
+[ ETH ] Buy Threshold: 16%, Sell Threshold: 17%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 202
+The average lot time is: 204.68 days
+The average profit percentage is: 21.07%
+
+[ ETH ] Buy Threshold: 16%, Sell Threshold: 18%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 201
+The average lot time is: 212.64 days
+The average profit percentage is: 22.41%
+
+[ ETH ] Buy Threshold: 16%, Sell Threshold: 19%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 201
+The average lot time is: 231.42 days
+The average profit percentage is: 23.51%
+
+[ ETH ] Buy Threshold: 16%, Sell Threshold: 20%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 201
+The average lot time is: 241.79 days
+The average profit percentage is: 24.68%
+
+[ ETH ] Buy Threshold: 16%, Sell Threshold: 21%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 201
+The average lot time is: 248.46 days
+The average profit percentage is: 25.97%
+
+[ ETH ] Buy Threshold: 16%, Sell Threshold: 22%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 201
+The average lot time is: 250.46 days
+The average profit percentage is: 26.77%
+
+[ ETH ] Buy Threshold: 16%, Sell Threshold: 23%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 201
+The average lot time is: 257.18 days
+The average profit percentage is: 27.60%
+
+[ ETH ] Buy Threshold: 16%, Sell Threshold: 24%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 201
+The average lot time is: 258.88 days
+The average profit percentage is: 28.41%
+
+[ ETH ] Buy Threshold: 16%, Sell Threshold: 25%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 201
+The average lot time is: 263.29 days
+The average profit percentage is: 29.31%
+
+[ ETH ] Buy Threshold: 17%, Sell Threshold: 10%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 206
+The average lot time is: 160.25 days
+The average profit percentage is: 13.62%
+
+[ ETH ] Buy Threshold: 17%, Sell Threshold: 11%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 206
+The average lot time is: 171.46 days
+The average profit percentage is: 14.69%
+
+[ ETH ] Buy Threshold: 17%, Sell Threshold: 12%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 206
+The average lot time is: 172.21 days
+The average profit percentage is: 15.38%
+
+[ ETH ] Buy Threshold: 17%, Sell Threshold: 13%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 205
+The average lot time is: 174.76 days
+The average profit percentage is: 16.30%
+
+[ ETH ] Buy Threshold: 17%, Sell Threshold: 14%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 205
+The average lot time is: 178.98 days
+The average profit percentage is: 17.74%
+
+[ ETH ] Buy Threshold: 17%, Sell Threshold: 15%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 203
+The average lot time is: 181.25 days
+The average profit percentage is: 18.52%
+
+[ ETH ] Buy Threshold: 17%, Sell Threshold: 16%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 202
+The average lot time is: 197.39 days
+The average profit percentage is: 19.76%
+
+[ ETH ] Buy Threshold: 17%, Sell Threshold: 17%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 202
+The average lot time is: 204.68 days
+The average profit percentage is: 21.07%
+
+[ ETH ] Buy Threshold: 17%, Sell Threshold: 18%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 201
+The average lot time is: 212.64 days
+The average profit percentage is: 22.41%
+
+[ ETH ] Buy Threshold: 17%, Sell Threshold: 19%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 201
+The average lot time is: 231.42 days
+The average profit percentage is: 23.51%
+
+[ ETH ] Buy Threshold: 17%, Sell Threshold: 20%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 201
+The average lot time is: 241.79 days
+The average profit percentage is: 24.68%
+
+[ ETH ] Buy Threshold: 17%, Sell Threshold: 21%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 201
+The average lot time is: 248.46 days
+The average profit percentage is: 25.97%
+
+[ ETH ] Buy Threshold: 17%, Sell Threshold: 22%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 201
+The average lot time is: 250.46 days
+The average profit percentage is: 26.77%
+
+[ ETH ] Buy Threshold: 17%, Sell Threshold: 23%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 201
+The average lot time is: 257.18 days
+The average profit percentage is: 27.60%
+
+[ ETH ] Buy Threshold: 17%, Sell Threshold: 24%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 201
+The average lot time is: 258.88 days
+The average profit percentage is: 28.41%
+
+[ ETH ] Buy Threshold: 17%, Sell Threshold: 25%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 201
+The average lot time is: 263.29 days
+The average profit percentage is: 29.31%
+
+[ ETH ] Buy Threshold: 18%, Sell Threshold: 10%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 206
+The average lot time is: 160.25 days
+The average profit percentage is: 13.62%
+
+[ ETH ] Buy Threshold: 18%, Sell Threshold: 11%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 206
+The average lot time is: 171.46 days
+The average profit percentage is: 14.69%
+
+[ ETH ] Buy Threshold: 18%, Sell Threshold: 12%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 206
+The average lot time is: 172.21 days
+The average profit percentage is: 15.38%
+
+[ ETH ] Buy Threshold: 18%, Sell Threshold: 13%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 205
+The average lot time is: 174.76 days
+The average profit percentage is: 16.30%
+
+[ ETH ] Buy Threshold: 18%, Sell Threshold: 14%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 205
+The average lot time is: 178.98 days
+The average profit percentage is: 17.74%
+
+[ ETH ] Buy Threshold: 18%, Sell Threshold: 15%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 203
+The average lot time is: 181.25 days
+The average profit percentage is: 18.52%
+
+[ ETH ] Buy Threshold: 18%, Sell Threshold: 16%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 202
+The average lot time is: 197.39 days
+The average profit percentage is: 19.76%
+
+[ ETH ] Buy Threshold: 18%, Sell Threshold: 17%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 202
+The average lot time is: 204.68 days
+The average profit percentage is: 21.07%
+
+[ ETH ] Buy Threshold: 18%, Sell Threshold: 18%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 201
+The average lot time is: 212.64 days
+The average profit percentage is: 22.41%
+
+[ ETH ] Buy Threshold: 18%, Sell Threshold: 19%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 201
+The average lot time is: 231.42 days
+The average profit percentage is: 23.51%
+
+[ ETH ] Buy Threshold: 18%, Sell Threshold: 20%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 201
+The average lot time is: 241.79 days
+The average profit percentage is: 24.68%
+
+[ ETH ] Buy Threshold: 18%, Sell Threshold: 21%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 201
+The average lot time is: 248.46 days
+The average profit percentage is: 25.97%
+
+[ ETH ] Buy Threshold: 18%, Sell Threshold: 22%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 201
+The average lot time is: 250.46 days
+The average profit percentage is: 26.77%
+
+[ ETH ] Buy Threshold: 18%, Sell Threshold: 23%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 201
+The average lot time is: 257.18 days
+The average profit percentage is: 27.60%
+
+[ ETH ] Buy Threshold: 18%, Sell Threshold: 24%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 201
+The average lot time is: 258.88 days
+The average profit percentage is: 28.41%
+
+[ ETH ] Buy Threshold: 18%, Sell Threshold: 25%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 201
+The average lot time is: 263.29 days
+The average profit percentage is: 29.31%
+
+[ ETH ] Buy Threshold: 19%, Sell Threshold: 10%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 206
+The average lot time is: 160.25 days
+The average profit percentage is: 13.62%
+
+[ ETH ] Buy Threshold: 19%, Sell Threshold: 11%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 206
+The average lot time is: 171.46 days
+The average profit percentage is: 14.69%
+
+[ ETH ] Buy Threshold: 19%, Sell Threshold: 12%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 206
+The average lot time is: 172.21 days
+The average profit percentage is: 15.38%
+
+[ ETH ] Buy Threshold: 19%, Sell Threshold: 13%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 205
+The average lot time is: 174.76 days
+The average profit percentage is: 16.30%
+
+[ ETH ] Buy Threshold: 19%, Sell Threshold: 14%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 205
+The average lot time is: 178.98 days
+The average profit percentage is: 17.74%
+
+[ ETH ] Buy Threshold: 19%, Sell Threshold: 15%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 203
+The average lot time is: 181.25 days
+The average profit percentage is: 18.52%
+
+[ ETH ] Buy Threshold: 19%, Sell Threshold: 16%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 202
+The average lot time is: 197.39 days
+The average profit percentage is: 19.76%
+
+[ ETH ] Buy Threshold: 19%, Sell Threshold: 17%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 202
+The average lot time is: 204.68 days
+The average profit percentage is: 21.07%
+
+[ ETH ] Buy Threshold: 19%, Sell Threshold: 18%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 201
+The average lot time is: 212.64 days
+The average profit percentage is: 22.41%
+
+[ ETH ] Buy Threshold: 19%, Sell Threshold: 19%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 201
+The average lot time is: 231.42 days
+The average profit percentage is: 23.51%
+
+[ ETH ] Buy Threshold: 19%, Sell Threshold: 20%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 201
+The average lot time is: 241.79 days
+The average profit percentage is: 24.68%
+
+[ ETH ] Buy Threshold: 19%, Sell Threshold: 21%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 201
+The average lot time is: 248.46 days
+The average profit percentage is: 25.97%
+
+[ ETH ] Buy Threshold: 19%, Sell Threshold: 22%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 201
+The average lot time is: 250.46 days
+The average profit percentage is: 26.77%
+
+[ ETH ] Buy Threshold: 19%, Sell Threshold: 23%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 201
+The average lot time is: 257.18 days
+The average profit percentage is: 27.60%
+
+[ ETH ] Buy Threshold: 19%, Sell Threshold: 24%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 201
+The average lot time is: 258.88 days
+The average profit percentage is: 28.41%
+
+[ ETH ] Buy Threshold: 19%, Sell Threshold: 25%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 201
+The average lot time is: 263.29 days
+The average profit percentage is: 29.31%
+
+[ ETH ] Buy Threshold: 20%, Sell Threshold: 10%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 206
+The average lot time is: 160.25 days
+The average profit percentage is: 13.62%
+
+[ ETH ] Buy Threshold: 20%, Sell Threshold: 11%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 206
+The average lot time is: 171.46 days
+The average profit percentage is: 14.69%
+
+[ ETH ] Buy Threshold: 20%, Sell Threshold: 12%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 206
+The average lot time is: 172.21 days
+The average profit percentage is: 15.38%
+
+[ ETH ] Buy Threshold: 20%, Sell Threshold: 13%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 205
+The average lot time is: 174.76 days
+The average profit percentage is: 16.30%
+
+[ ETH ] Buy Threshold: 20%, Sell Threshold: 14%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 205
+The average lot time is: 178.98 days
+The average profit percentage is: 17.74%
+
+[ ETH ] Buy Threshold: 20%, Sell Threshold: 15%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 203
+The average lot time is: 181.25 days
+The average profit percentage is: 18.52%
+
+[ ETH ] Buy Threshold: 20%, Sell Threshold: 16%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 202
+The average lot time is: 197.39 days
+The average profit percentage is: 19.76%
+
+[ ETH ] Buy Threshold: 20%, Sell Threshold: 17%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 202
+The average lot time is: 204.68 days
+The average profit percentage is: 21.07%
+
+[ ETH ] Buy Threshold: 20%, Sell Threshold: 18%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 201
+The average lot time is: 212.64 days
+The average profit percentage is: 22.41%
+
+[ ETH ] Buy Threshold: 20%, Sell Threshold: 19%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 201
+The average lot time is: 231.42 days
+The average profit percentage is: 23.51%
+
+[ ETH ] Buy Threshold: 20%, Sell Threshold: 20%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 201
+The average lot time is: 241.79 days
+The average profit percentage is: 24.68%
+
+[ ETH ] Buy Threshold: 20%, Sell Threshold: 21%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 201
+The average lot time is: 248.46 days
+The average profit percentage is: 25.97%
+
+[ ETH ] Buy Threshold: 20%, Sell Threshold: 22%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 201
+The average lot time is: 250.46 days
+The average profit percentage is: 26.77%
+
+[ ETH ] Buy Threshold: 20%, Sell Threshold: 23%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 201
+The average lot time is: 257.18 days
+The average profit percentage is: 27.60%
+
+[ ETH ] Buy Threshold: 20%, Sell Threshold: 24%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 201
+The average lot time is: 258.88 days
+The average profit percentage is: 28.41%
+
+[ ETH ] Buy Threshold: 20%, Sell Threshold: 25%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 201
+The average lot time is: 263.29 days
+The average profit percentage is: 29.31%
+
+[ ETH ] Buy Threshold: 21%, Sell Threshold: 10%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 206
+The average lot time is: 160.25 days
+The average profit percentage is: 13.62%
+
+[ ETH ] Buy Threshold: 21%, Sell Threshold: 11%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 206
+The average lot time is: 171.46 days
+The average profit percentage is: 14.69%
+
+[ ETH ] Buy Threshold: 21%, Sell Threshold: 12%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 206
+The average lot time is: 172.21 days
+The average profit percentage is: 15.38%
+
+[ ETH ] Buy Threshold: 21%, Sell Threshold: 13%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 205
+The average lot time is: 174.76 days
+The average profit percentage is: 16.30%
+
+[ ETH ] Buy Threshold: 21%, Sell Threshold: 14%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 205
+The average lot time is: 178.98 days
+The average profit percentage is: 17.74%
+
+[ ETH ] Buy Threshold: 21%, Sell Threshold: 15%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 203
+The average lot time is: 181.25 days
+The average profit percentage is: 18.52%
+
+[ ETH ] Buy Threshold: 21%, Sell Threshold: 16%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 202
+The average lot time is: 197.39 days
+The average profit percentage is: 19.76%
+
+[ ETH ] Buy Threshold: 21%, Sell Threshold: 17%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 202
+The average lot time is: 204.68 days
+The average profit percentage is: 21.07%
+
+[ ETH ] Buy Threshold: 21%, Sell Threshold: 18%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 201
+The average lot time is: 212.64 days
+The average profit percentage is: 22.41%
+
+[ ETH ] Buy Threshold: 21%, Sell Threshold: 19%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 201
+The average lot time is: 231.42 days
+The average profit percentage is: 23.51%
+
+[ ETH ] Buy Threshold: 21%, Sell Threshold: 20%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 201
+The average lot time is: 241.79 days
+The average profit percentage is: 24.68%
+
+[ ETH ] Buy Threshold: 21%, Sell Threshold: 21%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 201
+The average lot time is: 248.46 days
+The average profit percentage is: 25.97%
+
+[ ETH ] Buy Threshold: 21%, Sell Threshold: 22%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 201
+The average lot time is: 250.46 days
+The average profit percentage is: 26.77%
+
+[ ETH ] Buy Threshold: 21%, Sell Threshold: 23%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 201
+The average lot time is: 257.18 days
+The average profit percentage is: 27.60%
+
+[ ETH ] Buy Threshold: 21%, Sell Threshold: 24%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 201
+The average lot time is: 258.88 days
+The average profit percentage is: 28.41%
+
+[ ETH ] Buy Threshold: 21%, Sell Threshold: 25%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 201
+The average lot time is: 263.29 days
+The average profit percentage is: 29.31%
+
+[ ETH ] Buy Threshold: 22%, Sell Threshold: 10%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 206
+The average lot time is: 160.25 days
+The average profit percentage is: 13.62%
+
+[ ETH ] Buy Threshold: 22%, Sell Threshold: 11%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 206
+The average lot time is: 171.46 days
+The average profit percentage is: 14.69%
+
+[ ETH ] Buy Threshold: 22%, Sell Threshold: 12%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 206
+The average lot time is: 172.21 days
+The average profit percentage is: 15.38%
+
+[ ETH ] Buy Threshold: 22%, Sell Threshold: 13%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 205
+The average lot time is: 174.76 days
+The average profit percentage is: 16.30%
+
+[ ETH ] Buy Threshold: 22%, Sell Threshold: 14%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 205
+The average lot time is: 178.98 days
+The average profit percentage is: 17.74%
+
+[ ETH ] Buy Threshold: 22%, Sell Threshold: 15%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 203
+The average lot time is: 181.25 days
+The average profit percentage is: 18.52%
+
+[ ETH ] Buy Threshold: 22%, Sell Threshold: 16%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 202
+The average lot time is: 197.39 days
+The average profit percentage is: 19.76%
+
+[ ETH ] Buy Threshold: 22%, Sell Threshold: 17%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 202
+The average lot time is: 204.68 days
+The average profit percentage is: 21.07%
+
+[ ETH ] Buy Threshold: 22%, Sell Threshold: 18%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 201
+The average lot time is: 212.64 days
+The average profit percentage is: 22.41%
+
+[ ETH ] Buy Threshold: 22%, Sell Threshold: 19%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 201
+The average lot time is: 231.42 days
+The average profit percentage is: 23.51%
+
+[ ETH ] Buy Threshold: 22%, Sell Threshold: 20%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 201
+The average lot time is: 241.79 days
+The average profit percentage is: 24.68%
+
+[ ETH ] Buy Threshold: 22%, Sell Threshold: 21%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 201
+The average lot time is: 248.46 days
+The average profit percentage is: 25.97%
+
+[ ETH ] Buy Threshold: 22%, Sell Threshold: 22%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 201
+The average lot time is: 250.46 days
+The average profit percentage is: 26.77%
+
+[ ETH ] Buy Threshold: 22%, Sell Threshold: 23%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 201
+The average lot time is: 257.18 days
+The average profit percentage is: 27.60%
+
+[ ETH ] Buy Threshold: 22%, Sell Threshold: 24%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 201
+The average lot time is: 258.88 days
+The average profit percentage is: 28.41%
+
+[ ETH ] Buy Threshold: 22%, Sell Threshold: 25%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 201
+The average lot time is: 263.29 days
+The average profit percentage is: 29.31%
+
+[ ETH ] Buy Threshold: 23%, Sell Threshold: 10%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 206
+The average lot time is: 160.25 days
+The average profit percentage is: 13.62%
+
+[ ETH ] Buy Threshold: 23%, Sell Threshold: 11%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 206
+The average lot time is: 171.46 days
+The average profit percentage is: 14.69%
+
+[ ETH ] Buy Threshold: 23%, Sell Threshold: 12%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 206
+The average lot time is: 172.21 days
+The average profit percentage is: 15.38%
+
+[ ETH ] Buy Threshold: 23%, Sell Threshold: 13%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 205
+The average lot time is: 174.76 days
+The average profit percentage is: 16.30%
+
+[ ETH ] Buy Threshold: 23%, Sell Threshold: 14%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 205
+The average lot time is: 178.98 days
+The average profit percentage is: 17.74%
+
+[ ETH ] Buy Threshold: 23%, Sell Threshold: 15%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 203
+The average lot time is: 181.25 days
+The average profit percentage is: 18.52%
+
+[ ETH ] Buy Threshold: 23%, Sell Threshold: 16%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 202
+The average lot time is: 197.39 days
+The average profit percentage is: 19.76%
+
+[ ETH ] Buy Threshold: 23%, Sell Threshold: 17%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 202
+The average lot time is: 204.68 days
+The average profit percentage is: 21.07%
+
+[ ETH ] Buy Threshold: 23%, Sell Threshold: 18%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 201
+The average lot time is: 212.64 days
+The average profit percentage is: 22.41%
+
+[ ETH ] Buy Threshold: 23%, Sell Threshold: 19%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 201
+The average lot time is: 231.42 days
+The average profit percentage is: 23.51%
+
+[ ETH ] Buy Threshold: 23%, Sell Threshold: 20%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 201
+The average lot time is: 241.79 days
+The average profit percentage is: 24.68%
+
+[ ETH ] Buy Threshold: 23%, Sell Threshold: 21%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 201
+The average lot time is: 248.46 days
+The average profit percentage is: 25.97%
+
+[ ETH ] Buy Threshold: 23%, Sell Threshold: 22%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 201
+The average lot time is: 250.46 days
+The average profit percentage is: 26.77%
+
+[ ETH ] Buy Threshold: 23%, Sell Threshold: 23%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 201
+The average lot time is: 257.18 days
+The average profit percentage is: 27.60%
+
+[ ETH ] Buy Threshold: 23%, Sell Threshold: 24%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 201
+The average lot time is: 258.88 days
+The average profit percentage is: 28.41%
+
+[ ETH ] Buy Threshold: 23%, Sell Threshold: 25%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 201
+The average lot time is: 263.29 days
+The average profit percentage is: 29.31%
+
+[ ETH ] Buy Threshold: 24%, Sell Threshold: 10%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 206
+The average lot time is: 160.25 days
+The average profit percentage is: 13.62%
+
+[ ETH ] Buy Threshold: 24%, Sell Threshold: 11%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 206
+The average lot time is: 171.46 days
+The average profit percentage is: 14.69%
+
+[ ETH ] Buy Threshold: 24%, Sell Threshold: 12%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 206
+The average lot time is: 172.21 days
+The average profit percentage is: 15.38%
+
+[ ETH ] Buy Threshold: 24%, Sell Threshold: 13%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 205
+The average lot time is: 174.76 days
+The average profit percentage is: 16.30%
+
+[ ETH ] Buy Threshold: 24%, Sell Threshold: 14%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 205
+The average lot time is: 178.98 days
+The average profit percentage is: 17.74%
+
+[ ETH ] Buy Threshold: 24%, Sell Threshold: 15%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 203
+The average lot time is: 181.25 days
+The average profit percentage is: 18.52%
+
+[ ETH ] Buy Threshold: 24%, Sell Threshold: 16%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 202
+The average lot time is: 197.39 days
+The average profit percentage is: 19.76%
+
+[ ETH ] Buy Threshold: 24%, Sell Threshold: 17%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 202
+The average lot time is: 204.68 days
+The average profit percentage is: 21.07%
+
+[ ETH ] Buy Threshold: 24%, Sell Threshold: 18%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 201
+The average lot time is: 212.64 days
+The average profit percentage is: 22.41%
+
+[ ETH ] Buy Threshold: 24%, Sell Threshold: 19%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 201
+The average lot time is: 231.42 days
+The average profit percentage is: 23.51%
+
+[ ETH ] Buy Threshold: 24%, Sell Threshold: 20%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 201
+The average lot time is: 241.79 days
+The average profit percentage is: 24.68%
+
+[ ETH ] Buy Threshold: 24%, Sell Threshold: 21%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 201
+The average lot time is: 248.46 days
+The average profit percentage is: 25.97%
+
+[ ETH ] Buy Threshold: 24%, Sell Threshold: 22%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 201
+The average lot time is: 250.46 days
+The average profit percentage is: 26.77%
+
+[ ETH ] Buy Threshold: 24%, Sell Threshold: 23%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 201
+The average lot time is: 257.18 days
+The average profit percentage is: 27.60%
+
+[ ETH ] Buy Threshold: 24%, Sell Threshold: 24%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 201
+The average lot time is: 258.88 days
+The average profit percentage is: 28.41%
+
+[ ETH ] Buy Threshold: 24%, Sell Threshold: 25%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 201
+The average lot time is: 263.29 days
+The average profit percentage is: 29.31%
+
+[ ETH ] Buy Threshold: 25%, Sell Threshold: 10%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 206
+The average lot time is: 160.25 days
+The average profit percentage is: 13.62%
+
+[ ETH ] Buy Threshold: 25%, Sell Threshold: 11%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 206
+The average lot time is: 171.46 days
+The average profit percentage is: 14.69%
+
+[ ETH ] Buy Threshold: 25%, Sell Threshold: 12%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 206
+The average lot time is: 172.21 days
+The average profit percentage is: 15.38%
+
+[ ETH ] Buy Threshold: 25%, Sell Threshold: 13%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 205
+The average lot time is: 174.76 days
+The average profit percentage is: 16.30%
+
+[ ETH ] Buy Threshold: 25%, Sell Threshold: 14%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 205
+The average lot time is: 178.98 days
+The average profit percentage is: 17.74%
+
+[ ETH ] Buy Threshold: 25%, Sell Threshold: 15%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 203
+The average lot time is: 181.25 days
+The average profit percentage is: 18.52%
+
+[ ETH ] Buy Threshold: 25%, Sell Threshold: 16%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 202
+The average lot time is: 197.39 days
+The average profit percentage is: 19.76%
+
+[ ETH ] Buy Threshold: 25%, Sell Threshold: 17%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 202
+The average lot time is: 204.68 days
+The average profit percentage is: 21.07%
+
+[ ETH ] Buy Threshold: 25%, Sell Threshold: 18%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 201
+The average lot time is: 212.64 days
+The average profit percentage is: 22.41%
+
+[ ETH ] Buy Threshold: 25%, Sell Threshold: 19%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 201
+The average lot time is: 231.42 days
+The average profit percentage is: 23.51%
+
+[ ETH ] Buy Threshold: 25%, Sell Threshold: 20%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 201
+The average lot time is: 241.79 days
+The average profit percentage is: 24.68%
+
+[ ETH ] Buy Threshold: 25%, Sell Threshold: 21%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 201
+The average lot time is: 248.46 days
+The average profit percentage is: 25.97%
+
+[ ETH ] Buy Threshold: 25%, Sell Threshold: 22%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 201
+The average lot time is: 250.46 days
+The average profit percentage is: 26.77%
+
+[ ETH ] Buy Threshold: 25%, Sell Threshold: 23%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 201
+The average lot time is: 257.18 days
+The average profit percentage is: 27.60%
+
+[ ETH ] Buy Threshold: 25%, Sell Threshold: 24%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 201
+The average lot time is: 258.88 days
+The average profit percentage is: 28.41%
+
+[ ETH ] Buy Threshold: 25%, Sell Threshold: 25%
+Number of 24-hour windows with at least 5% price drop: 214
+The average drop window percentage is: -8.67%
+Number of successful sell events: 201
+The average lot time is: 263.29 days
+The average profit percentage is: 29.31%
+

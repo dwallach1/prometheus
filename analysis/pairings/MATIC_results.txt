@@ -1,0 +1,2352 @@
+[ MATIC ] Buy Threshold: 5%, Sell Threshold: 10%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 257
+The average lot time is: 35.65 days
+The average profit percentage is: 17.05%
+
+[ MATIC ] Buy Threshold: 5%, Sell Threshold: 11%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 257
+The average lot time is: 38.32 days
+The average profit percentage is: 18.34%
+
+[ MATIC ] Buy Threshold: 5%, Sell Threshold: 12%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 256
+The average lot time is: 39.44 days
+The average profit percentage is: 19.66%
+
+[ MATIC ] Buy Threshold: 5%, Sell Threshold: 13%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 255
+The average lot time is: 41.55 days
+The average profit percentage is: 20.74%
+
+[ MATIC ] Buy Threshold: 5%, Sell Threshold: 14%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 255
+The average lot time is: 44.79 days
+The average profit percentage is: 21.50%
+
+[ MATIC ] Buy Threshold: 5%, Sell Threshold: 15%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 252
+The average lot time is: 44.18 days
+The average profit percentage is: 22.32%
+
+[ MATIC ] Buy Threshold: 5%, Sell Threshold: 16%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 251
+The average lot time is: 44.60 days
+The average profit percentage is: 23.53%
+
+[ MATIC ] Buy Threshold: 5%, Sell Threshold: 17%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 249
+The average lot time is: 48.22 days
+The average profit percentage is: 24.71%
+
+[ MATIC ] Buy Threshold: 5%, Sell Threshold: 18%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 248
+The average lot time is: 50.01 days
+The average profit percentage is: 26.17%
+
+[ MATIC ] Buy Threshold: 5%, Sell Threshold: 19%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 248
+The average lot time is: 50.94 days
+The average profit percentage is: 27.21%
+
+[ MATIC ] Buy Threshold: 5%, Sell Threshold: 20%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 248
+The average lot time is: 51.40 days
+The average profit percentage is: 28.34%
+
+[ MATIC ] Buy Threshold: 5%, Sell Threshold: 21%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 245
+The average lot time is: 51.91 days
+The average profit percentage is: 29.48%
+
+[ MATIC ] Buy Threshold: 5%, Sell Threshold: 22%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 244
+The average lot time is: 52.95 days
+The average profit percentage is: 30.50%
+
+[ MATIC ] Buy Threshold: 5%, Sell Threshold: 23%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 242
+The average lot time is: 54.62 days
+The average profit percentage is: 31.61%
+
+[ MATIC ] Buy Threshold: 5%, Sell Threshold: 24%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 242
+The average lot time is: 56.30 days
+The average profit percentage is: 32.73%
+
+[ MATIC ] Buy Threshold: 5%, Sell Threshold: 25%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 241
+The average lot time is: 58.75 days
+The average profit percentage is: 33.64%
+
+[ MATIC ] Buy Threshold: 6%, Sell Threshold: 10%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 257
+The average lot time is: 35.65 days
+The average profit percentage is: 17.05%
+
+[ MATIC ] Buy Threshold: 6%, Sell Threshold: 11%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 257
+The average lot time is: 38.32 days
+The average profit percentage is: 18.34%
+
+[ MATIC ] Buy Threshold: 6%, Sell Threshold: 12%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 256
+The average lot time is: 39.44 days
+The average profit percentage is: 19.66%
+
+[ MATIC ] Buy Threshold: 6%, Sell Threshold: 13%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 255
+The average lot time is: 41.55 days
+The average profit percentage is: 20.74%
+
+[ MATIC ] Buy Threshold: 6%, Sell Threshold: 14%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 255
+The average lot time is: 44.79 days
+The average profit percentage is: 21.50%
+
+[ MATIC ] Buy Threshold: 6%, Sell Threshold: 15%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 252
+The average lot time is: 44.18 days
+The average profit percentage is: 22.32%
+
+[ MATIC ] Buy Threshold: 6%, Sell Threshold: 16%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 251
+The average lot time is: 44.60 days
+The average profit percentage is: 23.53%
+
+[ MATIC ] Buy Threshold: 6%, Sell Threshold: 17%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 249
+The average lot time is: 48.22 days
+The average profit percentage is: 24.71%
+
+[ MATIC ] Buy Threshold: 6%, Sell Threshold: 18%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 248
+The average lot time is: 50.01 days
+The average profit percentage is: 26.17%
+
+[ MATIC ] Buy Threshold: 6%, Sell Threshold: 19%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 248
+The average lot time is: 50.94 days
+The average profit percentage is: 27.21%
+
+[ MATIC ] Buy Threshold: 6%, Sell Threshold: 20%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 248
+The average lot time is: 51.40 days
+The average profit percentage is: 28.34%
+
+[ MATIC ] Buy Threshold: 6%, Sell Threshold: 21%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 245
+The average lot time is: 51.91 days
+The average profit percentage is: 29.48%
+
+[ MATIC ] Buy Threshold: 6%, Sell Threshold: 22%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 244
+The average lot time is: 52.95 days
+The average profit percentage is: 30.50%
+
+[ MATIC ] Buy Threshold: 6%, Sell Threshold: 23%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 242
+The average lot time is: 54.62 days
+The average profit percentage is: 31.61%
+
+[ MATIC ] Buy Threshold: 6%, Sell Threshold: 24%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 242
+The average lot time is: 56.30 days
+The average profit percentage is: 32.73%
+
+[ MATIC ] Buy Threshold: 6%, Sell Threshold: 25%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 241
+The average lot time is: 58.75 days
+The average profit percentage is: 33.64%
+
+[ MATIC ] Buy Threshold: 7%, Sell Threshold: 10%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 257
+The average lot time is: 35.65 days
+The average profit percentage is: 17.05%
+
+[ MATIC ] Buy Threshold: 7%, Sell Threshold: 11%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 257
+The average lot time is: 38.32 days
+The average profit percentage is: 18.34%
+
+[ MATIC ] Buy Threshold: 7%, Sell Threshold: 12%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 256
+The average lot time is: 39.44 days
+The average profit percentage is: 19.66%
+
+[ MATIC ] Buy Threshold: 7%, Sell Threshold: 13%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 255
+The average lot time is: 41.55 days
+The average profit percentage is: 20.74%
+
+[ MATIC ] Buy Threshold: 7%, Sell Threshold: 14%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 255
+The average lot time is: 44.79 days
+The average profit percentage is: 21.50%
+
+[ MATIC ] Buy Threshold: 7%, Sell Threshold: 15%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 252
+The average lot time is: 44.18 days
+The average profit percentage is: 22.32%
+
+[ MATIC ] Buy Threshold: 7%, Sell Threshold: 16%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 251
+The average lot time is: 44.60 days
+The average profit percentage is: 23.53%
+
+[ MATIC ] Buy Threshold: 7%, Sell Threshold: 17%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 249
+The average lot time is: 48.22 days
+The average profit percentage is: 24.71%
+
+[ MATIC ] Buy Threshold: 7%, Sell Threshold: 18%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 248
+The average lot time is: 50.01 days
+The average profit percentage is: 26.17%
+
+[ MATIC ] Buy Threshold: 7%, Sell Threshold: 19%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 248
+The average lot time is: 50.94 days
+The average profit percentage is: 27.21%
+
+[ MATIC ] Buy Threshold: 7%, Sell Threshold: 20%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 248
+The average lot time is: 51.40 days
+The average profit percentage is: 28.34%
+
+[ MATIC ] Buy Threshold: 7%, Sell Threshold: 21%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 245
+The average lot time is: 51.91 days
+The average profit percentage is: 29.48%
+
+[ MATIC ] Buy Threshold: 7%, Sell Threshold: 22%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 244
+The average lot time is: 52.95 days
+The average profit percentage is: 30.50%
+
+[ MATIC ] Buy Threshold: 7%, Sell Threshold: 23%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 242
+The average lot time is: 54.62 days
+The average profit percentage is: 31.61%
+
+[ MATIC ] Buy Threshold: 7%, Sell Threshold: 24%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 242
+The average lot time is: 56.30 days
+The average profit percentage is: 32.73%
+
+[ MATIC ] Buy Threshold: 7%, Sell Threshold: 25%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 241
+The average lot time is: 58.75 days
+The average profit percentage is: 33.64%
+
+[ MATIC ] Buy Threshold: 8%, Sell Threshold: 10%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 257
+The average lot time is: 35.65 days
+The average profit percentage is: 17.05%
+
+[ MATIC ] Buy Threshold: 8%, Sell Threshold: 11%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 257
+The average lot time is: 38.32 days
+The average profit percentage is: 18.34%
+
+[ MATIC ] Buy Threshold: 8%, Sell Threshold: 12%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 256
+The average lot time is: 39.44 days
+The average profit percentage is: 19.66%
+
+[ MATIC ] Buy Threshold: 8%, Sell Threshold: 13%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 255
+The average lot time is: 41.55 days
+The average profit percentage is: 20.74%
+
+[ MATIC ] Buy Threshold: 8%, Sell Threshold: 14%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 255
+The average lot time is: 44.79 days
+The average profit percentage is: 21.50%
+
+[ MATIC ] Buy Threshold: 8%, Sell Threshold: 15%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 252
+The average lot time is: 44.18 days
+The average profit percentage is: 22.32%
+
+[ MATIC ] Buy Threshold: 8%, Sell Threshold: 16%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 251
+The average lot time is: 44.60 days
+The average profit percentage is: 23.53%
+
+[ MATIC ] Buy Threshold: 8%, Sell Threshold: 17%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 249
+The average lot time is: 48.22 days
+The average profit percentage is: 24.71%
+
+[ MATIC ] Buy Threshold: 8%, Sell Threshold: 18%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 248
+The average lot time is: 50.01 days
+The average profit percentage is: 26.17%
+
+[ MATIC ] Buy Threshold: 8%, Sell Threshold: 19%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 248
+The average lot time is: 50.94 days
+The average profit percentage is: 27.21%
+
+[ MATIC ] Buy Threshold: 8%, Sell Threshold: 20%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 248
+The average lot time is: 51.40 days
+The average profit percentage is: 28.34%
+
+[ MATIC ] Buy Threshold: 8%, Sell Threshold: 21%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 245
+The average lot time is: 51.91 days
+The average profit percentage is: 29.48%
+
+[ MATIC ] Buy Threshold: 8%, Sell Threshold: 22%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 244
+The average lot time is: 52.95 days
+The average profit percentage is: 30.50%
+
+[ MATIC ] Buy Threshold: 8%, Sell Threshold: 23%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 242
+The average lot time is: 54.62 days
+The average profit percentage is: 31.61%
+
+[ MATIC ] Buy Threshold: 8%, Sell Threshold: 24%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 242
+The average lot time is: 56.30 days
+The average profit percentage is: 32.73%
+
+[ MATIC ] Buy Threshold: 8%, Sell Threshold: 25%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 241
+The average lot time is: 58.75 days
+The average profit percentage is: 33.64%
+
+[ MATIC ] Buy Threshold: 9%, Sell Threshold: 10%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 257
+The average lot time is: 35.65 days
+The average profit percentage is: 17.05%
+
+[ MATIC ] Buy Threshold: 9%, Sell Threshold: 11%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 257
+The average lot time is: 38.32 days
+The average profit percentage is: 18.34%
+
+[ MATIC ] Buy Threshold: 9%, Sell Threshold: 12%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 256
+The average lot time is: 39.44 days
+The average profit percentage is: 19.66%
+
+[ MATIC ] Buy Threshold: 9%, Sell Threshold: 13%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 255
+The average lot time is: 41.55 days
+The average profit percentage is: 20.74%
+
+[ MATIC ] Buy Threshold: 9%, Sell Threshold: 14%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 255
+The average lot time is: 44.79 days
+The average profit percentage is: 21.50%
+
+[ MATIC ] Buy Threshold: 9%, Sell Threshold: 15%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 252
+The average lot time is: 44.18 days
+The average profit percentage is: 22.32%
+
+[ MATIC ] Buy Threshold: 9%, Sell Threshold: 16%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 251
+The average lot time is: 44.60 days
+The average profit percentage is: 23.53%
+
+[ MATIC ] Buy Threshold: 9%, Sell Threshold: 17%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 249
+The average lot time is: 48.22 days
+The average profit percentage is: 24.71%
+
+[ MATIC ] Buy Threshold: 9%, Sell Threshold: 18%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 248
+The average lot time is: 50.01 days
+The average profit percentage is: 26.17%
+
+[ MATIC ] Buy Threshold: 9%, Sell Threshold: 19%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 248
+The average lot time is: 50.94 days
+The average profit percentage is: 27.21%
+
+[ MATIC ] Buy Threshold: 9%, Sell Threshold: 20%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 248
+The average lot time is: 51.40 days
+The average profit percentage is: 28.34%
+
+[ MATIC ] Buy Threshold: 9%, Sell Threshold: 21%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 245
+The average lot time is: 51.91 days
+The average profit percentage is: 29.48%
+
+[ MATIC ] Buy Threshold: 9%, Sell Threshold: 22%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 244
+The average lot time is: 52.95 days
+The average profit percentage is: 30.50%
+
+[ MATIC ] Buy Threshold: 9%, Sell Threshold: 23%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 242
+The average lot time is: 54.62 days
+The average profit percentage is: 31.61%
+
+[ MATIC ] Buy Threshold: 9%, Sell Threshold: 24%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 242
+The average lot time is: 56.30 days
+The average profit percentage is: 32.73%
+
+[ MATIC ] Buy Threshold: 9%, Sell Threshold: 25%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 241
+The average lot time is: 58.75 days
+The average profit percentage is: 33.64%
+
+[ MATIC ] Buy Threshold: 10%, Sell Threshold: 10%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 257
+The average lot time is: 35.65 days
+The average profit percentage is: 17.05%
+
+[ MATIC ] Buy Threshold: 10%, Sell Threshold: 11%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 257
+The average lot time is: 38.32 days
+The average profit percentage is: 18.34%
+
+[ MATIC ] Buy Threshold: 10%, Sell Threshold: 12%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 256
+The average lot time is: 39.44 days
+The average profit percentage is: 19.66%
+
+[ MATIC ] Buy Threshold: 10%, Sell Threshold: 13%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 255
+The average lot time is: 41.55 days
+The average profit percentage is: 20.74%
+
+[ MATIC ] Buy Threshold: 10%, Sell Threshold: 14%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 255
+The average lot time is: 44.79 days
+The average profit percentage is: 21.50%
+
+[ MATIC ] Buy Threshold: 10%, Sell Threshold: 15%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 252
+The average lot time is: 44.18 days
+The average profit percentage is: 22.32%
+
+[ MATIC ] Buy Threshold: 10%, Sell Threshold: 16%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 251
+The average lot time is: 44.60 days
+The average profit percentage is: 23.53%
+
+[ MATIC ] Buy Threshold: 10%, Sell Threshold: 17%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 249
+The average lot time is: 48.22 days
+The average profit percentage is: 24.71%
+
+[ MATIC ] Buy Threshold: 10%, Sell Threshold: 18%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 248
+The average lot time is: 50.01 days
+The average profit percentage is: 26.17%
+
+[ MATIC ] Buy Threshold: 10%, Sell Threshold: 19%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 248
+The average lot time is: 50.94 days
+The average profit percentage is: 27.21%
+
+[ MATIC ] Buy Threshold: 10%, Sell Threshold: 20%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 248
+The average lot time is: 51.40 days
+The average profit percentage is: 28.34%
+
+[ MATIC ] Buy Threshold: 10%, Sell Threshold: 21%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 245
+The average lot time is: 51.91 days
+The average profit percentage is: 29.48%
+
+[ MATIC ] Buy Threshold: 10%, Sell Threshold: 22%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 244
+The average lot time is: 52.95 days
+The average profit percentage is: 30.50%
+
+[ MATIC ] Buy Threshold: 10%, Sell Threshold: 23%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 242
+The average lot time is: 54.62 days
+The average profit percentage is: 31.61%
+
+[ MATIC ] Buy Threshold: 10%, Sell Threshold: 24%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 242
+The average lot time is: 56.30 days
+The average profit percentage is: 32.73%
+
+[ MATIC ] Buy Threshold: 10%, Sell Threshold: 25%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 241
+The average lot time is: 58.75 days
+The average profit percentage is: 33.64%
+
+[ MATIC ] Buy Threshold: 11%, Sell Threshold: 10%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 257
+The average lot time is: 35.65 days
+The average profit percentage is: 17.05%
+
+[ MATIC ] Buy Threshold: 11%, Sell Threshold: 11%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 257
+The average lot time is: 38.32 days
+The average profit percentage is: 18.34%
+
+[ MATIC ] Buy Threshold: 11%, Sell Threshold: 12%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 256
+The average lot time is: 39.44 days
+The average profit percentage is: 19.66%
+
+[ MATIC ] Buy Threshold: 11%, Sell Threshold: 13%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 255
+The average lot time is: 41.55 days
+The average profit percentage is: 20.74%
+
+[ MATIC ] Buy Threshold: 11%, Sell Threshold: 14%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 255
+The average lot time is: 44.79 days
+The average profit percentage is: 21.50%
+
+[ MATIC ] Buy Threshold: 11%, Sell Threshold: 15%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 252
+The average lot time is: 44.18 days
+The average profit percentage is: 22.32%
+
+[ MATIC ] Buy Threshold: 11%, Sell Threshold: 16%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 251
+The average lot time is: 44.60 days
+The average profit percentage is: 23.53%
+
+[ MATIC ] Buy Threshold: 11%, Sell Threshold: 17%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 249
+The average lot time is: 48.22 days
+The average profit percentage is: 24.71%
+
+[ MATIC ] Buy Threshold: 11%, Sell Threshold: 18%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 248
+The average lot time is: 50.01 days
+The average profit percentage is: 26.17%
+
+[ MATIC ] Buy Threshold: 11%, Sell Threshold: 19%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 248
+The average lot time is: 50.94 days
+The average profit percentage is: 27.21%
+
+[ MATIC ] Buy Threshold: 11%, Sell Threshold: 20%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 248
+The average lot time is: 51.40 days
+The average profit percentage is: 28.34%
+
+[ MATIC ] Buy Threshold: 11%, Sell Threshold: 21%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 245
+The average lot time is: 51.91 days
+The average profit percentage is: 29.48%
+
+[ MATIC ] Buy Threshold: 11%, Sell Threshold: 22%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 244
+The average lot time is: 52.95 days
+The average profit percentage is: 30.50%
+
+[ MATIC ] Buy Threshold: 11%, Sell Threshold: 23%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 242
+The average lot time is: 54.62 days
+The average profit percentage is: 31.61%
+
+[ MATIC ] Buy Threshold: 11%, Sell Threshold: 24%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 242
+The average lot time is: 56.30 days
+The average profit percentage is: 32.73%
+
+[ MATIC ] Buy Threshold: 11%, Sell Threshold: 25%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 241
+The average lot time is: 58.75 days
+The average profit percentage is: 33.64%
+
+[ MATIC ] Buy Threshold: 12%, Sell Threshold: 10%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 257
+The average lot time is: 35.65 days
+The average profit percentage is: 17.05%
+
+[ MATIC ] Buy Threshold: 12%, Sell Threshold: 11%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 257
+The average lot time is: 38.32 days
+The average profit percentage is: 18.34%
+
+[ MATIC ] Buy Threshold: 12%, Sell Threshold: 12%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 256
+The average lot time is: 39.44 days
+The average profit percentage is: 19.66%
+
+[ MATIC ] Buy Threshold: 12%, Sell Threshold: 13%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 255
+The average lot time is: 41.55 days
+The average profit percentage is: 20.74%
+
+[ MATIC ] Buy Threshold: 12%, Sell Threshold: 14%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 255
+The average lot time is: 44.79 days
+The average profit percentage is: 21.50%
+
+[ MATIC ] Buy Threshold: 12%, Sell Threshold: 15%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 252
+The average lot time is: 44.18 days
+The average profit percentage is: 22.32%
+
+[ MATIC ] Buy Threshold: 12%, Sell Threshold: 16%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 251
+The average lot time is: 44.60 days
+The average profit percentage is: 23.53%
+
+[ MATIC ] Buy Threshold: 12%, Sell Threshold: 17%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 249
+The average lot time is: 48.22 days
+The average profit percentage is: 24.71%
+
+[ MATIC ] Buy Threshold: 12%, Sell Threshold: 18%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 248
+The average lot time is: 50.01 days
+The average profit percentage is: 26.17%
+
+[ MATIC ] Buy Threshold: 12%, Sell Threshold: 19%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 248
+The average lot time is: 50.94 days
+The average profit percentage is: 27.21%
+
+[ MATIC ] Buy Threshold: 12%, Sell Threshold: 20%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 248
+The average lot time is: 51.40 days
+The average profit percentage is: 28.34%
+
+[ MATIC ] Buy Threshold: 12%, Sell Threshold: 21%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 245
+The average lot time is: 51.91 days
+The average profit percentage is: 29.48%
+
+[ MATIC ] Buy Threshold: 12%, Sell Threshold: 22%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 244
+The average lot time is: 52.95 days
+The average profit percentage is: 30.50%
+
+[ MATIC ] Buy Threshold: 12%, Sell Threshold: 23%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 242
+The average lot time is: 54.62 days
+The average profit percentage is: 31.61%
+
+[ MATIC ] Buy Threshold: 12%, Sell Threshold: 24%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 242
+The average lot time is: 56.30 days
+The average profit percentage is: 32.73%
+
+[ MATIC ] Buy Threshold: 12%, Sell Threshold: 25%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 241
+The average lot time is: 58.75 days
+The average profit percentage is: 33.64%
+
+[ MATIC ] Buy Threshold: 13%, Sell Threshold: 10%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 257
+The average lot time is: 35.65 days
+The average profit percentage is: 17.05%
+
+[ MATIC ] Buy Threshold: 13%, Sell Threshold: 11%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 257
+The average lot time is: 38.32 days
+The average profit percentage is: 18.34%
+
+[ MATIC ] Buy Threshold: 13%, Sell Threshold: 12%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 256
+The average lot time is: 39.44 days
+The average profit percentage is: 19.66%
+
+[ MATIC ] Buy Threshold: 13%, Sell Threshold: 13%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 255
+The average lot time is: 41.55 days
+The average profit percentage is: 20.74%
+
+[ MATIC ] Buy Threshold: 13%, Sell Threshold: 14%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 255
+The average lot time is: 44.79 days
+The average profit percentage is: 21.50%
+
+[ MATIC ] Buy Threshold: 13%, Sell Threshold: 15%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 252
+The average lot time is: 44.18 days
+The average profit percentage is: 22.32%
+
+[ MATIC ] Buy Threshold: 13%, Sell Threshold: 16%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 251
+The average lot time is: 44.60 days
+The average profit percentage is: 23.53%
+
+[ MATIC ] Buy Threshold: 13%, Sell Threshold: 17%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 249
+The average lot time is: 48.22 days
+The average profit percentage is: 24.71%
+
+[ MATIC ] Buy Threshold: 13%, Sell Threshold: 18%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 248
+The average lot time is: 50.01 days
+The average profit percentage is: 26.17%
+
+[ MATIC ] Buy Threshold: 13%, Sell Threshold: 19%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 248
+The average lot time is: 50.94 days
+The average profit percentage is: 27.21%
+
+[ MATIC ] Buy Threshold: 13%, Sell Threshold: 20%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 248
+The average lot time is: 51.40 days
+The average profit percentage is: 28.34%
+
+[ MATIC ] Buy Threshold: 13%, Sell Threshold: 21%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 245
+The average lot time is: 51.91 days
+The average profit percentage is: 29.48%
+
+[ MATIC ] Buy Threshold: 13%, Sell Threshold: 22%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 244
+The average lot time is: 52.95 days
+The average profit percentage is: 30.50%
+
+[ MATIC ] Buy Threshold: 13%, Sell Threshold: 23%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 242
+The average lot time is: 54.62 days
+The average profit percentage is: 31.61%
+
+[ MATIC ] Buy Threshold: 13%, Sell Threshold: 24%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 242
+The average lot time is: 56.30 days
+The average profit percentage is: 32.73%
+
+[ MATIC ] Buy Threshold: 13%, Sell Threshold: 25%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 241
+The average lot time is: 58.75 days
+The average profit percentage is: 33.64%
+
+[ MATIC ] Buy Threshold: 14%, Sell Threshold: 10%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 257
+The average lot time is: 35.65 days
+The average profit percentage is: 17.05%
+
+[ MATIC ] Buy Threshold: 14%, Sell Threshold: 11%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 257
+The average lot time is: 38.32 days
+The average profit percentage is: 18.34%
+
+[ MATIC ] Buy Threshold: 14%, Sell Threshold: 12%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 256
+The average lot time is: 39.44 days
+The average profit percentage is: 19.66%
+
+[ MATIC ] Buy Threshold: 14%, Sell Threshold: 13%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 255
+The average lot time is: 41.55 days
+The average profit percentage is: 20.74%
+
+[ MATIC ] Buy Threshold: 14%, Sell Threshold: 14%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 255
+The average lot time is: 44.79 days
+The average profit percentage is: 21.50%
+
+[ MATIC ] Buy Threshold: 14%, Sell Threshold: 15%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 252
+The average lot time is: 44.18 days
+The average profit percentage is: 22.32%
+
+[ MATIC ] Buy Threshold: 14%, Sell Threshold: 16%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 251
+The average lot time is: 44.60 days
+The average profit percentage is: 23.53%
+
+[ MATIC ] Buy Threshold: 14%, Sell Threshold: 17%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 249
+The average lot time is: 48.22 days
+The average profit percentage is: 24.71%
+
+[ MATIC ] Buy Threshold: 14%, Sell Threshold: 18%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 248
+The average lot time is: 50.01 days
+The average profit percentage is: 26.17%
+
+[ MATIC ] Buy Threshold: 14%, Sell Threshold: 19%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 248
+The average lot time is: 50.94 days
+The average profit percentage is: 27.21%
+
+[ MATIC ] Buy Threshold: 14%, Sell Threshold: 20%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 248
+The average lot time is: 51.40 days
+The average profit percentage is: 28.34%
+
+[ MATIC ] Buy Threshold: 14%, Sell Threshold: 21%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 245
+The average lot time is: 51.91 days
+The average profit percentage is: 29.48%
+
+[ MATIC ] Buy Threshold: 14%, Sell Threshold: 22%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 244
+The average lot time is: 52.95 days
+The average profit percentage is: 30.50%
+
+[ MATIC ] Buy Threshold: 14%, Sell Threshold: 23%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 242
+The average lot time is: 54.62 days
+The average profit percentage is: 31.61%
+
+[ MATIC ] Buy Threshold: 14%, Sell Threshold: 24%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 242
+The average lot time is: 56.30 days
+The average profit percentage is: 32.73%
+
+[ MATIC ] Buy Threshold: 14%, Sell Threshold: 25%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 241
+The average lot time is: 58.75 days
+The average profit percentage is: 33.64%
+
+[ MATIC ] Buy Threshold: 15%, Sell Threshold: 10%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 257
+The average lot time is: 35.65 days
+The average profit percentage is: 17.05%
+
+[ MATIC ] Buy Threshold: 15%, Sell Threshold: 11%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 257
+The average lot time is: 38.32 days
+The average profit percentage is: 18.34%
+
+[ MATIC ] Buy Threshold: 15%, Sell Threshold: 12%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 256
+The average lot time is: 39.44 days
+The average profit percentage is: 19.66%
+
+[ MATIC ] Buy Threshold: 15%, Sell Threshold: 13%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 255
+The average lot time is: 41.55 days
+The average profit percentage is: 20.74%
+
+[ MATIC ] Buy Threshold: 15%, Sell Threshold: 14%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 255
+The average lot time is: 44.79 days
+The average profit percentage is: 21.50%
+
+[ MATIC ] Buy Threshold: 15%, Sell Threshold: 15%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 252
+The average lot time is: 44.18 days
+The average profit percentage is: 22.32%
+
+[ MATIC ] Buy Threshold: 15%, Sell Threshold: 16%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 251
+The average lot time is: 44.60 days
+The average profit percentage is: 23.53%
+
+[ MATIC ] Buy Threshold: 15%, Sell Threshold: 17%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 249
+The average lot time is: 48.22 days
+The average profit percentage is: 24.71%
+
+[ MATIC ] Buy Threshold: 15%, Sell Threshold: 18%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 248
+The average lot time is: 50.01 days
+The average profit percentage is: 26.17%
+
+[ MATIC ] Buy Threshold: 15%, Sell Threshold: 19%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 248
+The average lot time is: 50.94 days
+The average profit percentage is: 27.21%
+
+[ MATIC ] Buy Threshold: 15%, Sell Threshold: 20%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 248
+The average lot time is: 51.40 days
+The average profit percentage is: 28.34%
+
+[ MATIC ] Buy Threshold: 15%, Sell Threshold: 21%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 245
+The average lot time is: 51.91 days
+The average profit percentage is: 29.48%
+
+[ MATIC ] Buy Threshold: 15%, Sell Threshold: 22%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 244
+The average lot time is: 52.95 days
+The average profit percentage is: 30.50%
+
+[ MATIC ] Buy Threshold: 15%, Sell Threshold: 23%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 242
+The average lot time is: 54.62 days
+The average profit percentage is: 31.61%
+
+[ MATIC ] Buy Threshold: 15%, Sell Threshold: 24%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 242
+The average lot time is: 56.30 days
+The average profit percentage is: 32.73%
+
+[ MATIC ] Buy Threshold: 15%, Sell Threshold: 25%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 241
+The average lot time is: 58.75 days
+The average profit percentage is: 33.64%
+
+[ MATIC ] Buy Threshold: 16%, Sell Threshold: 10%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 257
+The average lot time is: 35.65 days
+The average profit percentage is: 17.05%
+
+[ MATIC ] Buy Threshold: 16%, Sell Threshold: 11%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 257
+The average lot time is: 38.32 days
+The average profit percentage is: 18.34%
+
+[ MATIC ] Buy Threshold: 16%, Sell Threshold: 12%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 256
+The average lot time is: 39.44 days
+The average profit percentage is: 19.66%
+
+[ MATIC ] Buy Threshold: 16%, Sell Threshold: 13%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 255
+The average lot time is: 41.55 days
+The average profit percentage is: 20.74%
+
+[ MATIC ] Buy Threshold: 16%, Sell Threshold: 14%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 255
+The average lot time is: 44.79 days
+The average profit percentage is: 21.50%
+
+[ MATIC ] Buy Threshold: 16%, Sell Threshold: 15%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 252
+The average lot time is: 44.18 days
+The average profit percentage is: 22.32%
+
+[ MATIC ] Buy Threshold: 16%, Sell Threshold: 16%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 251
+The average lot time is: 44.60 days
+The average profit percentage is: 23.53%
+
+[ MATIC ] Buy Threshold: 16%, Sell Threshold: 17%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 249
+The average lot time is: 48.22 days
+The average profit percentage is: 24.71%
+
+[ MATIC ] Buy Threshold: 16%, Sell Threshold: 18%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 248
+The average lot time is: 50.01 days
+The average profit percentage is: 26.17%
+
+[ MATIC ] Buy Threshold: 16%, Sell Threshold: 19%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 248
+The average lot time is: 50.94 days
+The average profit percentage is: 27.21%
+
+[ MATIC ] Buy Threshold: 16%, Sell Threshold: 20%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 248
+The average lot time is: 51.40 days
+The average profit percentage is: 28.34%
+
+[ MATIC ] Buy Threshold: 16%, Sell Threshold: 21%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 245
+The average lot time is: 51.91 days
+The average profit percentage is: 29.48%
+
+[ MATIC ] Buy Threshold: 16%, Sell Threshold: 22%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 244
+The average lot time is: 52.95 days
+The average profit percentage is: 30.50%
+
+[ MATIC ] Buy Threshold: 16%, Sell Threshold: 23%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 242
+The average lot time is: 54.62 days
+The average profit percentage is: 31.61%
+
+[ MATIC ] Buy Threshold: 16%, Sell Threshold: 24%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 242
+The average lot time is: 56.30 days
+The average profit percentage is: 32.73%
+
+[ MATIC ] Buy Threshold: 16%, Sell Threshold: 25%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 241
+The average lot time is: 58.75 days
+The average profit percentage is: 33.64%
+
+[ MATIC ] Buy Threshold: 17%, Sell Threshold: 10%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 257
+The average lot time is: 35.65 days
+The average profit percentage is: 17.05%
+
+[ MATIC ] Buy Threshold: 17%, Sell Threshold: 11%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 257
+The average lot time is: 38.32 days
+The average profit percentage is: 18.34%
+
+[ MATIC ] Buy Threshold: 17%, Sell Threshold: 12%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 256
+The average lot time is: 39.44 days
+The average profit percentage is: 19.66%
+
+[ MATIC ] Buy Threshold: 17%, Sell Threshold: 13%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 255
+The average lot time is: 41.55 days
+The average profit percentage is: 20.74%
+
+[ MATIC ] Buy Threshold: 17%, Sell Threshold: 14%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 255
+The average lot time is: 44.79 days
+The average profit percentage is: 21.50%
+
+[ MATIC ] Buy Threshold: 17%, Sell Threshold: 15%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 252
+The average lot time is: 44.18 days
+The average profit percentage is: 22.32%
+
+[ MATIC ] Buy Threshold: 17%, Sell Threshold: 16%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 251
+The average lot time is: 44.60 days
+The average profit percentage is: 23.53%
+
+[ MATIC ] Buy Threshold: 17%, Sell Threshold: 17%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 249
+The average lot time is: 48.22 days
+The average profit percentage is: 24.71%
+
+[ MATIC ] Buy Threshold: 17%, Sell Threshold: 18%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 248
+The average lot time is: 50.01 days
+The average profit percentage is: 26.17%
+
+[ MATIC ] Buy Threshold: 17%, Sell Threshold: 19%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 248
+The average lot time is: 50.94 days
+The average profit percentage is: 27.21%
+
+[ MATIC ] Buy Threshold: 17%, Sell Threshold: 20%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 248
+The average lot time is: 51.40 days
+The average profit percentage is: 28.34%
+
+[ MATIC ] Buy Threshold: 17%, Sell Threshold: 21%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 245
+The average lot time is: 51.91 days
+The average profit percentage is: 29.48%
+
+[ MATIC ] Buy Threshold: 17%, Sell Threshold: 22%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 244
+The average lot time is: 52.95 days
+The average profit percentage is: 30.50%
+
+[ MATIC ] Buy Threshold: 17%, Sell Threshold: 23%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 242
+The average lot time is: 54.62 days
+The average profit percentage is: 31.61%
+
+[ MATIC ] Buy Threshold: 17%, Sell Threshold: 24%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 242
+The average lot time is: 56.30 days
+The average profit percentage is: 32.73%
+
+[ MATIC ] Buy Threshold: 17%, Sell Threshold: 25%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 241
+The average lot time is: 58.75 days
+The average profit percentage is: 33.64%
+
+[ MATIC ] Buy Threshold: 18%, Sell Threshold: 10%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 257
+The average lot time is: 35.65 days
+The average profit percentage is: 17.05%
+
+[ MATIC ] Buy Threshold: 18%, Sell Threshold: 11%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 257
+The average lot time is: 38.32 days
+The average profit percentage is: 18.34%
+
+[ MATIC ] Buy Threshold: 18%, Sell Threshold: 12%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 256
+The average lot time is: 39.44 days
+The average profit percentage is: 19.66%
+
+[ MATIC ] Buy Threshold: 18%, Sell Threshold: 13%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 255
+The average lot time is: 41.55 days
+The average profit percentage is: 20.74%
+
+[ MATIC ] Buy Threshold: 18%, Sell Threshold: 14%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 255
+The average lot time is: 44.79 days
+The average profit percentage is: 21.50%
+
+[ MATIC ] Buy Threshold: 18%, Sell Threshold: 15%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 252
+The average lot time is: 44.18 days
+The average profit percentage is: 22.32%
+
+[ MATIC ] Buy Threshold: 18%, Sell Threshold: 16%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 251
+The average lot time is: 44.60 days
+The average profit percentage is: 23.53%
+
+[ MATIC ] Buy Threshold: 18%, Sell Threshold: 17%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 249
+The average lot time is: 48.22 days
+The average profit percentage is: 24.71%
+
+[ MATIC ] Buy Threshold: 18%, Sell Threshold: 18%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 248
+The average lot time is: 50.01 days
+The average profit percentage is: 26.17%
+
+[ MATIC ] Buy Threshold: 18%, Sell Threshold: 19%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 248
+The average lot time is: 50.94 days
+The average profit percentage is: 27.21%
+
+[ MATIC ] Buy Threshold: 18%, Sell Threshold: 20%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 248
+The average lot time is: 51.40 days
+The average profit percentage is: 28.34%
+
+[ MATIC ] Buy Threshold: 18%, Sell Threshold: 21%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 245
+The average lot time is: 51.91 days
+The average profit percentage is: 29.48%
+
+[ MATIC ] Buy Threshold: 18%, Sell Threshold: 22%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 244
+The average lot time is: 52.95 days
+The average profit percentage is: 30.50%
+
+[ MATIC ] Buy Threshold: 18%, Sell Threshold: 23%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 242
+The average lot time is: 54.62 days
+The average profit percentage is: 31.61%
+
+[ MATIC ] Buy Threshold: 18%, Sell Threshold: 24%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 242
+The average lot time is: 56.30 days
+The average profit percentage is: 32.73%
+
+[ MATIC ] Buy Threshold: 18%, Sell Threshold: 25%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 241
+The average lot time is: 58.75 days
+The average profit percentage is: 33.64%
+
+[ MATIC ] Buy Threshold: 19%, Sell Threshold: 10%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 257
+The average lot time is: 35.65 days
+The average profit percentage is: 17.05%
+
+[ MATIC ] Buy Threshold: 19%, Sell Threshold: 11%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 257
+The average lot time is: 38.32 days
+The average profit percentage is: 18.34%
+
+[ MATIC ] Buy Threshold: 19%, Sell Threshold: 12%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 256
+The average lot time is: 39.44 days
+The average profit percentage is: 19.66%
+
+[ MATIC ] Buy Threshold: 19%, Sell Threshold: 13%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 255
+The average lot time is: 41.55 days
+The average profit percentage is: 20.74%
+
+[ MATIC ] Buy Threshold: 19%, Sell Threshold: 14%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 255
+The average lot time is: 44.79 days
+The average profit percentage is: 21.50%
+
+[ MATIC ] Buy Threshold: 19%, Sell Threshold: 15%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 252
+The average lot time is: 44.18 days
+The average profit percentage is: 22.32%
+
+[ MATIC ] Buy Threshold: 19%, Sell Threshold: 16%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 251
+The average lot time is: 44.60 days
+The average profit percentage is: 23.53%
+
+[ MATIC ] Buy Threshold: 19%, Sell Threshold: 17%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 249
+The average lot time is: 48.22 days
+The average profit percentage is: 24.71%
+
+[ MATIC ] Buy Threshold: 19%, Sell Threshold: 18%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 248
+The average lot time is: 50.01 days
+The average profit percentage is: 26.17%
+
+[ MATIC ] Buy Threshold: 19%, Sell Threshold: 19%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 248
+The average lot time is: 50.94 days
+The average profit percentage is: 27.21%
+
+[ MATIC ] Buy Threshold: 19%, Sell Threshold: 20%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 248
+The average lot time is: 51.40 days
+The average profit percentage is: 28.34%
+
+[ MATIC ] Buy Threshold: 19%, Sell Threshold: 21%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 245
+The average lot time is: 51.91 days
+The average profit percentage is: 29.48%
+
+[ MATIC ] Buy Threshold: 19%, Sell Threshold: 22%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 244
+The average lot time is: 52.95 days
+The average profit percentage is: 30.50%
+
+[ MATIC ] Buy Threshold: 19%, Sell Threshold: 23%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 242
+The average lot time is: 54.62 days
+The average profit percentage is: 31.61%
+
+[ MATIC ] Buy Threshold: 19%, Sell Threshold: 24%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 242
+The average lot time is: 56.30 days
+The average profit percentage is: 32.73%
+
+[ MATIC ] Buy Threshold: 19%, Sell Threshold: 25%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 241
+The average lot time is: 58.75 days
+The average profit percentage is: 33.64%
+
+[ MATIC ] Buy Threshold: 20%, Sell Threshold: 10%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 257
+The average lot time is: 35.65 days
+The average profit percentage is: 17.05%
+
+[ MATIC ] Buy Threshold: 20%, Sell Threshold: 11%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 257
+The average lot time is: 38.32 days
+The average profit percentage is: 18.34%
+
+[ MATIC ] Buy Threshold: 20%, Sell Threshold: 12%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 256
+The average lot time is: 39.44 days
+The average profit percentage is: 19.66%
+
+[ MATIC ] Buy Threshold: 20%, Sell Threshold: 13%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 255
+The average lot time is: 41.55 days
+The average profit percentage is: 20.74%
+
+[ MATIC ] Buy Threshold: 20%, Sell Threshold: 14%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 255
+The average lot time is: 44.79 days
+The average profit percentage is: 21.50%
+
+[ MATIC ] Buy Threshold: 20%, Sell Threshold: 15%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 252
+The average lot time is: 44.18 days
+The average profit percentage is: 22.32%
+
+[ MATIC ] Buy Threshold: 20%, Sell Threshold: 16%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 251
+The average lot time is: 44.60 days
+The average profit percentage is: 23.53%
+
+[ MATIC ] Buy Threshold: 20%, Sell Threshold: 17%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 249
+The average lot time is: 48.22 days
+The average profit percentage is: 24.71%
+
+[ MATIC ] Buy Threshold: 20%, Sell Threshold: 18%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 248
+The average lot time is: 50.01 days
+The average profit percentage is: 26.17%
+
+[ MATIC ] Buy Threshold: 20%, Sell Threshold: 19%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 248
+The average lot time is: 50.94 days
+The average profit percentage is: 27.21%
+
+[ MATIC ] Buy Threshold: 20%, Sell Threshold: 20%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 248
+The average lot time is: 51.40 days
+The average profit percentage is: 28.34%
+
+[ MATIC ] Buy Threshold: 20%, Sell Threshold: 21%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 245
+The average lot time is: 51.91 days
+The average profit percentage is: 29.48%
+
+[ MATIC ] Buy Threshold: 20%, Sell Threshold: 22%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 244
+The average lot time is: 52.95 days
+The average profit percentage is: 30.50%
+
+[ MATIC ] Buy Threshold: 20%, Sell Threshold: 23%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 242
+The average lot time is: 54.62 days
+The average profit percentage is: 31.61%
+
+[ MATIC ] Buy Threshold: 20%, Sell Threshold: 24%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 242
+The average lot time is: 56.30 days
+The average profit percentage is: 32.73%
+
+[ MATIC ] Buy Threshold: 20%, Sell Threshold: 25%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 241
+The average lot time is: 58.75 days
+The average profit percentage is: 33.64%
+
+[ MATIC ] Buy Threshold: 21%, Sell Threshold: 10%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 257
+The average lot time is: 35.65 days
+The average profit percentage is: 17.05%
+
+[ MATIC ] Buy Threshold: 21%, Sell Threshold: 11%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 257
+The average lot time is: 38.32 days
+The average profit percentage is: 18.34%
+
+[ MATIC ] Buy Threshold: 21%, Sell Threshold: 12%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 256
+The average lot time is: 39.44 days
+The average profit percentage is: 19.66%
+
+[ MATIC ] Buy Threshold: 21%, Sell Threshold: 13%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 255
+The average lot time is: 41.55 days
+The average profit percentage is: 20.74%
+
+[ MATIC ] Buy Threshold: 21%, Sell Threshold: 14%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 255
+The average lot time is: 44.79 days
+The average profit percentage is: 21.50%
+
+[ MATIC ] Buy Threshold: 21%, Sell Threshold: 15%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 252
+The average lot time is: 44.18 days
+The average profit percentage is: 22.32%
+
+[ MATIC ] Buy Threshold: 21%, Sell Threshold: 16%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 251
+The average lot time is: 44.60 days
+The average profit percentage is: 23.53%
+
+[ MATIC ] Buy Threshold: 21%, Sell Threshold: 17%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 249
+The average lot time is: 48.22 days
+The average profit percentage is: 24.71%
+
+[ MATIC ] Buy Threshold: 21%, Sell Threshold: 18%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 248
+The average lot time is: 50.01 days
+The average profit percentage is: 26.17%
+
+[ MATIC ] Buy Threshold: 21%, Sell Threshold: 19%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 248
+The average lot time is: 50.94 days
+The average profit percentage is: 27.21%
+
+[ MATIC ] Buy Threshold: 21%, Sell Threshold: 20%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 248
+The average lot time is: 51.40 days
+The average profit percentage is: 28.34%
+
+[ MATIC ] Buy Threshold: 21%, Sell Threshold: 21%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 245
+The average lot time is: 51.91 days
+The average profit percentage is: 29.48%
+
+[ MATIC ] Buy Threshold: 21%, Sell Threshold: 22%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 244
+The average lot time is: 52.95 days
+The average profit percentage is: 30.50%
+
+[ MATIC ] Buy Threshold: 21%, Sell Threshold: 23%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 242
+The average lot time is: 54.62 days
+The average profit percentage is: 31.61%
+
+[ MATIC ] Buy Threshold: 21%, Sell Threshold: 24%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 242
+The average lot time is: 56.30 days
+The average profit percentage is: 32.73%
+
+[ MATIC ] Buy Threshold: 21%, Sell Threshold: 25%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 241
+The average lot time is: 58.75 days
+The average profit percentage is: 33.64%
+
+[ MATIC ] Buy Threshold: 22%, Sell Threshold: 10%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 257
+The average lot time is: 35.65 days
+The average profit percentage is: 17.05%
+
+[ MATIC ] Buy Threshold: 22%, Sell Threshold: 11%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 257
+The average lot time is: 38.32 days
+The average profit percentage is: 18.34%
+
+[ MATIC ] Buy Threshold: 22%, Sell Threshold: 12%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 256
+The average lot time is: 39.44 days
+The average profit percentage is: 19.66%
+
+[ MATIC ] Buy Threshold: 22%, Sell Threshold: 13%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 255
+The average lot time is: 41.55 days
+The average profit percentage is: 20.74%
+
+[ MATIC ] Buy Threshold: 22%, Sell Threshold: 14%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 255
+The average lot time is: 44.79 days
+The average profit percentage is: 21.50%
+
+[ MATIC ] Buy Threshold: 22%, Sell Threshold: 15%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 252
+The average lot time is: 44.18 days
+The average profit percentage is: 22.32%
+
+[ MATIC ] Buy Threshold: 22%, Sell Threshold: 16%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 251
+The average lot time is: 44.60 days
+The average profit percentage is: 23.53%
+
+[ MATIC ] Buy Threshold: 22%, Sell Threshold: 17%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 249
+The average lot time is: 48.22 days
+The average profit percentage is: 24.71%
+
+[ MATIC ] Buy Threshold: 22%, Sell Threshold: 18%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 248
+The average lot time is: 50.01 days
+The average profit percentage is: 26.17%
+
+[ MATIC ] Buy Threshold: 22%, Sell Threshold: 19%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 248
+The average lot time is: 50.94 days
+The average profit percentage is: 27.21%
+
+[ MATIC ] Buy Threshold: 22%, Sell Threshold: 20%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 248
+The average lot time is: 51.40 days
+The average profit percentage is: 28.34%
+
+[ MATIC ] Buy Threshold: 22%, Sell Threshold: 21%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 245
+The average lot time is: 51.91 days
+The average profit percentage is: 29.48%
+
+[ MATIC ] Buy Threshold: 22%, Sell Threshold: 22%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 244
+The average lot time is: 52.95 days
+The average profit percentage is: 30.50%
+
+[ MATIC ] Buy Threshold: 22%, Sell Threshold: 23%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 242
+The average lot time is: 54.62 days
+The average profit percentage is: 31.61%
+
+[ MATIC ] Buy Threshold: 22%, Sell Threshold: 24%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 242
+The average lot time is: 56.30 days
+The average profit percentage is: 32.73%
+
+[ MATIC ] Buy Threshold: 22%, Sell Threshold: 25%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 241
+The average lot time is: 58.75 days
+The average profit percentage is: 33.64%
+
+[ MATIC ] Buy Threshold: 23%, Sell Threshold: 10%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 257
+The average lot time is: 35.65 days
+The average profit percentage is: 17.05%
+
+[ MATIC ] Buy Threshold: 23%, Sell Threshold: 11%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 257
+The average lot time is: 38.32 days
+The average profit percentage is: 18.34%
+
+[ MATIC ] Buy Threshold: 23%, Sell Threshold: 12%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 256
+The average lot time is: 39.44 days
+The average profit percentage is: 19.66%
+
+[ MATIC ] Buy Threshold: 23%, Sell Threshold: 13%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 255
+The average lot time is: 41.55 days
+The average profit percentage is: 20.74%
+
+[ MATIC ] Buy Threshold: 23%, Sell Threshold: 14%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 255
+The average lot time is: 44.79 days
+The average profit percentage is: 21.50%
+
+[ MATIC ] Buy Threshold: 23%, Sell Threshold: 15%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 252
+The average lot time is: 44.18 days
+The average profit percentage is: 22.32%
+
+[ MATIC ] Buy Threshold: 23%, Sell Threshold: 16%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 251
+The average lot time is: 44.60 days
+The average profit percentage is: 23.53%
+
+[ MATIC ] Buy Threshold: 23%, Sell Threshold: 17%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 249
+The average lot time is: 48.22 days
+The average profit percentage is: 24.71%
+
+[ MATIC ] Buy Threshold: 23%, Sell Threshold: 18%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 248
+The average lot time is: 50.01 days
+The average profit percentage is: 26.17%
+
+[ MATIC ] Buy Threshold: 23%, Sell Threshold: 19%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 248
+The average lot time is: 50.94 days
+The average profit percentage is: 27.21%
+
+[ MATIC ] Buy Threshold: 23%, Sell Threshold: 20%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 248
+The average lot time is: 51.40 days
+The average profit percentage is: 28.34%
+
+[ MATIC ] Buy Threshold: 23%, Sell Threshold: 21%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 245
+The average lot time is: 51.91 days
+The average profit percentage is: 29.48%
+
+[ MATIC ] Buy Threshold: 23%, Sell Threshold: 22%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 244
+The average lot time is: 52.95 days
+The average profit percentage is: 30.50%
+
+[ MATIC ] Buy Threshold: 23%, Sell Threshold: 23%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 242
+The average lot time is: 54.62 days
+The average profit percentage is: 31.61%
+
+[ MATIC ] Buy Threshold: 23%, Sell Threshold: 24%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 242
+The average lot time is: 56.30 days
+The average profit percentage is: 32.73%
+
+[ MATIC ] Buy Threshold: 23%, Sell Threshold: 25%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 241
+The average lot time is: 58.75 days
+The average profit percentage is: 33.64%
+
+[ MATIC ] Buy Threshold: 24%, Sell Threshold: 10%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 257
+The average lot time is: 35.65 days
+The average profit percentage is: 17.05%
+
+[ MATIC ] Buy Threshold: 24%, Sell Threshold: 11%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 257
+The average lot time is: 38.32 days
+The average profit percentage is: 18.34%
+
+[ MATIC ] Buy Threshold: 24%, Sell Threshold: 12%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 256
+The average lot time is: 39.44 days
+The average profit percentage is: 19.66%
+
+[ MATIC ] Buy Threshold: 24%, Sell Threshold: 13%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 255
+The average lot time is: 41.55 days
+The average profit percentage is: 20.74%
+
+[ MATIC ] Buy Threshold: 24%, Sell Threshold: 14%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 255
+The average lot time is: 44.79 days
+The average profit percentage is: 21.50%
+
+[ MATIC ] Buy Threshold: 24%, Sell Threshold: 15%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 252
+The average lot time is: 44.18 days
+The average profit percentage is: 22.32%
+
+[ MATIC ] Buy Threshold: 24%, Sell Threshold: 16%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 251
+The average lot time is: 44.60 days
+The average profit percentage is: 23.53%
+
+[ MATIC ] Buy Threshold: 24%, Sell Threshold: 17%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 249
+The average lot time is: 48.22 days
+The average profit percentage is: 24.71%
+
+[ MATIC ] Buy Threshold: 24%, Sell Threshold: 18%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 248
+The average lot time is: 50.01 days
+The average profit percentage is: 26.17%
+
+[ MATIC ] Buy Threshold: 24%, Sell Threshold: 19%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 248
+The average lot time is: 50.94 days
+The average profit percentage is: 27.21%
+
+[ MATIC ] Buy Threshold: 24%, Sell Threshold: 20%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 248
+The average lot time is: 51.40 days
+The average profit percentage is: 28.34%
+
+[ MATIC ] Buy Threshold: 24%, Sell Threshold: 21%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 245
+The average lot time is: 51.91 days
+The average profit percentage is: 29.48%
+
+[ MATIC ] Buy Threshold: 24%, Sell Threshold: 22%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 244
+The average lot time is: 52.95 days
+The average profit percentage is: 30.50%
+
+[ MATIC ] Buy Threshold: 24%, Sell Threshold: 23%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 242
+The average lot time is: 54.62 days
+The average profit percentage is: 31.61%
+
+[ MATIC ] Buy Threshold: 24%, Sell Threshold: 24%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 242
+The average lot time is: 56.30 days
+The average profit percentage is: 32.73%
+
+[ MATIC ] Buy Threshold: 24%, Sell Threshold: 25%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 241
+The average lot time is: 58.75 days
+The average profit percentage is: 33.64%
+
+[ MATIC ] Buy Threshold: 25%, Sell Threshold: 10%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 257
+The average lot time is: 35.65 days
+The average profit percentage is: 17.05%
+
+[ MATIC ] Buy Threshold: 25%, Sell Threshold: 11%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 257
+The average lot time is: 38.32 days
+The average profit percentage is: 18.34%
+
+[ MATIC ] Buy Threshold: 25%, Sell Threshold: 12%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 256
+The average lot time is: 39.44 days
+The average profit percentage is: 19.66%
+
+[ MATIC ] Buy Threshold: 25%, Sell Threshold: 13%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 255
+The average lot time is: 41.55 days
+The average profit percentage is: 20.74%
+
+[ MATIC ] Buy Threshold: 25%, Sell Threshold: 14%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 255
+The average lot time is: 44.79 days
+The average profit percentage is: 21.50%
+
+[ MATIC ] Buy Threshold: 25%, Sell Threshold: 15%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 252
+The average lot time is: 44.18 days
+The average profit percentage is: 22.32%
+
+[ MATIC ] Buy Threshold: 25%, Sell Threshold: 16%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 251
+The average lot time is: 44.60 days
+The average profit percentage is: 23.53%
+
+[ MATIC ] Buy Threshold: 25%, Sell Threshold: 17%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 249
+The average lot time is: 48.22 days
+The average profit percentage is: 24.71%
+
+[ MATIC ] Buy Threshold: 25%, Sell Threshold: 18%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 248
+The average lot time is: 50.01 days
+The average profit percentage is: 26.17%
+
+[ MATIC ] Buy Threshold: 25%, Sell Threshold: 19%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 248
+The average lot time is: 50.94 days
+The average profit percentage is: 27.21%
+
+[ MATIC ] Buy Threshold: 25%, Sell Threshold: 20%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 248
+The average lot time is: 51.40 days
+The average profit percentage is: 28.34%
+
+[ MATIC ] Buy Threshold: 25%, Sell Threshold: 21%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 245
+The average lot time is: 51.91 days
+The average profit percentage is: 29.48%
+
+[ MATIC ] Buy Threshold: 25%, Sell Threshold: 22%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 244
+The average lot time is: 52.95 days
+The average profit percentage is: 30.50%
+
+[ MATIC ] Buy Threshold: 25%, Sell Threshold: 23%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 242
+The average lot time is: 54.62 days
+The average profit percentage is: 31.61%
+
+[ MATIC ] Buy Threshold: 25%, Sell Threshold: 24%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 242
+The average lot time is: 56.30 days
+The average profit percentage is: 32.73%
+
+[ MATIC ] Buy Threshold: 25%, Sell Threshold: 25%
+Number of 24-hour windows with at least 5% price drop: 274
+The average drop window percentage is: -9.20%
+Number of successful sell events: 241
+The average lot time is: 58.75 days
+The average profit percentage is: 33.64%
+

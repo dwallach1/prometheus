@@ -1,0 +1,2352 @@
+[ DOGE ] Buy Threshold: 5%, Sell Threshold: 10%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 244
+The average lot time is: 110.17 days
+The average profit percentage is: 28.35%
+
+[ DOGE ] Buy Threshold: 5%, Sell Threshold: 11%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 242
+The average lot time is: 120.98 days
+The average profit percentage is: 29.48%
+
+[ DOGE ] Buy Threshold: 5%, Sell Threshold: 12%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 241
+The average lot time is: 126.00 days
+The average profit percentage is: 30.72%
+
+[ DOGE ] Buy Threshold: 5%, Sell Threshold: 13%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 241
+The average lot time is: 131.83 days
+The average profit percentage is: 31.88%
+
+[ DOGE ] Buy Threshold: 5%, Sell Threshold: 14%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 241
+The average lot time is: 142.12 days
+The average profit percentage is: 34.12%
+
+[ DOGE ] Buy Threshold: 5%, Sell Threshold: 15%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 241
+The average lot time is: 145.94 days
+The average profit percentage is: 35.00%
+
+[ DOGE ] Buy Threshold: 5%, Sell Threshold: 16%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 241
+The average lot time is: 146.51 days
+The average profit percentage is: 35.63%
+
+[ DOGE ] Buy Threshold: 5%, Sell Threshold: 17%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 240
+The average lot time is: 151.70 days
+The average profit percentage is: 38.07%
+
+[ DOGE ] Buy Threshold: 5%, Sell Threshold: 18%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 238
+The average lot time is: 157.59 days
+The average profit percentage is: 39.60%
+
+[ DOGE ] Buy Threshold: 5%, Sell Threshold: 19%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 237
+The average lot time is: 158.54 days
+The average profit percentage is: 40.26%
+
+[ DOGE ] Buy Threshold: 5%, Sell Threshold: 20%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 237
+The average lot time is: 160.05 days
+The average profit percentage is: 41.61%
+
+[ DOGE ] Buy Threshold: 5%, Sell Threshold: 21%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 237
+The average lot time is: 164.11 days
+The average profit percentage is: 42.98%
+
+[ DOGE ] Buy Threshold: 5%, Sell Threshold: 22%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 237
+The average lot time is: 178.06 days
+The average profit percentage is: 44.28%
+
+[ DOGE ] Buy Threshold: 5%, Sell Threshold: 23%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 236
+The average lot time is: 179.85 days
+The average profit percentage is: 45.27%
+
+[ DOGE ] Buy Threshold: 5%, Sell Threshold: 24%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 235
+The average lot time is: 184.25 days
+The average profit percentage is: 46.73%
+
+[ DOGE ] Buy Threshold: 5%, Sell Threshold: 25%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 234
+The average lot time is: 190.09 days
+The average profit percentage is: 48.18%
+
+[ DOGE ] Buy Threshold: 6%, Sell Threshold: 10%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 244
+The average lot time is: 110.17 days
+The average profit percentage is: 28.35%
+
+[ DOGE ] Buy Threshold: 6%, Sell Threshold: 11%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 242
+The average lot time is: 120.98 days
+The average profit percentage is: 29.48%
+
+[ DOGE ] Buy Threshold: 6%, Sell Threshold: 12%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 241
+The average lot time is: 126.00 days
+The average profit percentage is: 30.72%
+
+[ DOGE ] Buy Threshold: 6%, Sell Threshold: 13%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 241
+The average lot time is: 131.83 days
+The average profit percentage is: 31.88%
+
+[ DOGE ] Buy Threshold: 6%, Sell Threshold: 14%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 241
+The average lot time is: 142.12 days
+The average profit percentage is: 34.12%
+
+[ DOGE ] Buy Threshold: 6%, Sell Threshold: 15%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 241
+The average lot time is: 145.94 days
+The average profit percentage is: 35.00%
+
+[ DOGE ] Buy Threshold: 6%, Sell Threshold: 16%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 241
+The average lot time is: 146.51 days
+The average profit percentage is: 35.63%
+
+[ DOGE ] Buy Threshold: 6%, Sell Threshold: 17%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 240
+The average lot time is: 151.70 days
+The average profit percentage is: 38.07%
+
+[ DOGE ] Buy Threshold: 6%, Sell Threshold: 18%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 238
+The average lot time is: 157.59 days
+The average profit percentage is: 39.60%
+
+[ DOGE ] Buy Threshold: 6%, Sell Threshold: 19%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 237
+The average lot time is: 158.54 days
+The average profit percentage is: 40.26%
+
+[ DOGE ] Buy Threshold: 6%, Sell Threshold: 20%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 237
+The average lot time is: 160.05 days
+The average profit percentage is: 41.61%
+
+[ DOGE ] Buy Threshold: 6%, Sell Threshold: 21%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 237
+The average lot time is: 164.11 days
+The average profit percentage is: 42.98%
+
+[ DOGE ] Buy Threshold: 6%, Sell Threshold: 22%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 237
+The average lot time is: 178.06 days
+The average profit percentage is: 44.28%
+
+[ DOGE ] Buy Threshold: 6%, Sell Threshold: 23%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 236
+The average lot time is: 179.85 days
+The average profit percentage is: 45.27%
+
+[ DOGE ] Buy Threshold: 6%, Sell Threshold: 24%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 235
+The average lot time is: 184.25 days
+The average profit percentage is: 46.73%
+
+[ DOGE ] Buy Threshold: 6%, Sell Threshold: 25%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 234
+The average lot time is: 190.09 days
+The average profit percentage is: 48.18%
+
+[ DOGE ] Buy Threshold: 7%, Sell Threshold: 10%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 244
+The average lot time is: 110.17 days
+The average profit percentage is: 28.35%
+
+[ DOGE ] Buy Threshold: 7%, Sell Threshold: 11%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 242
+The average lot time is: 120.98 days
+The average profit percentage is: 29.48%
+
+[ DOGE ] Buy Threshold: 7%, Sell Threshold: 12%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 241
+The average lot time is: 126.00 days
+The average profit percentage is: 30.72%
+
+[ DOGE ] Buy Threshold: 7%, Sell Threshold: 13%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 241
+The average lot time is: 131.83 days
+The average profit percentage is: 31.88%
+
+[ DOGE ] Buy Threshold: 7%, Sell Threshold: 14%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 241
+The average lot time is: 142.12 days
+The average profit percentage is: 34.12%
+
+[ DOGE ] Buy Threshold: 7%, Sell Threshold: 15%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 241
+The average lot time is: 145.94 days
+The average profit percentage is: 35.00%
+
+[ DOGE ] Buy Threshold: 7%, Sell Threshold: 16%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 241
+The average lot time is: 146.51 days
+The average profit percentage is: 35.63%
+
+[ DOGE ] Buy Threshold: 7%, Sell Threshold: 17%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 240
+The average lot time is: 151.70 days
+The average profit percentage is: 38.07%
+
+[ DOGE ] Buy Threshold: 7%, Sell Threshold: 18%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 238
+The average lot time is: 157.59 days
+The average profit percentage is: 39.60%
+
+[ DOGE ] Buy Threshold: 7%, Sell Threshold: 19%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 237
+The average lot time is: 158.54 days
+The average profit percentage is: 40.26%
+
+[ DOGE ] Buy Threshold: 7%, Sell Threshold: 20%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 237
+The average lot time is: 160.05 days
+The average profit percentage is: 41.61%
+
+[ DOGE ] Buy Threshold: 7%, Sell Threshold: 21%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 237
+The average lot time is: 164.11 days
+The average profit percentage is: 42.98%
+
+[ DOGE ] Buy Threshold: 7%, Sell Threshold: 22%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 237
+The average lot time is: 178.06 days
+The average profit percentage is: 44.28%
+
+[ DOGE ] Buy Threshold: 7%, Sell Threshold: 23%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 236
+The average lot time is: 179.85 days
+The average profit percentage is: 45.27%
+
+[ DOGE ] Buy Threshold: 7%, Sell Threshold: 24%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 235
+The average lot time is: 184.25 days
+The average profit percentage is: 46.73%
+
+[ DOGE ] Buy Threshold: 7%, Sell Threshold: 25%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 234
+The average lot time is: 190.09 days
+The average profit percentage is: 48.18%
+
+[ DOGE ] Buy Threshold: 8%, Sell Threshold: 10%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 244
+The average lot time is: 110.17 days
+The average profit percentage is: 28.35%
+
+[ DOGE ] Buy Threshold: 8%, Sell Threshold: 11%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 242
+The average lot time is: 120.98 days
+The average profit percentage is: 29.48%
+
+[ DOGE ] Buy Threshold: 8%, Sell Threshold: 12%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 241
+The average lot time is: 126.00 days
+The average profit percentage is: 30.72%
+
+[ DOGE ] Buy Threshold: 8%, Sell Threshold: 13%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 241
+The average lot time is: 131.83 days
+The average profit percentage is: 31.88%
+
+[ DOGE ] Buy Threshold: 8%, Sell Threshold: 14%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 241
+The average lot time is: 142.12 days
+The average profit percentage is: 34.12%
+
+[ DOGE ] Buy Threshold: 8%, Sell Threshold: 15%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 241
+The average lot time is: 145.94 days
+The average profit percentage is: 35.00%
+
+[ DOGE ] Buy Threshold: 8%, Sell Threshold: 16%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 241
+The average lot time is: 146.51 days
+The average profit percentage is: 35.63%
+
+[ DOGE ] Buy Threshold: 8%, Sell Threshold: 17%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 240
+The average lot time is: 151.70 days
+The average profit percentage is: 38.07%
+
+[ DOGE ] Buy Threshold: 8%, Sell Threshold: 18%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 238
+The average lot time is: 157.59 days
+The average profit percentage is: 39.60%
+
+[ DOGE ] Buy Threshold: 8%, Sell Threshold: 19%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 237
+The average lot time is: 158.54 days
+The average profit percentage is: 40.26%
+
+[ DOGE ] Buy Threshold: 8%, Sell Threshold: 20%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 237
+The average lot time is: 160.05 days
+The average profit percentage is: 41.61%
+
+[ DOGE ] Buy Threshold: 8%, Sell Threshold: 21%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 237
+The average lot time is: 164.11 days
+The average profit percentage is: 42.98%
+
+[ DOGE ] Buy Threshold: 8%, Sell Threshold: 22%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 237
+The average lot time is: 178.06 days
+The average profit percentage is: 44.28%
+
+[ DOGE ] Buy Threshold: 8%, Sell Threshold: 23%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 236
+The average lot time is: 179.85 days
+The average profit percentage is: 45.27%
+
+[ DOGE ] Buy Threshold: 8%, Sell Threshold: 24%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 235
+The average lot time is: 184.25 days
+The average profit percentage is: 46.73%
+
+[ DOGE ] Buy Threshold: 8%, Sell Threshold: 25%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 234
+The average lot time is: 190.09 days
+The average profit percentage is: 48.18%
+
+[ DOGE ] Buy Threshold: 9%, Sell Threshold: 10%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 244
+The average lot time is: 110.17 days
+The average profit percentage is: 28.35%
+
+[ DOGE ] Buy Threshold: 9%, Sell Threshold: 11%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 242
+The average lot time is: 120.98 days
+The average profit percentage is: 29.48%
+
+[ DOGE ] Buy Threshold: 9%, Sell Threshold: 12%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 241
+The average lot time is: 126.00 days
+The average profit percentage is: 30.72%
+
+[ DOGE ] Buy Threshold: 9%, Sell Threshold: 13%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 241
+The average lot time is: 131.83 days
+The average profit percentage is: 31.88%
+
+[ DOGE ] Buy Threshold: 9%, Sell Threshold: 14%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 241
+The average lot time is: 142.12 days
+The average profit percentage is: 34.12%
+
+[ DOGE ] Buy Threshold: 9%, Sell Threshold: 15%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 241
+The average lot time is: 145.94 days
+The average profit percentage is: 35.00%
+
+[ DOGE ] Buy Threshold: 9%, Sell Threshold: 16%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 241
+The average lot time is: 146.51 days
+The average profit percentage is: 35.63%
+
+[ DOGE ] Buy Threshold: 9%, Sell Threshold: 17%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 240
+The average lot time is: 151.70 days
+The average profit percentage is: 38.07%
+
+[ DOGE ] Buy Threshold: 9%, Sell Threshold: 18%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 238
+The average lot time is: 157.59 days
+The average profit percentage is: 39.60%
+
+[ DOGE ] Buy Threshold: 9%, Sell Threshold: 19%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 237
+The average lot time is: 158.54 days
+The average profit percentage is: 40.26%
+
+[ DOGE ] Buy Threshold: 9%, Sell Threshold: 20%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 237
+The average lot time is: 160.05 days
+The average profit percentage is: 41.61%
+
+[ DOGE ] Buy Threshold: 9%, Sell Threshold: 21%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 237
+The average lot time is: 164.11 days
+The average profit percentage is: 42.98%
+
+[ DOGE ] Buy Threshold: 9%, Sell Threshold: 22%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 237
+The average lot time is: 178.06 days
+The average profit percentage is: 44.28%
+
+[ DOGE ] Buy Threshold: 9%, Sell Threshold: 23%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 236
+The average lot time is: 179.85 days
+The average profit percentage is: 45.27%
+
+[ DOGE ] Buy Threshold: 9%, Sell Threshold: 24%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 235
+The average lot time is: 184.25 days
+The average profit percentage is: 46.73%
+
+[ DOGE ] Buy Threshold: 9%, Sell Threshold: 25%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 234
+The average lot time is: 190.09 days
+The average profit percentage is: 48.18%
+
+[ DOGE ] Buy Threshold: 10%, Sell Threshold: 10%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 244
+The average lot time is: 110.17 days
+The average profit percentage is: 28.35%
+
+[ DOGE ] Buy Threshold: 10%, Sell Threshold: 11%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 242
+The average lot time is: 120.98 days
+The average profit percentage is: 29.48%
+
+[ DOGE ] Buy Threshold: 10%, Sell Threshold: 12%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 241
+The average lot time is: 126.00 days
+The average profit percentage is: 30.72%
+
+[ DOGE ] Buy Threshold: 10%, Sell Threshold: 13%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 241
+The average lot time is: 131.83 days
+The average profit percentage is: 31.88%
+
+[ DOGE ] Buy Threshold: 10%, Sell Threshold: 14%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 241
+The average lot time is: 142.12 days
+The average profit percentage is: 34.12%
+
+[ DOGE ] Buy Threshold: 10%, Sell Threshold: 15%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 241
+The average lot time is: 145.94 days
+The average profit percentage is: 35.00%
+
+[ DOGE ] Buy Threshold: 10%, Sell Threshold: 16%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 241
+The average lot time is: 146.51 days
+The average profit percentage is: 35.63%
+
+[ DOGE ] Buy Threshold: 10%, Sell Threshold: 17%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 240
+The average lot time is: 151.70 days
+The average profit percentage is: 38.07%
+
+[ DOGE ] Buy Threshold: 10%, Sell Threshold: 18%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 238
+The average lot time is: 157.59 days
+The average profit percentage is: 39.60%
+
+[ DOGE ] Buy Threshold: 10%, Sell Threshold: 19%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 237
+The average lot time is: 158.54 days
+The average profit percentage is: 40.26%
+
+[ DOGE ] Buy Threshold: 10%, Sell Threshold: 20%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 237
+The average lot time is: 160.05 days
+The average profit percentage is: 41.61%
+
+[ DOGE ] Buy Threshold: 10%, Sell Threshold: 21%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 237
+The average lot time is: 164.11 days
+The average profit percentage is: 42.98%
+
+[ DOGE ] Buy Threshold: 10%, Sell Threshold: 22%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 237
+The average lot time is: 178.06 days
+The average profit percentage is: 44.28%
+
+[ DOGE ] Buy Threshold: 10%, Sell Threshold: 23%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 236
+The average lot time is: 179.85 days
+The average profit percentage is: 45.27%
+
+[ DOGE ] Buy Threshold: 10%, Sell Threshold: 24%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 235
+The average lot time is: 184.25 days
+The average profit percentage is: 46.73%
+
+[ DOGE ] Buy Threshold: 10%, Sell Threshold: 25%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 234
+The average lot time is: 190.09 days
+The average profit percentage is: 48.18%
+
+[ DOGE ] Buy Threshold: 11%, Sell Threshold: 10%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 244
+The average lot time is: 110.17 days
+The average profit percentage is: 28.35%
+
+[ DOGE ] Buy Threshold: 11%, Sell Threshold: 11%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 242
+The average lot time is: 120.98 days
+The average profit percentage is: 29.48%
+
+[ DOGE ] Buy Threshold: 11%, Sell Threshold: 12%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 241
+The average lot time is: 126.00 days
+The average profit percentage is: 30.72%
+
+[ DOGE ] Buy Threshold: 11%, Sell Threshold: 13%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 241
+The average lot time is: 131.83 days
+The average profit percentage is: 31.88%
+
+[ DOGE ] Buy Threshold: 11%, Sell Threshold: 14%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 241
+The average lot time is: 142.12 days
+The average profit percentage is: 34.12%
+
+[ DOGE ] Buy Threshold: 11%, Sell Threshold: 15%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 241
+The average lot time is: 145.94 days
+The average profit percentage is: 35.00%
+
+[ DOGE ] Buy Threshold: 11%, Sell Threshold: 16%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 241
+The average lot time is: 146.51 days
+The average profit percentage is: 35.63%
+
+[ DOGE ] Buy Threshold: 11%, Sell Threshold: 17%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 240
+The average lot time is: 151.70 days
+The average profit percentage is: 38.07%
+
+[ DOGE ] Buy Threshold: 11%, Sell Threshold: 18%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 238
+The average lot time is: 157.59 days
+The average profit percentage is: 39.60%
+
+[ DOGE ] Buy Threshold: 11%, Sell Threshold: 19%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 237
+The average lot time is: 158.54 days
+The average profit percentage is: 40.26%
+
+[ DOGE ] Buy Threshold: 11%, Sell Threshold: 20%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 237
+The average lot time is: 160.05 days
+The average profit percentage is: 41.61%
+
+[ DOGE ] Buy Threshold: 11%, Sell Threshold: 21%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 237
+The average lot time is: 164.11 days
+The average profit percentage is: 42.98%
+
+[ DOGE ] Buy Threshold: 11%, Sell Threshold: 22%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 237
+The average lot time is: 178.06 days
+The average profit percentage is: 44.28%
+
+[ DOGE ] Buy Threshold: 11%, Sell Threshold: 23%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 236
+The average lot time is: 179.85 days
+The average profit percentage is: 45.27%
+
+[ DOGE ] Buy Threshold: 11%, Sell Threshold: 24%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 235
+The average lot time is: 184.25 days
+The average profit percentage is: 46.73%
+
+[ DOGE ] Buy Threshold: 11%, Sell Threshold: 25%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 234
+The average lot time is: 190.09 days
+The average profit percentage is: 48.18%
+
+[ DOGE ] Buy Threshold: 12%, Sell Threshold: 10%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 244
+The average lot time is: 110.17 days
+The average profit percentage is: 28.35%
+
+[ DOGE ] Buy Threshold: 12%, Sell Threshold: 11%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 242
+The average lot time is: 120.98 days
+The average profit percentage is: 29.48%
+
+[ DOGE ] Buy Threshold: 12%, Sell Threshold: 12%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 241
+The average lot time is: 126.00 days
+The average profit percentage is: 30.72%
+
+[ DOGE ] Buy Threshold: 12%, Sell Threshold: 13%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 241
+The average lot time is: 131.83 days
+The average profit percentage is: 31.88%
+
+[ DOGE ] Buy Threshold: 12%, Sell Threshold: 14%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 241
+The average lot time is: 142.12 days
+The average profit percentage is: 34.12%
+
+[ DOGE ] Buy Threshold: 12%, Sell Threshold: 15%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 241
+The average lot time is: 145.94 days
+The average profit percentage is: 35.00%
+
+[ DOGE ] Buy Threshold: 12%, Sell Threshold: 16%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 241
+The average lot time is: 146.51 days
+The average profit percentage is: 35.63%
+
+[ DOGE ] Buy Threshold: 12%, Sell Threshold: 17%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 240
+The average lot time is: 151.70 days
+The average profit percentage is: 38.07%
+
+[ DOGE ] Buy Threshold: 12%, Sell Threshold: 18%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 238
+The average lot time is: 157.59 days
+The average profit percentage is: 39.60%
+
+[ DOGE ] Buy Threshold: 12%, Sell Threshold: 19%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 237
+The average lot time is: 158.54 days
+The average profit percentage is: 40.26%
+
+[ DOGE ] Buy Threshold: 12%, Sell Threshold: 20%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 237
+The average lot time is: 160.05 days
+The average profit percentage is: 41.61%
+
+[ DOGE ] Buy Threshold: 12%, Sell Threshold: 21%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 237
+The average lot time is: 164.11 days
+The average profit percentage is: 42.98%
+
+[ DOGE ] Buy Threshold: 12%, Sell Threshold: 22%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 237
+The average lot time is: 178.06 days
+The average profit percentage is: 44.28%
+
+[ DOGE ] Buy Threshold: 12%, Sell Threshold: 23%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 236
+The average lot time is: 179.85 days
+The average profit percentage is: 45.27%
+
+[ DOGE ] Buy Threshold: 12%, Sell Threshold: 24%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 235
+The average lot time is: 184.25 days
+The average profit percentage is: 46.73%
+
+[ DOGE ] Buy Threshold: 12%, Sell Threshold: 25%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 234
+The average lot time is: 190.09 days
+The average profit percentage is: 48.18%
+
+[ DOGE ] Buy Threshold: 13%, Sell Threshold: 10%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 244
+The average lot time is: 110.17 days
+The average profit percentage is: 28.35%
+
+[ DOGE ] Buy Threshold: 13%, Sell Threshold: 11%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 242
+The average lot time is: 120.98 days
+The average profit percentage is: 29.48%
+
+[ DOGE ] Buy Threshold: 13%, Sell Threshold: 12%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 241
+The average lot time is: 126.00 days
+The average profit percentage is: 30.72%
+
+[ DOGE ] Buy Threshold: 13%, Sell Threshold: 13%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 241
+The average lot time is: 131.83 days
+The average profit percentage is: 31.88%
+
+[ DOGE ] Buy Threshold: 13%, Sell Threshold: 14%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 241
+The average lot time is: 142.12 days
+The average profit percentage is: 34.12%
+
+[ DOGE ] Buy Threshold: 13%, Sell Threshold: 15%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 241
+The average lot time is: 145.94 days
+The average profit percentage is: 35.00%
+
+[ DOGE ] Buy Threshold: 13%, Sell Threshold: 16%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 241
+The average lot time is: 146.51 days
+The average profit percentage is: 35.63%
+
+[ DOGE ] Buy Threshold: 13%, Sell Threshold: 17%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 240
+The average lot time is: 151.70 days
+The average profit percentage is: 38.07%
+
+[ DOGE ] Buy Threshold: 13%, Sell Threshold: 18%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 238
+The average lot time is: 157.59 days
+The average profit percentage is: 39.60%
+
+[ DOGE ] Buy Threshold: 13%, Sell Threshold: 19%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 237
+The average lot time is: 158.54 days
+The average profit percentage is: 40.26%
+
+[ DOGE ] Buy Threshold: 13%, Sell Threshold: 20%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 237
+The average lot time is: 160.05 days
+The average profit percentage is: 41.61%
+
+[ DOGE ] Buy Threshold: 13%, Sell Threshold: 21%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 237
+The average lot time is: 164.11 days
+The average profit percentage is: 42.98%
+
+[ DOGE ] Buy Threshold: 13%, Sell Threshold: 22%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 237
+The average lot time is: 178.06 days
+The average profit percentage is: 44.28%
+
+[ DOGE ] Buy Threshold: 13%, Sell Threshold: 23%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 236
+The average lot time is: 179.85 days
+The average profit percentage is: 45.27%
+
+[ DOGE ] Buy Threshold: 13%, Sell Threshold: 24%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 235
+The average lot time is: 184.25 days
+The average profit percentage is: 46.73%
+
+[ DOGE ] Buy Threshold: 13%, Sell Threshold: 25%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 234
+The average lot time is: 190.09 days
+The average profit percentage is: 48.18%
+
+[ DOGE ] Buy Threshold: 14%, Sell Threshold: 10%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 244
+The average lot time is: 110.17 days
+The average profit percentage is: 28.35%
+
+[ DOGE ] Buy Threshold: 14%, Sell Threshold: 11%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 242
+The average lot time is: 120.98 days
+The average profit percentage is: 29.48%
+
+[ DOGE ] Buy Threshold: 14%, Sell Threshold: 12%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 241
+The average lot time is: 126.00 days
+The average profit percentage is: 30.72%
+
+[ DOGE ] Buy Threshold: 14%, Sell Threshold: 13%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 241
+The average lot time is: 131.83 days
+The average profit percentage is: 31.88%
+
+[ DOGE ] Buy Threshold: 14%, Sell Threshold: 14%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 241
+The average lot time is: 142.12 days
+The average profit percentage is: 34.12%
+
+[ DOGE ] Buy Threshold: 14%, Sell Threshold: 15%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 241
+The average lot time is: 145.94 days
+The average profit percentage is: 35.00%
+
+[ DOGE ] Buy Threshold: 14%, Sell Threshold: 16%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 241
+The average lot time is: 146.51 days
+The average profit percentage is: 35.63%
+
+[ DOGE ] Buy Threshold: 14%, Sell Threshold: 17%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 240
+The average lot time is: 151.70 days
+The average profit percentage is: 38.07%
+
+[ DOGE ] Buy Threshold: 14%, Sell Threshold: 18%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 238
+The average lot time is: 157.59 days
+The average profit percentage is: 39.60%
+
+[ DOGE ] Buy Threshold: 14%, Sell Threshold: 19%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 237
+The average lot time is: 158.54 days
+The average profit percentage is: 40.26%
+
+[ DOGE ] Buy Threshold: 14%, Sell Threshold: 20%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 237
+The average lot time is: 160.05 days
+The average profit percentage is: 41.61%
+
+[ DOGE ] Buy Threshold: 14%, Sell Threshold: 21%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 237
+The average lot time is: 164.11 days
+The average profit percentage is: 42.98%
+
+[ DOGE ] Buy Threshold: 14%, Sell Threshold: 22%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 237
+The average lot time is: 178.06 days
+The average profit percentage is: 44.28%
+
+[ DOGE ] Buy Threshold: 14%, Sell Threshold: 23%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 236
+The average lot time is: 179.85 days
+The average profit percentage is: 45.27%
+
+[ DOGE ] Buy Threshold: 14%, Sell Threshold: 24%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 235
+The average lot time is: 184.25 days
+The average profit percentage is: 46.73%
+
+[ DOGE ] Buy Threshold: 14%, Sell Threshold: 25%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 234
+The average lot time is: 190.09 days
+The average profit percentage is: 48.18%
+
+[ DOGE ] Buy Threshold: 15%, Sell Threshold: 10%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 244
+The average lot time is: 110.17 days
+The average profit percentage is: 28.35%
+
+[ DOGE ] Buy Threshold: 15%, Sell Threshold: 11%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 242
+The average lot time is: 120.98 days
+The average profit percentage is: 29.48%
+
+[ DOGE ] Buy Threshold: 15%, Sell Threshold: 12%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 241
+The average lot time is: 126.00 days
+The average profit percentage is: 30.72%
+
+[ DOGE ] Buy Threshold: 15%, Sell Threshold: 13%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 241
+The average lot time is: 131.83 days
+The average profit percentage is: 31.88%
+
+[ DOGE ] Buy Threshold: 15%, Sell Threshold: 14%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 241
+The average lot time is: 142.12 days
+The average profit percentage is: 34.12%
+
+[ DOGE ] Buy Threshold: 15%, Sell Threshold: 15%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 241
+The average lot time is: 145.94 days
+The average profit percentage is: 35.00%
+
+[ DOGE ] Buy Threshold: 15%, Sell Threshold: 16%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 241
+The average lot time is: 146.51 days
+The average profit percentage is: 35.63%
+
+[ DOGE ] Buy Threshold: 15%, Sell Threshold: 17%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 240
+The average lot time is: 151.70 days
+The average profit percentage is: 38.07%
+
+[ DOGE ] Buy Threshold: 15%, Sell Threshold: 18%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 238
+The average lot time is: 157.59 days
+The average profit percentage is: 39.60%
+
+[ DOGE ] Buy Threshold: 15%, Sell Threshold: 19%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 237
+The average lot time is: 158.54 days
+The average profit percentage is: 40.26%
+
+[ DOGE ] Buy Threshold: 15%, Sell Threshold: 20%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 237
+The average lot time is: 160.05 days
+The average profit percentage is: 41.61%
+
+[ DOGE ] Buy Threshold: 15%, Sell Threshold: 21%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 237
+The average lot time is: 164.11 days
+The average profit percentage is: 42.98%
+
+[ DOGE ] Buy Threshold: 15%, Sell Threshold: 22%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 237
+The average lot time is: 178.06 days
+The average profit percentage is: 44.28%
+
+[ DOGE ] Buy Threshold: 15%, Sell Threshold: 23%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 236
+The average lot time is: 179.85 days
+The average profit percentage is: 45.27%
+
+[ DOGE ] Buy Threshold: 15%, Sell Threshold: 24%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 235
+The average lot time is: 184.25 days
+The average profit percentage is: 46.73%
+
+[ DOGE ] Buy Threshold: 15%, Sell Threshold: 25%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 234
+The average lot time is: 190.09 days
+The average profit percentage is: 48.18%
+
+[ DOGE ] Buy Threshold: 16%, Sell Threshold: 10%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 244
+The average lot time is: 110.17 days
+The average profit percentage is: 28.35%
+
+[ DOGE ] Buy Threshold: 16%, Sell Threshold: 11%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 242
+The average lot time is: 120.98 days
+The average profit percentage is: 29.48%
+
+[ DOGE ] Buy Threshold: 16%, Sell Threshold: 12%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 241
+The average lot time is: 126.00 days
+The average profit percentage is: 30.72%
+
+[ DOGE ] Buy Threshold: 16%, Sell Threshold: 13%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 241
+The average lot time is: 131.83 days
+The average profit percentage is: 31.88%
+
+[ DOGE ] Buy Threshold: 16%, Sell Threshold: 14%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 241
+The average lot time is: 142.12 days
+The average profit percentage is: 34.12%
+
+[ DOGE ] Buy Threshold: 16%, Sell Threshold: 15%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 241
+The average lot time is: 145.94 days
+The average profit percentage is: 35.00%
+
+[ DOGE ] Buy Threshold: 16%, Sell Threshold: 16%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 241
+The average lot time is: 146.51 days
+The average profit percentage is: 35.63%
+
+[ DOGE ] Buy Threshold: 16%, Sell Threshold: 17%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 240
+The average lot time is: 151.70 days
+The average profit percentage is: 38.07%
+
+[ DOGE ] Buy Threshold: 16%, Sell Threshold: 18%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 238
+The average lot time is: 157.59 days
+The average profit percentage is: 39.60%
+
+[ DOGE ] Buy Threshold: 16%, Sell Threshold: 19%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 237
+The average lot time is: 158.54 days
+The average profit percentage is: 40.26%
+
+[ DOGE ] Buy Threshold: 16%, Sell Threshold: 20%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 237
+The average lot time is: 160.05 days
+The average profit percentage is: 41.61%
+
+[ DOGE ] Buy Threshold: 16%, Sell Threshold: 21%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 237
+The average lot time is: 164.11 days
+The average profit percentage is: 42.98%
+
+[ DOGE ] Buy Threshold: 16%, Sell Threshold: 22%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 237
+The average lot time is: 178.06 days
+The average profit percentage is: 44.28%
+
+[ DOGE ] Buy Threshold: 16%, Sell Threshold: 23%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 236
+The average lot time is: 179.85 days
+The average profit percentage is: 45.27%
+
+[ DOGE ] Buy Threshold: 16%, Sell Threshold: 24%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 235
+The average lot time is: 184.25 days
+The average profit percentage is: 46.73%
+
+[ DOGE ] Buy Threshold: 16%, Sell Threshold: 25%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 234
+The average lot time is: 190.09 days
+The average profit percentage is: 48.18%
+
+[ DOGE ] Buy Threshold: 17%, Sell Threshold: 10%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 244
+The average lot time is: 110.17 days
+The average profit percentage is: 28.35%
+
+[ DOGE ] Buy Threshold: 17%, Sell Threshold: 11%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 242
+The average lot time is: 120.98 days
+The average profit percentage is: 29.48%
+
+[ DOGE ] Buy Threshold: 17%, Sell Threshold: 12%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 241
+The average lot time is: 126.00 days
+The average profit percentage is: 30.72%
+
+[ DOGE ] Buy Threshold: 17%, Sell Threshold: 13%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 241
+The average lot time is: 131.83 days
+The average profit percentage is: 31.88%
+
+[ DOGE ] Buy Threshold: 17%, Sell Threshold: 14%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 241
+The average lot time is: 142.12 days
+The average profit percentage is: 34.12%
+
+[ DOGE ] Buy Threshold: 17%, Sell Threshold: 15%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 241
+The average lot time is: 145.94 days
+The average profit percentage is: 35.00%
+
+[ DOGE ] Buy Threshold: 17%, Sell Threshold: 16%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 241
+The average lot time is: 146.51 days
+The average profit percentage is: 35.63%
+
+[ DOGE ] Buy Threshold: 17%, Sell Threshold: 17%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 240
+The average lot time is: 151.70 days
+The average profit percentage is: 38.07%
+
+[ DOGE ] Buy Threshold: 17%, Sell Threshold: 18%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 238
+The average lot time is: 157.59 days
+The average profit percentage is: 39.60%
+
+[ DOGE ] Buy Threshold: 17%, Sell Threshold: 19%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 237
+The average lot time is: 158.54 days
+The average profit percentage is: 40.26%
+
+[ DOGE ] Buy Threshold: 17%, Sell Threshold: 20%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 237
+The average lot time is: 160.05 days
+The average profit percentage is: 41.61%
+
+[ DOGE ] Buy Threshold: 17%, Sell Threshold: 21%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 237
+The average lot time is: 164.11 days
+The average profit percentage is: 42.98%
+
+[ DOGE ] Buy Threshold: 17%, Sell Threshold: 22%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 237
+The average lot time is: 178.06 days
+The average profit percentage is: 44.28%
+
+[ DOGE ] Buy Threshold: 17%, Sell Threshold: 23%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 236
+The average lot time is: 179.85 days
+The average profit percentage is: 45.27%
+
+[ DOGE ] Buy Threshold: 17%, Sell Threshold: 24%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 235
+The average lot time is: 184.25 days
+The average profit percentage is: 46.73%
+
+[ DOGE ] Buy Threshold: 17%, Sell Threshold: 25%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 234
+The average lot time is: 190.09 days
+The average profit percentage is: 48.18%
+
+[ DOGE ] Buy Threshold: 18%, Sell Threshold: 10%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 244
+The average lot time is: 110.17 days
+The average profit percentage is: 28.35%
+
+[ DOGE ] Buy Threshold: 18%, Sell Threshold: 11%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 242
+The average lot time is: 120.98 days
+The average profit percentage is: 29.48%
+
+[ DOGE ] Buy Threshold: 18%, Sell Threshold: 12%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 241
+The average lot time is: 126.00 days
+The average profit percentage is: 30.72%
+
+[ DOGE ] Buy Threshold: 18%, Sell Threshold: 13%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 241
+The average lot time is: 131.83 days
+The average profit percentage is: 31.88%
+
+[ DOGE ] Buy Threshold: 18%, Sell Threshold: 14%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 241
+The average lot time is: 142.12 days
+The average profit percentage is: 34.12%
+
+[ DOGE ] Buy Threshold: 18%, Sell Threshold: 15%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 241
+The average lot time is: 145.94 days
+The average profit percentage is: 35.00%
+
+[ DOGE ] Buy Threshold: 18%, Sell Threshold: 16%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 241
+The average lot time is: 146.51 days
+The average profit percentage is: 35.63%
+
+[ DOGE ] Buy Threshold: 18%, Sell Threshold: 17%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 240
+The average lot time is: 151.70 days
+The average profit percentage is: 38.07%
+
+[ DOGE ] Buy Threshold: 18%, Sell Threshold: 18%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 238
+The average lot time is: 157.59 days
+The average profit percentage is: 39.60%
+
+[ DOGE ] Buy Threshold: 18%, Sell Threshold: 19%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 237
+The average lot time is: 158.54 days
+The average profit percentage is: 40.26%
+
+[ DOGE ] Buy Threshold: 18%, Sell Threshold: 20%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 237
+The average lot time is: 160.05 days
+The average profit percentage is: 41.61%
+
+[ DOGE ] Buy Threshold: 18%, Sell Threshold: 21%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 237
+The average lot time is: 164.11 days
+The average profit percentage is: 42.98%
+
+[ DOGE ] Buy Threshold: 18%, Sell Threshold: 22%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 237
+The average lot time is: 178.06 days
+The average profit percentage is: 44.28%
+
+[ DOGE ] Buy Threshold: 18%, Sell Threshold: 23%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 236
+The average lot time is: 179.85 days
+The average profit percentage is: 45.27%
+
+[ DOGE ] Buy Threshold: 18%, Sell Threshold: 24%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 235
+The average lot time is: 184.25 days
+The average profit percentage is: 46.73%
+
+[ DOGE ] Buy Threshold: 18%, Sell Threshold: 25%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 234
+The average lot time is: 190.09 days
+The average profit percentage is: 48.18%
+
+[ DOGE ] Buy Threshold: 19%, Sell Threshold: 10%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 244
+The average lot time is: 110.17 days
+The average profit percentage is: 28.35%
+
+[ DOGE ] Buy Threshold: 19%, Sell Threshold: 11%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 242
+The average lot time is: 120.98 days
+The average profit percentage is: 29.48%
+
+[ DOGE ] Buy Threshold: 19%, Sell Threshold: 12%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 241
+The average lot time is: 126.00 days
+The average profit percentage is: 30.72%
+
+[ DOGE ] Buy Threshold: 19%, Sell Threshold: 13%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 241
+The average lot time is: 131.83 days
+The average profit percentage is: 31.88%
+
+[ DOGE ] Buy Threshold: 19%, Sell Threshold: 14%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 241
+The average lot time is: 142.12 days
+The average profit percentage is: 34.12%
+
+[ DOGE ] Buy Threshold: 19%, Sell Threshold: 15%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 241
+The average lot time is: 145.94 days
+The average profit percentage is: 35.00%
+
+[ DOGE ] Buy Threshold: 19%, Sell Threshold: 16%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 241
+The average lot time is: 146.51 days
+The average profit percentage is: 35.63%
+
+[ DOGE ] Buy Threshold: 19%, Sell Threshold: 17%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 240
+The average lot time is: 151.70 days
+The average profit percentage is: 38.07%
+
+[ DOGE ] Buy Threshold: 19%, Sell Threshold: 18%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 238
+The average lot time is: 157.59 days
+The average profit percentage is: 39.60%
+
+[ DOGE ] Buy Threshold: 19%, Sell Threshold: 19%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 237
+The average lot time is: 158.54 days
+The average profit percentage is: 40.26%
+
+[ DOGE ] Buy Threshold: 19%, Sell Threshold: 20%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 237
+The average lot time is: 160.05 days
+The average profit percentage is: 41.61%
+
+[ DOGE ] Buy Threshold: 19%, Sell Threshold: 21%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 237
+The average lot time is: 164.11 days
+The average profit percentage is: 42.98%
+
+[ DOGE ] Buy Threshold: 19%, Sell Threshold: 22%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 237
+The average lot time is: 178.06 days
+The average profit percentage is: 44.28%
+
+[ DOGE ] Buy Threshold: 19%, Sell Threshold: 23%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 236
+The average lot time is: 179.85 days
+The average profit percentage is: 45.27%
+
+[ DOGE ] Buy Threshold: 19%, Sell Threshold: 24%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 235
+The average lot time is: 184.25 days
+The average profit percentage is: 46.73%
+
+[ DOGE ] Buy Threshold: 19%, Sell Threshold: 25%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 234
+The average lot time is: 190.09 days
+The average profit percentage is: 48.18%
+
+[ DOGE ] Buy Threshold: 20%, Sell Threshold: 10%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 244
+The average lot time is: 110.17 days
+The average profit percentage is: 28.35%
+
+[ DOGE ] Buy Threshold: 20%, Sell Threshold: 11%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 242
+The average lot time is: 120.98 days
+The average profit percentage is: 29.48%
+
+[ DOGE ] Buy Threshold: 20%, Sell Threshold: 12%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 241
+The average lot time is: 126.00 days
+The average profit percentage is: 30.72%
+
+[ DOGE ] Buy Threshold: 20%, Sell Threshold: 13%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 241
+The average lot time is: 131.83 days
+The average profit percentage is: 31.88%
+
+[ DOGE ] Buy Threshold: 20%, Sell Threshold: 14%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 241
+The average lot time is: 142.12 days
+The average profit percentage is: 34.12%
+
+[ DOGE ] Buy Threshold: 20%, Sell Threshold: 15%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 241
+The average lot time is: 145.94 days
+The average profit percentage is: 35.00%
+
+[ DOGE ] Buy Threshold: 20%, Sell Threshold: 16%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 241
+The average lot time is: 146.51 days
+The average profit percentage is: 35.63%
+
+[ DOGE ] Buy Threshold: 20%, Sell Threshold: 17%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 240
+The average lot time is: 151.70 days
+The average profit percentage is: 38.07%
+
+[ DOGE ] Buy Threshold: 20%, Sell Threshold: 18%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 238
+The average lot time is: 157.59 days
+The average profit percentage is: 39.60%
+
+[ DOGE ] Buy Threshold: 20%, Sell Threshold: 19%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 237
+The average lot time is: 158.54 days
+The average profit percentage is: 40.26%
+
+[ DOGE ] Buy Threshold: 20%, Sell Threshold: 20%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 237
+The average lot time is: 160.05 days
+The average profit percentage is: 41.61%
+
+[ DOGE ] Buy Threshold: 20%, Sell Threshold: 21%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 237
+The average lot time is: 164.11 days
+The average profit percentage is: 42.98%
+
+[ DOGE ] Buy Threshold: 20%, Sell Threshold: 22%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 237
+The average lot time is: 178.06 days
+The average profit percentage is: 44.28%
+
+[ DOGE ] Buy Threshold: 20%, Sell Threshold: 23%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 236
+The average lot time is: 179.85 days
+The average profit percentage is: 45.27%
+
+[ DOGE ] Buy Threshold: 20%, Sell Threshold: 24%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 235
+The average lot time is: 184.25 days
+The average profit percentage is: 46.73%
+
+[ DOGE ] Buy Threshold: 20%, Sell Threshold: 25%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 234
+The average lot time is: 190.09 days
+The average profit percentage is: 48.18%
+
+[ DOGE ] Buy Threshold: 21%, Sell Threshold: 10%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 244
+The average lot time is: 110.17 days
+The average profit percentage is: 28.35%
+
+[ DOGE ] Buy Threshold: 21%, Sell Threshold: 11%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 242
+The average lot time is: 120.98 days
+The average profit percentage is: 29.48%
+
+[ DOGE ] Buy Threshold: 21%, Sell Threshold: 12%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 241
+The average lot time is: 126.00 days
+The average profit percentage is: 30.72%
+
+[ DOGE ] Buy Threshold: 21%, Sell Threshold: 13%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 241
+The average lot time is: 131.83 days
+The average profit percentage is: 31.88%
+
+[ DOGE ] Buy Threshold: 21%, Sell Threshold: 14%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 241
+The average lot time is: 142.12 days
+The average profit percentage is: 34.12%
+
+[ DOGE ] Buy Threshold: 21%, Sell Threshold: 15%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 241
+The average lot time is: 145.94 days
+The average profit percentage is: 35.00%
+
+[ DOGE ] Buy Threshold: 21%, Sell Threshold: 16%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 241
+The average lot time is: 146.51 days
+The average profit percentage is: 35.63%
+
+[ DOGE ] Buy Threshold: 21%, Sell Threshold: 17%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 240
+The average lot time is: 151.70 days
+The average profit percentage is: 38.07%
+
+[ DOGE ] Buy Threshold: 21%, Sell Threshold: 18%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 238
+The average lot time is: 157.59 days
+The average profit percentage is: 39.60%
+
+[ DOGE ] Buy Threshold: 21%, Sell Threshold: 19%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 237
+The average lot time is: 158.54 days
+The average profit percentage is: 40.26%
+
+[ DOGE ] Buy Threshold: 21%, Sell Threshold: 20%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 237
+The average lot time is: 160.05 days
+The average profit percentage is: 41.61%
+
+[ DOGE ] Buy Threshold: 21%, Sell Threshold: 21%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 237
+The average lot time is: 164.11 days
+The average profit percentage is: 42.98%
+
+[ DOGE ] Buy Threshold: 21%, Sell Threshold: 22%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 237
+The average lot time is: 178.06 days
+The average profit percentage is: 44.28%
+
+[ DOGE ] Buy Threshold: 21%, Sell Threshold: 23%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 236
+The average lot time is: 179.85 days
+The average profit percentage is: 45.27%
+
+[ DOGE ] Buy Threshold: 21%, Sell Threshold: 24%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 235
+The average lot time is: 184.25 days
+The average profit percentage is: 46.73%
+
+[ DOGE ] Buy Threshold: 21%, Sell Threshold: 25%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 234
+The average lot time is: 190.09 days
+The average profit percentage is: 48.18%
+
+[ DOGE ] Buy Threshold: 22%, Sell Threshold: 10%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 244
+The average lot time is: 110.17 days
+The average profit percentage is: 28.35%
+
+[ DOGE ] Buy Threshold: 22%, Sell Threshold: 11%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 242
+The average lot time is: 120.98 days
+The average profit percentage is: 29.48%
+
+[ DOGE ] Buy Threshold: 22%, Sell Threshold: 12%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 241
+The average lot time is: 126.00 days
+The average profit percentage is: 30.72%
+
+[ DOGE ] Buy Threshold: 22%, Sell Threshold: 13%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 241
+The average lot time is: 131.83 days
+The average profit percentage is: 31.88%
+
+[ DOGE ] Buy Threshold: 22%, Sell Threshold: 14%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 241
+The average lot time is: 142.12 days
+The average profit percentage is: 34.12%
+
+[ DOGE ] Buy Threshold: 22%, Sell Threshold: 15%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 241
+The average lot time is: 145.94 days
+The average profit percentage is: 35.00%
+
+[ DOGE ] Buy Threshold: 22%, Sell Threshold: 16%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 241
+The average lot time is: 146.51 days
+The average profit percentage is: 35.63%
+
+[ DOGE ] Buy Threshold: 22%, Sell Threshold: 17%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 240
+The average lot time is: 151.70 days
+The average profit percentage is: 38.07%
+
+[ DOGE ] Buy Threshold: 22%, Sell Threshold: 18%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 238
+The average lot time is: 157.59 days
+The average profit percentage is: 39.60%
+
+[ DOGE ] Buy Threshold: 22%, Sell Threshold: 19%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 237
+The average lot time is: 158.54 days
+The average profit percentage is: 40.26%
+
+[ DOGE ] Buy Threshold: 22%, Sell Threshold: 20%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 237
+The average lot time is: 160.05 days
+The average profit percentage is: 41.61%
+
+[ DOGE ] Buy Threshold: 22%, Sell Threshold: 21%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 237
+The average lot time is: 164.11 days
+The average profit percentage is: 42.98%
+
+[ DOGE ] Buy Threshold: 22%, Sell Threshold: 22%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 237
+The average lot time is: 178.06 days
+The average profit percentage is: 44.28%
+
+[ DOGE ] Buy Threshold: 22%, Sell Threshold: 23%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 236
+The average lot time is: 179.85 days
+The average profit percentage is: 45.27%
+
+[ DOGE ] Buy Threshold: 22%, Sell Threshold: 24%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 235
+The average lot time is: 184.25 days
+The average profit percentage is: 46.73%
+
+[ DOGE ] Buy Threshold: 22%, Sell Threshold: 25%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 234
+The average lot time is: 190.09 days
+The average profit percentage is: 48.18%
+
+[ DOGE ] Buy Threshold: 23%, Sell Threshold: 10%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 244
+The average lot time is: 110.17 days
+The average profit percentage is: 28.35%
+
+[ DOGE ] Buy Threshold: 23%, Sell Threshold: 11%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 242
+The average lot time is: 120.98 days
+The average profit percentage is: 29.48%
+
+[ DOGE ] Buy Threshold: 23%, Sell Threshold: 12%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 241
+The average lot time is: 126.00 days
+The average profit percentage is: 30.72%
+
+[ DOGE ] Buy Threshold: 23%, Sell Threshold: 13%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 241
+The average lot time is: 131.83 days
+The average profit percentage is: 31.88%
+
+[ DOGE ] Buy Threshold: 23%, Sell Threshold: 14%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 241
+The average lot time is: 142.12 days
+The average profit percentage is: 34.12%
+
+[ DOGE ] Buy Threshold: 23%, Sell Threshold: 15%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 241
+The average lot time is: 145.94 days
+The average profit percentage is: 35.00%
+
+[ DOGE ] Buy Threshold: 23%, Sell Threshold: 16%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 241
+The average lot time is: 146.51 days
+The average profit percentage is: 35.63%
+
+[ DOGE ] Buy Threshold: 23%, Sell Threshold: 17%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 240
+The average lot time is: 151.70 days
+The average profit percentage is: 38.07%
+
+[ DOGE ] Buy Threshold: 23%, Sell Threshold: 18%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 238
+The average lot time is: 157.59 days
+The average profit percentage is: 39.60%
+
+[ DOGE ] Buy Threshold: 23%, Sell Threshold: 19%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 237
+The average lot time is: 158.54 days
+The average profit percentage is: 40.26%
+
+[ DOGE ] Buy Threshold: 23%, Sell Threshold: 20%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 237
+The average lot time is: 160.05 days
+The average profit percentage is: 41.61%
+
+[ DOGE ] Buy Threshold: 23%, Sell Threshold: 21%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 237
+The average lot time is: 164.11 days
+The average profit percentage is: 42.98%
+
+[ DOGE ] Buy Threshold: 23%, Sell Threshold: 22%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 237
+The average lot time is: 178.06 days
+The average profit percentage is: 44.28%
+
+[ DOGE ] Buy Threshold: 23%, Sell Threshold: 23%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 236
+The average lot time is: 179.85 days
+The average profit percentage is: 45.27%
+
+[ DOGE ] Buy Threshold: 23%, Sell Threshold: 24%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 235
+The average lot time is: 184.25 days
+The average profit percentage is: 46.73%
+
+[ DOGE ] Buy Threshold: 23%, Sell Threshold: 25%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 234
+The average lot time is: 190.09 days
+The average profit percentage is: 48.18%
+
+[ DOGE ] Buy Threshold: 24%, Sell Threshold: 10%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 244
+The average lot time is: 110.17 days
+The average profit percentage is: 28.35%
+
+[ DOGE ] Buy Threshold: 24%, Sell Threshold: 11%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 242
+The average lot time is: 120.98 days
+The average profit percentage is: 29.48%
+
+[ DOGE ] Buy Threshold: 24%, Sell Threshold: 12%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 241
+The average lot time is: 126.00 days
+The average profit percentage is: 30.72%
+
+[ DOGE ] Buy Threshold: 24%, Sell Threshold: 13%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 241
+The average lot time is: 131.83 days
+The average profit percentage is: 31.88%
+
+[ DOGE ] Buy Threshold: 24%, Sell Threshold: 14%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 241
+The average lot time is: 142.12 days
+The average profit percentage is: 34.12%
+
+[ DOGE ] Buy Threshold: 24%, Sell Threshold: 15%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 241
+The average lot time is: 145.94 days
+The average profit percentage is: 35.00%
+
+[ DOGE ] Buy Threshold: 24%, Sell Threshold: 16%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 241
+The average lot time is: 146.51 days
+The average profit percentage is: 35.63%
+
+[ DOGE ] Buy Threshold: 24%, Sell Threshold: 17%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 240
+The average lot time is: 151.70 days
+The average profit percentage is: 38.07%
+
+[ DOGE ] Buy Threshold: 24%, Sell Threshold: 18%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 238
+The average lot time is: 157.59 days
+The average profit percentage is: 39.60%
+
+[ DOGE ] Buy Threshold: 24%, Sell Threshold: 19%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 237
+The average lot time is: 158.54 days
+The average profit percentage is: 40.26%
+
+[ DOGE ] Buy Threshold: 24%, Sell Threshold: 20%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 237
+The average lot time is: 160.05 days
+The average profit percentage is: 41.61%
+
+[ DOGE ] Buy Threshold: 24%, Sell Threshold: 21%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 237
+The average lot time is: 164.11 days
+The average profit percentage is: 42.98%
+
+[ DOGE ] Buy Threshold: 24%, Sell Threshold: 22%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 237
+The average lot time is: 178.06 days
+The average profit percentage is: 44.28%
+
+[ DOGE ] Buy Threshold: 24%, Sell Threshold: 23%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 236
+The average lot time is: 179.85 days
+The average profit percentage is: 45.27%
+
+[ DOGE ] Buy Threshold: 24%, Sell Threshold: 24%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 235
+The average lot time is: 184.25 days
+The average profit percentage is: 46.73%
+
+[ DOGE ] Buy Threshold: 24%, Sell Threshold: 25%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 234
+The average lot time is: 190.09 days
+The average profit percentage is: 48.18%
+
+[ DOGE ] Buy Threshold: 25%, Sell Threshold: 10%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 244
+The average lot time is: 110.17 days
+The average profit percentage is: 28.35%
+
+[ DOGE ] Buy Threshold: 25%, Sell Threshold: 11%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 242
+The average lot time is: 120.98 days
+The average profit percentage is: 29.48%
+
+[ DOGE ] Buy Threshold: 25%, Sell Threshold: 12%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 241
+The average lot time is: 126.00 days
+The average profit percentage is: 30.72%
+
+[ DOGE ] Buy Threshold: 25%, Sell Threshold: 13%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 241
+The average lot time is: 131.83 days
+The average profit percentage is: 31.88%
+
+[ DOGE ] Buy Threshold: 25%, Sell Threshold: 14%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 241
+The average lot time is: 142.12 days
+The average profit percentage is: 34.12%
+
+[ DOGE ] Buy Threshold: 25%, Sell Threshold: 15%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 241
+The average lot time is: 145.94 days
+The average profit percentage is: 35.00%
+
+[ DOGE ] Buy Threshold: 25%, Sell Threshold: 16%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 241
+The average lot time is: 146.51 days
+The average profit percentage is: 35.63%
+
+[ DOGE ] Buy Threshold: 25%, Sell Threshold: 17%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 240
+The average lot time is: 151.70 days
+The average profit percentage is: 38.07%
+
+[ DOGE ] Buy Threshold: 25%, Sell Threshold: 18%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 238
+The average lot time is: 157.59 days
+The average profit percentage is: 39.60%
+
+[ DOGE ] Buy Threshold: 25%, Sell Threshold: 19%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 237
+The average lot time is: 158.54 days
+The average profit percentage is: 40.26%
+
+[ DOGE ] Buy Threshold: 25%, Sell Threshold: 20%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 237
+The average lot time is: 160.05 days
+The average profit percentage is: 41.61%
+
+[ DOGE ] Buy Threshold: 25%, Sell Threshold: 21%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 237
+The average lot time is: 164.11 days
+The average profit percentage is: 42.98%
+
+[ DOGE ] Buy Threshold: 25%, Sell Threshold: 22%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 237
+The average lot time is: 178.06 days
+The average profit percentage is: 44.28%
+
+[ DOGE ] Buy Threshold: 25%, Sell Threshold: 23%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 236
+The average lot time is: 179.85 days
+The average profit percentage is: 45.27%
+
+[ DOGE ] Buy Threshold: 25%, Sell Threshold: 24%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 235
+The average lot time is: 184.25 days
+The average profit percentage is: 46.73%
+
+[ DOGE ] Buy Threshold: 25%, Sell Threshold: 25%
+Number of 24-hour windows with at least 5% price drop: 261
+The average drop window percentage is: -9.18%
+Number of successful sell events: 234
+The average lot time is: 190.09 days
+The average profit percentage is: 48.18%
+

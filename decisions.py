@@ -89,6 +89,20 @@ class Decision():
         return self.uuid
 
 
+class SkipDecision(Decision):
+
+    def __init__(
+            self,
+            context: DecisionContext,
+            reason: str):
+        super().__init__(DecisionType.SKIP, context)
+        self.reason = reason
+
+    @property
+    def action(self):
+        return DecisionType.SKIP.value
+
+
 class BuyDecision(Decision):
 
     def __init__(
