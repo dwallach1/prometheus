@@ -457,15 +457,14 @@ def parse_config(cb_accounts) -> [Asset]:
         account = next((account for account in cb_accounts if account["currency"] == asset["symbol"]), None)
         if account is None:
             raise Exception(f"❌ could not find account for {asset['symbol']}")
-
         asset = Asset(
-            asset["name"],
-            asset["symbol"],
-            account["uuid"],
-            float(asset["amount_to_buy_usd"]),
-            float(asset["buy_price_percentage_change_threshold"]),
-            float(asset["sell_price_percentage_change_threshold"]),
-            float(asset["max_open_buys"])
+            name=asset["name"],
+            asset=asset["symbol"],
+            account_id=account["uuid"],
+            amount_to_buy=float(asset["buy_amount_usd"]),
+            buy_price_percentage_change_threshold=float(asset["buy_threshold"]),
+            sell_price_percentage_change_threshold=float(asset["sell_threshold"]),
+            max_open_buys=float(asset["max_open_buys"])
         )
         assets.append(asset)
         print(f"sucessfully loaded asset config {asset.name} (${asset.symbol})")

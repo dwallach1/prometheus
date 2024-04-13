@@ -3,58 +3,85 @@
         {
             "name": "Bitcoin",
             "symbol": "BTC",
-            "amount_to_buy_usd": 500,
-            "buy_price_percentage_change_threshold": -5.0,
-            "sell_price_percentage_change_threshold": 12.0,
-            "max_open_buys": 5
+            "buy_amount_usd": 500,
+            "buy_threshold": -5.0,
+            "sell_threshold": 12.0,
+            "max_open_buys": 5,
+            "buy_strategy": {
+                "candle_size": "ONE_HOUR",
+                "green_candles_in_a_row": 1
+            },
+            "sell_strategy": {
+                "type": "MAXIMIZE_PROFIT",
+                "MAXIMIZE_PROFIT": {
+                    "candle_size": "ONE_HOUR",
+                    "red_candles_in_a_row": 1
+                }
+            }
         },
         {
             "name": "Ethereum",
             "symbol": "ETH",
-            "amount_to_buy_usd": 500,
-            "buy_price_percentage_change_threshold": -5.0,
-            "sell_price_percentage_change_threshold": 12.0,
+            "buy_amount_usd": 500,
+            "buy_threshold": -5.0,
+            "sell_threshold": 12.0,
             "max_open_buys": 5
         },
         {
             "name": "Solana",
             "symbol": "SOL",
-            "amount_to_buy_usd": 500,
-            "buy_price_percentage_change_threshold": -5.0,
-            "sell_price_percentage_change_threshold": 12.0,
+            "buy_amount_usd": 200,
+            "buy_threshold": -5.0,
+            "sell_threshold": 12.0,
             "max_open_buys": 5
         },
         {
             "name": "Algorand",
             "symbol": "ALGO",
-            "amount_to_buy_usd": 100,
-            "buy_price_percentage_change_threshold": -5.0,
-            "sell_price_percentage_change_threshold": 12.0,
+            "buy_amount_usd": 100,
+            "buy_threshold": -5.0,
+            "sell_threshold": 12.0,
             "max_open_buys": 1
         },
         {
             "name": "Polygon",
             "symbol": "MATIC",
-            "amount_to_buy_usd": 100,
-            "buy_price_percentage_change_threshold": -5.0,
-            "sell_price_percentage_change_threshold": 12.0,
+            "buy_amount_usd": 100,
+            "buy_threshold": -5.0,
+            "sell_threshold": 12.0,
             "max_open_buys": 1
         },
         {
             "name": "Cardano",
             "symbol": "ADA",
-            "amount_to_buy_usd": 100,
-            "buy_price_percentage_change_threshold": -5.0,
-            "sell_price_percentage_change_threshold": 12.0,
-            "max_open_buys": 1
+            "buy_amount_usd": 100,
+            "buy_threshold": -5.0,
+            "sell_threshold": 12.0,
+            "max_open_buys": 1,
+            "buy_strategy": {
+                "candle_size": "ONE_HOUR",
+                "green_candles_in_a_row": 2
+            },
+            "sell_strategy": {
+                "type": "IMMEDIATE_SELL",
+                "IMMEDIATE_SELL": {}
+            }
         },
         {
             "name": "Chainlink",
             "symbol": "LINK",
-            "amount_to_buy_usd": 100,
-            "buy_price_percentage_change_threshold": -5.0,
-            "sell_price_percentage_change_threshold": 12.0,
+            "buy_amount_usd": 100,
+            "buy_threshold": -5.0,
+            "sell_threshold": 12.0,
             "max_open_buys": 1
         }
-    ]
+    ],
+    "database_config": {
+        "type": "MONGO",
+        "MONGO": {
+            "name": "main",
+            "decisions_collection": "decisions",
+            "price_collection": "current_prices"
+        }
+    }
 }
