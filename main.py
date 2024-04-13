@@ -377,7 +377,7 @@ class DecisionMaker():
             self.logger.warning("preview order total too high: {preview_order_total}")
             errors.append("preview order total too high")
             successful = False
-        
+
         value = float(preview_order["quote_size"])
         amount = float(preview_order["base_size"])
 

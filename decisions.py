@@ -21,6 +21,7 @@ class DecisionType(Enum):
 
 class DecisionContext:
     """ """
+
     def __init__(self,
                  enviorment: Enviorment,
                  price: float,
@@ -62,13 +63,14 @@ class DecisionContext:
 
     def get_price(self):
         return self.price
-    
+
     def should_buy(self):
         return self.price_change_check and self.buy_buffer_check and self.open_buy_check
-    
+
 
 class Decision():
     """ """
+
     def __init__(self, decision_type: DecisionType, context: DecisionContext):
         self.decision_type = decision_type
         self.context = context

@@ -4,3 +4,4 @@ __pycache__/
 fly.toml
 .DS_Store
 **/*.ndjson
+.vscode/
