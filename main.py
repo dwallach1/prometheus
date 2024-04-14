@@ -9,7 +9,7 @@ from pymongo.mongo_client import MongoClient
 from datetime import datetime, timedelta
 import uuid
 from decisions import Decision, DecisionType, Enviorment, BestMatchBelowThresholdDecision, BuyDecision, SellDecision, DecisionContext, SkipDecision
-from assets import Asset
+from assets import Asset, MaximizeProfitSellStrategy, ImmediateSellStrategy, BuyTheDipStrategy
 import threading
 import signal
 
@@ -168,7 +168,7 @@ class DecisionMaker():
 
         # CHECK BUY CONDITIONS
         if context.should_buy() and has_enough_buying_power:
-            buy_decision = self.find_bottom_of_dip_and_buy()
+            buy_decision = self.initiate_buy_strategy()
             if buy_decision is not None:
                 decisions.append(buy_decision)
         else:
@@ -257,7 +257,7 @@ class DecisionMaker():
         time_delta = now - last_decision_timestamp
         return time_delta.total_seconds() > BUY_BUFFER
 
-    def find_bottom_of_dip_and_buy(self) -> float:
+    def initiate_buy_strategy(self) -> float:
         watch_dog_start = datetime.utcnow()
         self.logger.info("🔍 Potential buy option found, finding the bottom of the dip")
         last_candle_check = datetime.utcnow() - timedelta(minutes=10)
@@ -275,26 +275,13 @@ class DecisionMaker():
             if len(candles) == 0:
                 self.logger.warn("no candles found, bailing on buy decision")
                 return None
-            green_count = 0
-            for candle in candles:
-                candle_time = datetime.utcfromtimestamp(int(candle['start']))
-                candle_date = candle_time.strftime("%Y-%m-%d %H:%M:%S")
-                is_green = candle["close"] > candle["open"]
-                if is_green:
-                    self.logger.info(f"found green candle at {candle_date}")
-                    green_count += 1
-                else:
-                    break
-            self.logger.info(f"found {green_count} green candles in a row")
-            if green_count >= MIN_GREEN_CANDLES_FOR_RECOVERY:
-                self.logger.info("recovery detected, placing buy order")
-                # check that the price is still below the threshold
-                # do this buy getting the context agani
+            if self.buy_strategy.should_buy(self.logger, candles):
                 context = self.get_decision_context()
                 if context.should_buy():
                     return self.place_buy_order(context)
                 self.logger.warning("context has changed and no longer meets buy criterea, bailing on buy decision")
                 return None
+            self.logger.info("buy strategy has not been met, waiting for recovery candles...")
             time.sleep(THREAD_SLEEP_TIME)
         if not self.running:
             self.logger.warning("recieved stop signal, bailing on buy decision")
@@ -453,21 +440,41 @@ def parse_config(cb_accounts) -> [Asset]:
         data = json.load(file)
     print("lodaded config ➡️ ", json.dumps(data))
     assets = []
-    for asset in data["assets"]:
+    for asset_config in data["assets"]:
         account = next((account for account in cb_accounts if account["currency"] == asset["symbol"]), None)
         if account is None:
             raise Exception(f"❌ could not find account for {asset['symbol']}")
-        asset = Asset(
-            name=asset["name"],
-            symbol=asset["symbol"],
-            account_id=account["uuid"],
-            amount_to_buy=float(asset["buy_amount_usd"]),
-            buy_price_percentage_change_threshold=float(asset["buy_threshold"]),
-            sell_price_percentage_change_threshold=float(asset["sell_threshold"]),
-            max_open_buys=float(asset["max_open_buys"])
-        )
-        assets.append(asset)
-        print(f"sucessfully loaded asset config {asset.name} (${asset.symbol})")
+        if asset_config.get("buy_strategy", {}).get("type") == "BUY_THE_DIP":
+            buy_strategy = BuyTheDipStrategy(
+                asset_config["buy_strategy"]["BUY_THE_DIP"]["candle_size"],
+                asset_config["buy_strategy"]["BUY_THE_DIP"]["green_candles_in_a_row"]
+            )
+        else:
+            buy_strategy = BuyTheDipStrategy(
+                candle_size="ONE_HOUR",
+                green_candles_in_a_row=1
+            )
+        if asset_config.get("sell_strategy", {}).get("type") == "MAXIMIZE_PROFIT":
+            sell_strategy = MaximizeProfitSellStrategy(
+                asset_config["sell_strategy"]["MAXIMIZE_PROFIT"]["candle_size"],
+                asset_config["sell_strategy"]["MAXIMIZE_PROFIT"]["red_candles_in_a_row"]
+            )
+
+        else:
+            sell_strategy = ImmediateSellStrategy()
+    asset = Asset(
+        name=asset_config["name"],
+        symbol=asset_config["symbol"],
+        account_id=account["uuid"],
+        amount_to_buy=float(asset_config["buy_amount_usd"]),
+        buy_price_percentage_change_threshold=float(asset_config["buy_threshold"]),
+        sell_price_percentage_change_threshold=float(asset_config["sell_threshold"]),
+        max_open_buys=float(asset_config["max_open_buys"]),
+        buy_strategy=buy_strategy,
+        sell_strategy=sell_strategy
+    )
+    assets.append(asset)
+    print(f"sucessfully loaded asset config {asset.name} (${asset.symbol})")
     return assets
 
 
@@ -534,6 +541,14 @@ def main():
 
     cb_client = RESTClient(api_key=API_KEY, api_secret=API_SECRET)
     mongo_client = MongoClient(MONGO_URI)
+
+    # now = datetime.utcnow()
+    # yesterday = now - timedelta(days=1)
+    # start = f"{int(yesterday.timestamp())}"
+    # end = f"{int(now.timestamp())}"
+    # candles = cb_client.get_candles("BTC-USD", start=start, end=end, granularity="ONE_HOUR")
+    # print("candles ➡️ ", json.dumps(candles, indent=4))
+    # return
 
     cb_accounts = get_cb_accounts(cb_client)
     cash_account = next((account for account in cb_accounts if account["currency"] == USD_SYMBOL), None)

@@ -8,8 +8,11 @@
             "sell_threshold": 12.0,
             "max_open_buys": 5,
             "buy_strategy": {
-                "candle_size": "ONE_HOUR",
-                "green_candles_in_a_row": 1
+                "type": "BUY_THE_DIP",
+                "BUY_THE_DIP": {
+                    "candle_size": "ONE_HOUR",
+                    "green_candles_in_a_row": 1
+                }
             },
             "sell_strategy": {
                 "type": "MAXIMIZE_PROFIT",
