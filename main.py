@@ -219,8 +219,8 @@ class DecisionMaker():
                     self.save_decisions_to_db([decision])
             else:
                 self.logger.info(f"found {len(to_sell)} open buy orders to sell")
-                sell_decision = self.place_sell_order(context, to_sell)
-                if sell_decision.is_successful:
+                sell_decision = self.initiate_strategy(DecisionType.SELL, to_sell)
+                if sell_decision is not None:
                     decisions.append(sell_decision)
 
         if len(decisions) == 0:
