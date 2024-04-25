@@ -1,6 +1,7 @@
 from enum import Enum
 from datetime import datetime
 import uuid
+from dataclasses import dataclass
 
 
 class Enviorment(Enum):
@@ -85,7 +86,8 @@ class Decision():
         attrs["context"] = self.context.get_attributes()
         return attrs
 
-    def uuid(self):
+    @property
+    def uuid(self) -> str:
         return self.uuid
 
 
@@ -195,3 +197,14 @@ class BestMatchBelowThresholdDecision(Decision):
     @property
     def action(self):
         return DecisionType.BEST_MATCH_BELOW_THRESHOLD.value
+
+
+@dataclass
+class BuyDecisionSummary():
+    uuid: str
+    price: float
+    amount: float
+    value: float
+
+    def get_percent_delta(self, current_price: float) -> float:
+        return ((current_price - self.price) / self.price) * 100

@@ -8,8 +8,8 @@ from dotenv import dotenv_values
 from pymongo.mongo_client import MongoClient
 from datetime import datetime, timedelta
 import uuid
-from decisions import Decision, DecisionType, Enviorment, BestMatchBelowThresholdDecision, BuyDecision, SellDecision, DecisionContext, SkipDecision
-from assets import Asset
+from decisions import Decision, DecisionType, Enviorment, BestMatchBelowThresholdDecision, BuyDecision, SellDecision, DecisionContext, SkipDecision, BuyDecisionSummary
+from assets import Asset, MaximizeProfitSellStrategy, ImmediateSellStrategy, BuyTheDipStrategy
 import threading
 import signal
 
@@ -168,7 +168,7 @@ class DecisionMaker():
 
         # CHECK BUY CONDITIONS
         if context.should_buy() and has_enough_buying_power:
-            buy_decision = self.find_bottom_of_dip_and_buy()
+            buy_decision = self.initiate_strategy(DecisionType.BUY)
             if buy_decision is not None:
                 decisions.append(buy_decision)
         else:
@@ -186,20 +186,23 @@ class DecisionMaker():
             best_match = None
             best_match_price_percent_delta = -float('inf')
             best_match_hypothetical_profit = 0
-            to_sell = []
+            to_sell: [BuyDecisionSummary] = []
             for decision in open_buy_decisions:
-                decision_price = float(decision["context"]["price"])
-                decision_amount = float(decision["amount"])
-                decision_value = float(decision["value"])
-                price_percent_delta = ((current_price - decision_price) / decision_price) * 100
+                decision_summary = BuyDecisionSummary(
+                    uuid=decision["uuid"],
+                    price=float(decision["context"]["price"]),
+                    amount=float(decision["amount"]),
+                    value=float(decision["value"])
+                )
+                price_percent_delta = decision_summary.get_percent_delta(current_price)
                 if price_percent_delta > self.asset_config.sell_price_percentage_change_threshold:
-                    to_sell.append(decision)
+                    to_sell.append(decision_summary)
                     decision_id = decision["uuid"]
                     self.logger.info(f"🚀 Placing sell order for {decision_id}")
                 if price_percent_delta > best_match_price_percent_delta:
                     best_match = decision
                     best_match_price_percent_delta = price_percent_delta
-                    best_match_hypothetical_profit = (decision_amount * current_price) - decision_value
+                    best_match_hypothetical_profit = (decision_summary.amount * current_price) - decision_summary.value
 
             if len(to_sell) == 0:
                 best_match_id = best_match["uuid"]
@@ -216,9 +219,8 @@ class DecisionMaker():
                     self.save_decisions_to_db([decision])
             else:
                 self.logger.info(f"found {len(to_sell)} open buy orders to sell")
-                sell_decision = self.place_sell_order(context, to_sell)
-                if sell_decision.is_successful:
-                    self.close_open_buy_decisions(to_sell, sell_decision.uuid(), current_price)
+                sell_decision = self.initiate_strategy(DecisionType.SELL, to_sell)
+                if sell_decision is not None:
                     decisions.append(sell_decision)
 
         if len(decisions) == 0:
@@ -257,7 +259,7 @@ class DecisionMaker():
         time_delta = now - last_decision_timestamp
         return time_delta.total_seconds() > BUY_BUFFER
 
-    def find_bottom_of_dip_and_buy(self) -> float:
+    def initiate_strategy(self, type: DecisionType, orders_to_sell: [BuyDecisionSummary] = []) -> float:
         watch_dog_start = datetime.utcnow()
         self.logger.info("🔍 Potential buy option found, finding the bottom of the dip")
         last_candle_check = datetime.utcnow() - timedelta(minutes=10)
@@ -275,26 +277,23 @@ class DecisionMaker():
             if len(candles) == 0:
                 self.logger.warn("no candles found, bailing on buy decision")
                 return None
-            green_count = 0
-            for candle in candles:
-                candle_time = datetime.utcfromtimestamp(int(candle['start']))
-                candle_date = candle_time.strftime("%Y-%m-%d %H:%M:%S")
-                is_green = candle["close"] > candle["open"]
-                if is_green:
-                    self.logger.info(f"found green candle at {candle_date}")
-                    green_count += 1
-                else:
-                    break
-            self.logger.info(f"found {green_count} green candles in a row")
-            if green_count >= MIN_GREEN_CANDLES_FOR_RECOVERY:
-                self.logger.info("recovery detected, placing buy order")
-                # check that the price is still below the threshold
-                # do this buy getting the context agani
-                context = self.get_decision_context()
-                if context.should_buy():
-                    return self.place_buy_order(context)
-                self.logger.warning("context has changed and no longer meets buy criterea, bailing on buy decision")
-                return None
+            if type == DecisionType.BUY:
+                if self.asset_config.buy_strategy.should_buy(self.logger, candles):
+                    context = self.get_decision_context()
+                    if context.should_buy():
+                        return self.place_buy_order(context)
+                    self.logger.warning("context has changed and no longer meets buy criterea, bailing on buy decision")
+                    return None
+            elif type == DecisionType.SELL:
+                if self.asset_config.sell_strategy.should_sell(self.logger, candles):
+                    context = self.get_decision_context()
+                    if context.should_sell():
+                        return self.place_sell_order(context, orders_to_sell)
+                    self.logger.warning("context has changed and no longer meets sell criterea, bailing on sell decision")
+                    return None
+            else:
+                raise Exception("invalid decision type when implementing strategy")
+            self.logger.info("strategy has not been met, continuing to monitor...")
             time.sleep(THREAD_SLEEP_TIME)
         if not self.running:
             self.logger.warning("recieved stop signal, bailing on buy decision")
@@ -358,13 +357,21 @@ class DecisionMaker():
         )
         return decision
 
-    def place_sell_order(self, context: DecisionContext, buy_decsions_to_sell: [any]) -> Decision:
+    def place_sell_order(self, context: DecisionContext, orders_to_sell: [BuyDecisionSummary]) -> Decision:
         self.logger.info(f"🚀 Placing SELL order for {self.asset_config.symbol}")
         amount_to_sell = float(0)
         value_at_purchase = float(0)
-        for decision in buy_decsions_to_sell:
-            amount_to_sell += float(decision["amount"])
-            value_at_purchase += float(decision["value"])
+
+        valid_orders_to_sell: [BuyDecisionSummary] = []
+        for decision in orders_to_sell:
+            if decision.get_percent_delta() >= self.asset_config.sell_price_percentage_change_threshold:
+                valid_orders_to_sell.append(decision)
+            else:
+                self.logger.info(f"skipping sell order for {decision.uuid} because it no longer meets the sell threshold")
+
+        for decision in valid_orders_to_sell:
+            amount_to_sell += decision.amount
+            value_at_purchase += decision.value
 
         amount_as_string = "f{amount_to_sell:.4f}"
         self.logger.info(f"selling {amount_as_string} {self.asset_config.symbol}")
@@ -416,13 +423,15 @@ class DecisionMaker():
             buy_value=value_at_purchase,
             profit_usd=profit,
             protit_asset_amount=profit / float(context.price),
-            linked_buy_decisions=[decision["uuid"] for decision in buy_decsions_to_sell],
+            linked_buy_decisions=[decision.uuid for decision in valid_orders_to_sell],
             preview_result=preview_order,
             trade_result=real_order,
             actualualized=actualualized,
             is_successful=successful,
             errors=errors
         )
+        if successful:
+            self.close_open_buy_decisions(valid_orders_to_sell, decision.uuid(), context.price)
         return decision
 
     def save_decisions_to_db(self, decisions: [Decision]):
@@ -453,21 +462,41 @@ def parse_config(cb_accounts) -> [Asset]:
         data = json.load(file)
     print("lodaded config ➡️ ", json.dumps(data))
     assets = []
-    for asset in data["assets"]:
+    for asset_config in data["assets"]:
         account = next((account for account in cb_accounts if account["currency"] == asset["symbol"]), None)
         if account is None:
             raise Exception(f"❌ could not find account for {asset['symbol']}")
-        asset = Asset(
-            name=asset["name"],
-            symbol=asset["symbol"],
-            account_id=account["uuid"],
-            amount_to_buy=float(asset["buy_amount_usd"]),
-            buy_price_percentage_change_threshold=float(asset["buy_threshold"]),
-            sell_price_percentage_change_threshold=float(asset["sell_threshold"]),
-            max_open_buys=float(asset["max_open_buys"])
-        )
-        assets.append(asset)
-        print(f"sucessfully loaded asset config {asset.name} (${asset.symbol})")
+        if asset_config.get("buy_strategy", {}).get("type") == "BUY_THE_DIP":
+            buy_strategy = BuyTheDipStrategy(
+                asset_config["buy_strategy"]["BUY_THE_DIP"]["candle_size"],
+                asset_config["buy_strategy"]["BUY_THE_DIP"]["green_candles_in_a_row"]
+            )
+        else:
+            buy_strategy = BuyTheDipStrategy(
+                candle_size="ONE_HOUR",
+                green_candles_in_a_row=1
+            )
+        if asset_config.get("sell_strategy", {}).get("type") == "MAXIMIZE_PROFIT":
+            sell_strategy = MaximizeProfitSellStrategy(
+                asset_config["sell_strategy"]["MAXIMIZE_PROFIT"]["candle_size"],
+                asset_config["sell_strategy"]["MAXIMIZE_PROFIT"]["red_candles_in_a_row"]
+            )
+
+        else:
+            sell_strategy = ImmediateSellStrategy()
+    asset = Asset(
+        name=asset_config["name"],
+        symbol=asset_config["symbol"],
+        account_id=account["uuid"],
+        amount_to_buy=float(asset_config["buy_amount_usd"]),
+        buy_price_percentage_change_threshold=float(asset_config["buy_threshold"]),
+        sell_price_percentage_change_threshold=float(asset_config["sell_threshold"]),
+        max_open_buys=float(asset_config["max_open_buys"]),
+        buy_strategy=buy_strategy,
+        sell_strategy=sell_strategy
+    )
+    assets.append(asset)
+    print(f"sucessfully loaded asset config {asset.name} (${asset.symbol})")
     return assets
 
 
@@ -534,6 +563,14 @@ def main():
 
     cb_client = RESTClient(api_key=API_KEY, api_secret=API_SECRET)
     mongo_client = MongoClient(MONGO_URI)
+
+    # now = datetime.utcnow()
+    # yesterday = now - timedelta(days=1)
+    # start = f"{int(yesterday.timestamp())}"
+    # end = f"{int(now.timestamp())}"
+    # candles = cb_client.get_candles("BTC-USD", start=start, end=end, granularity="ONE_HOUR")
+    # print("candles ➡️ ", json.dumps(candles, indent=4))
+    # return
 
     cb_accounts = get_cb_accounts(cb_client)
     cash_account = next((account for account in cb_accounts if account["currency"] == USD_SYMBOL), None)
