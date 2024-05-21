@@ -366,7 +366,7 @@ class DecisionMaker():
             amount_to_sell += float(decision["amount"])
             value_at_purchase += float(decision["value"])
 
-        amount_as_string = "f{amount_to_sell:.4f}"
+        amount_as_string = f"{amount_to_sell:.4f}"
         self.logger.info(f"selling {amount_as_string} {self.asset_config.symbol}")
         successful = True
         errors = []
